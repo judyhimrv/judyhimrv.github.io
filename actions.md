@@ -1,11 +1,11 @@
 ---
-title: IMRV 2024 Strategy
+title: Take Action
 position: 0
 main-image: 
 layout: actions
 ---
 
-Help win North Carolina's 16 electoral votes!
+2024 Strategy - Help win North Carolina's 16 electoral votes!
 
 Work with Mecklenburg County, North Carolina, to increase voter turnout by 80,000 votes.  Mecklenburg's turnout levels can decide statewide races, and concurrently, the national presidential race.
 
