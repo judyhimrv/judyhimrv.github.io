@@ -1,8 +1,6 @@
 ---
 title: IMRV 2024 Strategy
 date: 2024-02-06 19:11:00 -05:00
-categories:
-- event
 tags:
 - call now
 - confirmation hearing
