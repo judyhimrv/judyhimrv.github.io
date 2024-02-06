@@ -6,7 +6,7 @@ categories:
 tags:
 - call now
 - confirmation hearing
-is featured: true
+is featured: false
 main-image: "/uploads/mecklenburgphotodrew.png"
 call-script-text: " \n\n"
 event-start-date: 2024-02-06 00:00:00 -05:00
