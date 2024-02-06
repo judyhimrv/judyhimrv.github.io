@@ -7,7 +7,7 @@ tags:
 - call now
 - confirmation hearing
 is featured: true
-call-script-text: " \n\n"
+call-script-text: " \n...\n"
 ---
 
 Help win North Carolina's 16 electoral votes!
