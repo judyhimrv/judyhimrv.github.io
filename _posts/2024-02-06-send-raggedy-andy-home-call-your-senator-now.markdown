@@ -8,7 +8,9 @@ tags:
 - confirmation hearing
 is featured: true
 main-image: "/uploads/mecklenburgphotodrew.png"
-call-script-text: " \n...\n"
+call-script-text: " \n\n"
+event-start-date: 2024-02-06 00:00:00 -05:00
+event-end-date: 2024-11-12 00:00:00 -05:00
 ---
 
 Help win North Carolina's 16 electoral votes!
