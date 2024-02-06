@@ -7,6 +7,7 @@ tags:
 - call now
 - confirmation hearing
 is featured: true
+main-image: "/uploads/mecklenburgphotodrew.png"
 call-script-text: " \n...\n"
 ---
 
