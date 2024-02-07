@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - town hall
+is featured: true
 main-image: "/uploads/16903207_263328324121850_6421341397699164399_o.jpg"
 event-start-date: 2017-02-28 05:00:00 -05:00
 event-end-date: 2017-02-28 10:00:00 -05:00
