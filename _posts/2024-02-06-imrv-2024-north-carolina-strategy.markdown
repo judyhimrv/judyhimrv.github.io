@@ -1,5 +1,5 @@
 ---
-title: IMRV 2024 North Carolina Strategy
+title: North Carolina Get Out the Vote Project
 date: 2024-02-06 15:36:00 -05:00
 is featured: true
 main-image: "/uploads/mecklenburgphotodrew-6f9296.png"
