@@ -6,3 +6,4 @@ main-image: 'https://www.youtube.com/watch?v=05OAe829_yo&t=5s '
 layout: media-item
 ---
 
+[Follow us](https://www.youtube.com/watch?v=05OAe829_yo&t=5s) on the parade route.
