@@ -1,8 +1,8 @@
 ---
-title: Indivisible SF Meets Sen. Feinstein Staff!
+title: IMRV in Warren Fourth of July Parade
 date: 2017-02-07 21:32:00 -05:00
-published: false
-main-image: "/uploads/16473226_255006311620718_3429484230138453138_n.jpg"
+is featured: true
 layout: media-item
 ---
 
+https://www.youtube.com/watch?v=05OAe829_yo&t=5s 
