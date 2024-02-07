@@ -9,5 +9,3 @@ layout: media-item
 
 Happy New Year!
 Our first action in 2023 made sure we wouldn't forget January 6th - the insurrection!
-
-STAND UP AND STAND OUT FOR DEMOCRACY!
