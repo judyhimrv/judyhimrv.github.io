@@ -2,6 +2,7 @@
 title: IMRV in Warren Fourth of July Parade
 date: 2024-02-07 21:32:00 -05:00
 is featured: true
+main-image: https://www.youtube.com/embed/05OAe829_yo
 layout: media-item
 ---
 
