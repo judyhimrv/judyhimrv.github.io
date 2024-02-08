@@ -1,5 +1,5 @@
 ---
-title: STAND UP AND STAND OUT FOR DEMOCRACY!
+title: Stand Up and Stand Out For Democracy!
 date: 2024-02-07 16:25:00 -05:00
 tags:
 - standupfordemocracy
