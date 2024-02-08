@@ -8,5 +8,6 @@ layout: media-item
 
 [Follow us on the parade route.](https://www.youtube.com/embed/05OAe829_yo)
 
+Follow us on the parade route.
 
 <iframe width="857" height="482" src="https://www.youtube.com/embed/05OAe829_yo" title="Warren July 4th Parade Vermont 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
