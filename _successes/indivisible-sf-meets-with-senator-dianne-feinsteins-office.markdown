@@ -1,6 +1,8 @@
 ---
 title: STAND UP AND STAND OUT FOR DEMOCRACY!
-date: 2017-02-06 16:25:00 -05:00
+date: 2024-02-07 16:25:00 -05:00
+tags:
+- standupfordemocracy
 is featured: true
 main-image: "/uploads/rte100postersrally.jpeg"
 layout: media-item
