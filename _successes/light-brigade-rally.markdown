@@ -4,8 +4,8 @@ date: 2024-02-06 16:19:00 -05:00
 categories:
 - rally
 tags:
-- trugh
 - light brigade
+- truth
 is featured: true
 main-image: "/uploads/truthmattersphoto-f4f0ad.jpeg"
 ---
