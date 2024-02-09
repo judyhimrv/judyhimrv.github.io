@@ -6,8 +6,10 @@ categories:
 is featured: true
 ---
 
-# First Thursday of every month
+* # First Thursday of every month
 
-# Waitsfield Town Office - upstairs
 
-# 4:30 pm - 6:00 pm
+* # Waitsfield Town Office - upstairs
+
+
+* # 4:30 pm - 6:00 pm
