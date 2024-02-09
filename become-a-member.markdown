@@ -2,17 +2,17 @@
 title: Become A Member
 date: 2024-02-09 22:58:00 -05:00
 position: 5
-mailchimp-form-embed: 'JOIN US -------->
+mailchimp-form-embed: 'JOIN US  >>>>>>
 
 '
 layout: becomeAMember
 ---
 
-Cutting to the chase - the time is now!  `You too can  answer this call. `
+Cutting to the chase - the time is now! You too can answer this call.
 
 ### [`JOIN US`](http://eepurl.com/hc5swz)
 
-`So, let's get to it.  Find your passion in one of the IMRV committee paths to a Biden White House in 2025.`
+So, let's get to it.  Find your passion in one of the IMRV committee paths to a Biden White House in 2025.`
 
 * North Carolina Turn Out the Vote Project
 
