@@ -2,7 +2,7 @@
 title: Become A Member
 date: 2024-02-09 22:58:00 -05:00
 position: 5
-mailchimp-form-embed: 'https://eepurl.com/hc5swz '
+mailchimp-form-embed: 
 layout: becomeAMember
 ---
 
