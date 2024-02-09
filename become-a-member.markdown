@@ -6,7 +6,7 @@ mailchimp-form-embed: 'http://eepurl.com/hc5swz '
 layout: becomeAMember
 ---
 
-Cutting to the chase - the time is now!
+http://eepurl.com/hc5swz Cutting to the chase - the time is now!
 
 You too can answer this call.  So, let's get to it.  Find your passion in one of the IMRV committee paths to a Biden White House in 2025.
 
