@@ -1,12 +1,9 @@
 ---
 title: America Runs on Biden
 date: 2024-02-09 11:36:00 -05:00
-main-image: "/uploads/Grange%20flyer%20FINAL.png"
 event-start-date: 2024-02-14 16:00:00 -05:00
 event-end-date: 2024-02-14 19:00:00 -05:00
 Location: Waterbury Grange Hall Cultural Center
 ---
 
-# Join us
-
-February 14, 4  pm - 7 pm
+# ![Grange flyer FINAL.png](/uploads/Grange%20flyer%20FINAL.png)
