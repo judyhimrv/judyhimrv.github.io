@@ -38,4 +38,6 @@ So, let's get to it.  Find your passion in one of the IMRV committee paths to a 
 
 * Rallies and Marches
 
+### [`JOIN US`](http://eepurl.com/hc5swz)
+
 **All are welcome.**
