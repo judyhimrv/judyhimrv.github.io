@@ -6,7 +6,7 @@ categories:
 tags:
 - light brigade
 - truth
-is featured: true
+is featured: false
 main-image: "/uploads/truthmattersphoto-f4f0ad.jpeg"
 ---
 
