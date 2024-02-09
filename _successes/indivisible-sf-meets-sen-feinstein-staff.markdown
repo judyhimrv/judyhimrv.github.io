@@ -5,7 +5,7 @@ categories:
 - parade
 tags:
 - warren4thparade
-is featured: true
+is featured: false
 main-image: "/uploads/warrenparade.jpeg"
 layout: media-item
 ---
