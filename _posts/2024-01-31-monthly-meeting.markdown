@@ -5,5 +5,7 @@ is featured: true
 ---
 
 ## First Thursday of the month
+
 ## 4:30 - 6:00 pm
+
 ## Waitsfield Town Office - upstairs
