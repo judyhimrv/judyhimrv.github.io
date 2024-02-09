@@ -9,16 +9,24 @@ Help win North Carolina's 16 electoral votes!
 
 Inspired by our Zoom call with Drew Kromer, Democratic Party Chair of Mecklenburg County, North Carolina, IMRV will work to increase voter turnout in the county by 80,000 votes.  Mecklenburg's turnout levels can decide statewide races, and concurrently, the national presidential race.
 
-Help Build Capacity
+### Help Build Capacity
+
 * Recruit Volunteers
+
 * Raise Money
 
-Generate Energy and Excitement around Elections
+### Generate Energy and Excitement around Elections
+
 * Social Media Campaigns
+
 * Talking to Voters
 
-Get Out the Vote
+### Get Out the Vote
+
 * Help people know which candidates to vote for
+
 * Provide information on voting locations, times, early voting
+
 * Highlight the Importance and Value of Voting
+
 * Emphasize how voting can and will impact the voter's life
