@@ -8,9 +8,11 @@ mailchimp-form-embed: 'JOIN US -------->
 layout: becomeAMember
 ---
 
-Cutting to the chase - the time is now!
+Cutting to the chase - the time is now!  `You too can  answer this call. `
 
-### You too can  answer this call and [ JOIN US](http://eepurl.com/hc5swz).  So, let's get to it.  Find your passion in one of the IMRV committee paths to a Biden White House in 2025.
+### [`JOIN US`](http://eepurl.com/hc5swz)
+
+`So, let's get to it.  Find your passion in one of the IMRV committee paths to a Biden White House in 2025.`
 
 * North Carolina Turn Out the Vote Project
 
