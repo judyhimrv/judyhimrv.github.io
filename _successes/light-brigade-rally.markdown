@@ -10,4 +10,4 @@ is featured: true
 main-image: "/uploads/truthmattersphoto-f4f0ad.jpeg"
 ---
 
-November 3, 2022, IMRV members hold lighted signs at roadside rally on Route 2 in Middlesex VT, around the event of January 6.
+IMRV members hold lighted signs at roadside rally on Route 2 in Middlesex VT, around the event of January 6.
