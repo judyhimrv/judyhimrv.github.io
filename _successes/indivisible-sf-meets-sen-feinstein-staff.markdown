@@ -6,7 +6,7 @@ categories:
 tags:
 - warren4thparade
 is featured: true
-main-image: https://www.youtube.com/embed/05OAe829_yo
+main-image: "/uploads/warrenparade.jpeg"
 layout: media-item
 ---
 
