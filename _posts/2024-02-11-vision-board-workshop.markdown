@@ -7,7 +7,7 @@ Location: Waitsfield United Church - downstairs
 RSVP-link: indivisiblemrv@gmail.com
 ---
 
-**> We work from a place of authenticity, strength and resilience in 2024
+**> *We work from a place of authenticity, strength and resilience in 2024*
 ~ Susan Hoyt**
 
 
