@@ -1,6 +1,10 @@
 ---
 title: Vision  Board Workshop
 date: 2024-02-11 16:13:00 -05:00
+categories:
+- resilience
+tags:
+- peace strength
 event-start-date: 2024-02-24 11:00:00 -05:00
 event-end-date: 2024-02-24 15:00:00 -05:00
 Location: Waitsfield United Church - downstairs
