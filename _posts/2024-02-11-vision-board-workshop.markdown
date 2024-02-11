@@ -10,8 +10,10 @@ event-end-date: 2024-02-24 15:00:00 -05:00
 Location: Waitsfield United Church - downstairs
 ---
 
-**> *We work from a place of authenticity, strength and resilience in 2024*
+* **> *We work from a place of authenticity, strength and resilience in 2024*****
 ~ Susan Hoyt**
+
+
 
 
 ### What Supports Your Peace & Strength
