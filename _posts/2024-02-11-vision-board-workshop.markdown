@@ -8,7 +8,6 @@ tags:
 event-start-date: 2024-02-24 11:00:00 -05:00
 event-end-date: 2024-02-24 15:00:00 -05:00
 Location: Waitsfield United Church - downstairs
-RSVP-link: indivisiblemrv@gmail.com
 ---
 
 **> *We work from a place of authenticity, strength and resilience in 2024*
