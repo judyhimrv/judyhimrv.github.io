@@ -16,7 +16,7 @@ Location: Waitsfield United Church - downstairs
 
 
 
-### What Supports Your Peace & Strength
+### What Supports Your Peace and Strength?
 
 We will each take this time to enjoy creating our own, very personal vision board made of images ~ possibly also adding words or quotes & tiny objects ~ that represent what awakens and feeds our peace, balance, stability & flexibility, ease, calm, sense of meaning, joy, fortitude & replenishment. 
 
