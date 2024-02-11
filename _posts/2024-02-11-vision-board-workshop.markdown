@@ -7,6 +7,10 @@ Location: Waitsfield United Church - downstairs
 RSVP-link: indivisiblemrv@gmail.com
 ---
 
+**> We work from a place of authenticity, strength and resilience in 2024
+~ Susan Hoyt**
+
+
 ### What Supports Your Peace & Strength
 
 We will each take this time to enjoy creating our own, very personal vision board made of images ~ possibly also adding words or quotes & tiny objects ~ that represent what awakens and feeds our peace, balance, stability & flexibility, ease, calm, sense of meaning, joy, fortitude & replenishment. 
@@ -15,8 +19,7 @@ The goal is that each of us will leave with our own composite symbol that, at a 
 
 We look forward to getting together to do some creating.
 
-**> We work from a place of authenticity, strength and resilience in 2024
-~ Susan Hoyt**
+
 
 PROVIDED for YOU by IMRV:
 
