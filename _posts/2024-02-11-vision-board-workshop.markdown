@@ -21,6 +21,8 @@ The goal is that each of us will leave with our own composite symbol that, at a 
 
 We look forward to getting together to do some creating.
 
+**[SIGN UP](indivisiblemrv@gmail.com)** for Vision Board Workshop
+
 PROVIDED for YOU by IMRV:
 
 A 20” x 30” sturdy foam board, markers, and glue sticks.
