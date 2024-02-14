@@ -22,3 +22,5 @@ We also want to help attendees get more involved in the movement so we’re invi
 We’re still lining up the details, but we are in talks with some speakers we think you’ll be pretty pleased with.
 
 Please note that an RSVP does not constitute a reservation. We’ll let you know when the event details are finalized and (free) tickets become available.
+
+<li class="nav-item"><a class="nav-link" href="mailto:indivisiblemrv@gmail.com">Contact</a></li>
