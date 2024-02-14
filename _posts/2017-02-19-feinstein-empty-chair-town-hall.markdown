@@ -1,6 +1,7 @@
 ---
 title: Feinstein Empty Chair Town Hall
 date: 2017-02-19 22:11:00 -05:00
+published: false
 categories:
 - event
 tags:
@@ -22,4 +23,3 @@ We’re still lining up the details, but we are in talks with some speakers we t
 
 Please note that an RSVP does not constitute a reservation. We’ll let you know when the event details are finalized and (free) tickets become available.
 
-<li class="nav-item"><a class="nav-link" href="mailto:indivisiblemrv@gmail.com">Contact</a></li>
