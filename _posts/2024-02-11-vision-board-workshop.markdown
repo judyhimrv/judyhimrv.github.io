@@ -21,8 +21,6 @@ The goal is that each of us will leave with our own composite symbol that, at a 
 
 We look forward to getting together to do some creating.
 
-**SIGN UP** for Vision Board Workshop at **indivisiblemrv@gmail.com**.
-
 <a class="nav-link" href="mailto:indivisiblemrv@gmail.com">SIGN UP</a>
 
 PROVIDED for YOU by IMRV:
