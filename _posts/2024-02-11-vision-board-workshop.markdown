@@ -23,6 +23,8 @@ We look forward to getting together to do some creating.
 
 **SIGN UP** for Vision Board Workshop at **indivisiblemrv@gmail.com**.
 
+<li class="nav-item"><a class="nav-link" href="mailto:indivisiblemrv@gmail.com">Contact</a></li>
+
 PROVIDED for YOU by IMRV:
 
 A 20” x 30” sturdy foam board, markers, and glue sticks.
