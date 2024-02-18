@@ -1,12 +1,12 @@
 ---
 title: Flip Meck County NC, Win the White House!
 date: 2024-02-17 12:54:00 -05:00
-published: false
 categories:
 - action
 tags:
 - mecklenberg
 is featured: true
+main-image: NCmap.png
 ---
 
 Inspired by our Zoom call with Drew Kromer, Democratic Party Chair of Mecklenburg County, North Carolina, IMRV will work to increase voter turnout in the county by 80,000 votes. Mecklenburg’s turnout levels can decide statewide races, and concurrently, the national presidential race.
