@@ -6,7 +6,7 @@ categories:
 tags:
 - mecklenberg
 is featured: true
-main-image: "/uploads/NCmap-9e1e8f.png"
+main-image: "/uploads/smallNCmap.png"
 ---
 
 ### It's time for your participation to make that happen...
