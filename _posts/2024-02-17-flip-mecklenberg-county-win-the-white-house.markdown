@@ -1,13 +1,12 @@
 ---
 title: Flip Mecklenberg County NC, Win the White House!
 date: 2024-02-17 12:54:00 -05:00
-published: false
 categories:
 - action
 tags:
 - mecklenberg
 is featured: true
-main-image: NCmap.png
+main-image: "/uploads/NCmap-9e1e8f.png"
 ---
 
 ## It's time for your participation to make that happen...
