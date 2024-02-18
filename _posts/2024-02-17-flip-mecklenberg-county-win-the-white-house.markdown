@@ -15,9 +15,9 @@ IMRV is joining a national $500,000 fundraising event as a co-sponsor with Lean 
  
 Our **IMRV goal is $2000** towards the Lean Left $25,000 goal, **with two weeks left** to meet that early money goal.
 
-This early money will ramp up field staff who can reach potential voters now instead of five months down the road. They will register them; they will make sure these voters have the information they need to cast their ballots; they will turn them out to vote. **This will be a statewide game-changer come November. **
+This early money will ramp up field staff who can reach potential voters now instead of five months down the road. They will register them; they will make sure these voters have the information they need to cast their ballots; they will turn them out to vote. **This will be a statewide game-changer come November.**
 
 ### * Two weeks left to meet our $2,000 goal
 ### * Dig deep to save our democracy!
 
-### It's up to us! ### [DONATE TODAY](https://secure.actblue.com/donate/nc-voter-reg?refcode=imrv) 
+### [DONATE TODAY](https://secure.actblue.com/donate/nc-voter-reg?refcode=imrv) 
