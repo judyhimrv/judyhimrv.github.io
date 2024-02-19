@@ -5,7 +5,7 @@ categories:
 - resilience
 tags:
 - peace strength
-main-image: "/uploads/visionboard.jpeg"
+main-image: "/uploads/visionboard2.jpeg"
 event-start-date: 2024-02-24 11:00:00 -05:00
 event-end-date: 2024-02-24 15:00:00 -05:00
 Location: Waitsfield United Church - downstairs
