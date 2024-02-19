@@ -1,5 +1,5 @@
 ---
-title: Vision  Board Workshop
+title: Vision  Board Workshop February 24th
 date: 2024-02-11 16:13:00 -05:00
 categories:
 - resilience
