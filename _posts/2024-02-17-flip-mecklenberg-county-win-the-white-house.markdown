@@ -21,4 +21,4 @@ This early money will ramp up field staff who can reach potential voters now ins
 
 ### * Flip Meck County, win the White House
 
-### * [DONATE TODAY](https://secure.actblue.com/donate/nc-voter-reg?refcode=imrv) 
+### [`DONATE TODAY`](https://secure.actblue.com/donate/nc-voter-reg?refcode=imrv) 
