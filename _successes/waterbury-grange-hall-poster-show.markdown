@@ -9,7 +9,7 @@ is featured: true
 main-image: "/uploads/moregroup.jpg"
 ---
 
-### America Runs on Biden ### textile poster show at the Waterbury Grange Hall on February 14, 2024 was a great success!
+**America Runs on Biden** textile poster show at the Waterbury Grange Hall on February 14, 2024 was a great success!
 
 
 
