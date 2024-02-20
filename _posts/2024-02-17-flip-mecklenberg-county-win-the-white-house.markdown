@@ -19,6 +19,6 @@ This early money will ramp up field staff who can reach potential voters now ins
 
  * **TWO WEEKS LEFT TO MEET OUR $2,000 GOAL**
 
- * **GOTV IN MECK COUNTY, REACH UNREGISTERED VOTERS **
+ * **GOTV IN MECK COUNTY, REACH UNREGISTERED VOTERS**
 
 ## [`DONATE TODAY`](https://secure.actblue.com/donate/nc-voter-reg?refcode=imrv) 
