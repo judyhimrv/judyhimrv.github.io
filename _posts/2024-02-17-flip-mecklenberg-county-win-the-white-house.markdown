@@ -1,5 +1,6 @@
 ---
-title: Flip Mecklenberg County NC, Win the White House!
+title: Get out the vote in Mecklenberg County NC, Reach young voters and voters of
+  color!
 date: 2024-02-17 12:54:00 -05:00
 categories:
 - action
