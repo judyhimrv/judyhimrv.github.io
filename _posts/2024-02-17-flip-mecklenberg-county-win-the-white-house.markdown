@@ -1,6 +1,5 @@
 ---
-title: Get out the vote in Mecklenberg County NC, Reach young voters and voters of
-  color!
+title: Get out the vote in Mecklenberg County NC, Reach unregistered voters!
 date: 2024-02-17 12:54:00 -05:00
 categories:
 - action
@@ -20,6 +19,6 @@ This early money will ramp up field staff who can reach potential voters now ins
 
  * **TWO WEEKS LEFT TO MEET OUR $2,000 GOAL**
 
- * **FLIP MECK COUNTY, WIN THE WHITE HOUSE**
+ * **GET OUT THE VOTE IN MECK COUNTY, REACH UNREGISTERED VOTERS **
 
 ## [`DONATE TODAY`](https://secure.actblue.com/donate/nc-voter-reg?refcode=imrv) 
