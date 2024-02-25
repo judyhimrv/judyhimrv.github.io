@@ -15,9 +15,9 @@ If you’re interested in learning about the skills needed to have difficult con
 
 In polarized times:
 
-Learn to disagree better 
-See where we differ
-See where we share common ground
+* Learn to disagree better 
+* See where we differ
+* See where we share common ground
 
 
 [REGISTER HERE](https://www.eventbrite.com/e/skills-for-disagreeing-better-vt-state-registration-842113904357?aff=oddtdtcreator)
