@@ -12,7 +12,7 @@ Location: Harwood Union, 458 Vermont Route 100, Moretown, VT 05660
 ---
 
 
-If you’re interested in learning about the skills needed to have difficult conversations across the divide, or you want to actually speak to and connect with those with whom you disagree, join the **Braver Angels Workshop** taking place in Moretown on April 6! 
+If you’re interested in learning about the skills needed to have difficult conversations across the divide, or you want to actually speak to and connect with those with whom you disagree, join the **Braver Angels Workshop** taking place at Harwood Union on April 6! 
 
 In polarized times:
 
