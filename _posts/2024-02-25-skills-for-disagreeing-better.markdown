@@ -6,30 +6,18 @@ categories:
 - event
 tags:
 - skills
+is featured: false
+event-start-date: 2024-04-06 09:00:00 -04:00
+Location: 458 Vermont Route 100, Moretown, VT 05660
+RSVP-link: "(https://www.eventbrite.com/e/skills-for-disagreeing-better-vt-state-registration-842113904357?aff=oddtdtcreator)"
 ---
 
-3:40
-If I’m going to grab it from the newsletter, give me a heads up for when to expect it.
-:heavy_check_mark:
-1
 
+If you’re interested in learning about the skills needed to have difficult conversations across the divide, or you want to actually speak to and connect with those with whom you disagree, join the Braver Angels Workshop taking place in Moretown on April 6! 
+ 
 
+[REGISTER HERE](https://www.eventbrite.com/e/skills-for-disagreeing-better-vt-state-registration-842113904357?aff=oddtdtcreator)
 
-Judy Hourihan
-  4:18 PM
-Are we affiliated with All in for North Carolina?  Is it their event that we do want to do honebanking for on Sundays?
-
-1 reply
-5 days agoView thread
-New
-
-
-Tisa
-  11:04 AM
-@Judy Hourihan
- Here is the Registration Link for the Braver Angels Workshop taking place on April 6! 
-https://www.eventbrite.com/e/skills-for-disagreeing-better-vt-state-registration-842113904357?aff=oddtdtcreator
-EventbriteEventbrite
 Skills for Disagreeing Better (VT - State)
 Seeing where we differ and where we share common ground (6 kB)
 Where
