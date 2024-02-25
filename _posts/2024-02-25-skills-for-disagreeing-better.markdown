@@ -7,7 +7,7 @@ tags:
 - skills
 is featured: false
 event-start-date: 2024-04-06 09:00:00 -04:00
-Location: 458 Vermont Route 100, Moretown, VT 05660
+Location: Harwood Union, 458 Vermont Route 100, Moretown, VT 05660
 ---
 
 
