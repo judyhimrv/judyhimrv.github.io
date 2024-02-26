@@ -5,7 +5,7 @@ categories:
 - success
 tags:
 - textile posters
-is featured: true
+is featured: false
 main-image: "/uploads/moregroup.jpg"
 ---
 
