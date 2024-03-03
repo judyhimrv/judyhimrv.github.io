@@ -2,10 +2,10 @@
 title: Waterbury Grange Hall Poster Show
 date: 2024-02-19 16:51:00 -05:00
 categories:
-- success
+- poster show
 tags:
 - textile posters
-is featured: true
+is featured: false
 main-image: "/uploads/moregroup.jpg"
 ---
 
