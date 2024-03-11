@@ -12,4 +12,5 @@ main-image: "/uploads/vb1.jpeg"
 
 To answer that question, IMRV members gathered to create individual vision boards made of images, words, quotes and objects representing what is meaningful and inspirational to us in our daily lives.   At a glance, they show and orient us towards balance, uplift & possibility. This is one of the ways we can each feed our own resilience and good health in 2024.
 
-If you missed this Vision Board Workshop, let us know if you would like to join another in the future.
+If you missed this Vision Board Workshop, <a class="nav-link" href="mailto:indivisiblemrv@gmail.com">let us know</a> if you would like to join another in the future.
+
