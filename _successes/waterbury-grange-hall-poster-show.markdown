@@ -5,7 +5,7 @@ categories:
 - poster show
 tags:
 - textile posters
-is featured: false
+is featured: true
 main-image: "/uploads/moregroup.jpg"
 ---
 
