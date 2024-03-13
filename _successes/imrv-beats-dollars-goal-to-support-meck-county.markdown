@@ -11,7 +11,7 @@ main-image: "/uploads/smallNCmap.png"
 ---
 
 
-**When we set a goal - we demolish it! IMRV raised 17% of the Team goal and 14% of the Vermont goal! **
+**When we set a goal - we demolish it! IMRV raised 17% of the Team goal and 14% of the Vermont goal!**
   
 * IMRV raised $4,015, twice our $2000 goal 
 * Lean Left NC Team raised $22,550, surpassing $20,000 goal    
