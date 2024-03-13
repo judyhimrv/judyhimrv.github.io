@@ -1,7 +1,7 @@
 ---
 title: Vision Board Workshop
 date: 2024-03-08 12:57:00 -05:00
-is featured: true
+is featured: false
 main-image: "/uploads/vb1.jpeg"
 ---
 
