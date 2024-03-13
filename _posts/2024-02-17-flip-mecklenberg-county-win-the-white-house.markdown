@@ -1,6 +1,7 @@
 ---
 title: GOTV in Meck County NC, Reach unregistered voters!
 date: 2024-02-17 12:54:00 -05:00
+published: false
 categories:
 - action
 tags:
