@@ -18,4 +18,6 @@ Our very own Susan H. reached out to [Robert Hubble](https://roberthubbell.subst
 > *Absolutely fabulous!  
 Susan, those are phenomenal pieces of art and political literature combined!*
 ~ Robert Hubbell
+
+See [local press coverage of the show](https://www.waterburyroundabout.org/community-archive/uh4wnfzw6pnmtq9h17zzy6v2x0t9ln)!
  
