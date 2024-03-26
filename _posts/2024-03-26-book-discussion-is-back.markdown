@@ -17,11 +17,11 @@ We are coming together on May 9th, 5-7 pm at the Moretown Library to discuss the
 It helps us see how to bring more people over to the progressive side without watering down what we are working for, or sliding to the center.   Giridharadas makes the case for creating more on-ramps into the work by focusing on common goals. He provides guidance on finding a way to heal and change our fracturing country.This is a bring your own book event.  The paperback version is widely available to order and costs about $18 depending on where you get it.
 
 Some suggestions are :
-Bridgeside Books in Waterbury (can order it, takes about a week)
-[Barnes and Noble](https://www.barnesandnoble.com/)
-[Better World Books](https://www.betterworldbooks.com/)
-[Amazon](https://www.amazon.com/)
-Your Library, through Interlibrary loan. Tag a buddy and share a book if you like!
+* Bridgeside Books in Waterbury (can order it, takes about a week)
+* [Barnes and Noble](https://www.barnesandnoble.com/)
+* [Better World Books](https://www.betterworldbooks.com/)
+* [Amazon](https://www.amazon.com/)
+* Your Library, through Interlibrary loan. Tag a buddy and share a book if you like!
 
 IMPORTANT NOTE: Make sure you buy the right book!
 There are a few other books with the same title.
