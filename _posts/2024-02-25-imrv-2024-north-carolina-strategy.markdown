@@ -9,7 +9,10 @@ Update on our work with Mecklenburg County and Drew Kromer:
 
 We received the nicest thank you letter from Drew Kromer, Chair of the Mecklenburg County Dem Party. Remember him from our kickoff event in January? His picture's above and he's SO grateful for all the money we raised! 
 
-/uploads/drewthankyouletter.jpeg
+   <div class="clearfix spacer-sm hidden-xs-down"></div>
+      <div class="bg-medium main-img-wrap clearfix">
+        <div class="header-image" style="background-image: url('/uploads/drewthankyouletter.jpeg')"></div>
+      </div>
 
 Help win North Carolina's 16 electoral votes!
 
