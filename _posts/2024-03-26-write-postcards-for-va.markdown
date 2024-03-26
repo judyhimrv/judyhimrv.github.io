@@ -7,9 +7,9 @@ main-image: "/uploads/votepostcards.jpeg"
 
 We have postcards for VA we need folks to write. 
 
-This from our Postcard Captain Sybil: 
+From our Postcard Captain Sybil: 
 
-Attention all postcarders: Virginia needs you!
+### Attention all postcarders: Virginia needs you!
 Sign up for bundles of 30 postcards to go in the mail between April 26-June 3.  Pick up your supplies at the April 4 Indivisibles meeting in Waitsfield.  You are all the best!!!!
 
 Please drop Sybil a line with how many you can do by emailing her <a class="nav-link" href="mailto:sybil.sch@gmail.com">HERE</a>.
