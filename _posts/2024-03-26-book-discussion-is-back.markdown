@@ -26,4 +26,4 @@ Your Library, through Interlibrary loan. Tag a buddy and share a book if you lik
 IMPORTANT NOTE: Make sure you buy the right book!
 There are a few other books with the same title.
 
-The Persuaders Book Discussion Signup
+### The Persuaders Book Discussion Signup
