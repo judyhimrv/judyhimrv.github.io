@@ -1,6 +1,8 @@
 ---
 title: Write Postcards for VA
 date: 2024-03-26 11:45:00 -04:00
+categories:
+- action
 tags:
 - VA postcards
 is featured: true
