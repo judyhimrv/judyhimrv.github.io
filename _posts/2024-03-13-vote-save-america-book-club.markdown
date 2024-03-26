@@ -1,6 +1,7 @@
 ---
 title: Vote Save America Book Club
 date: 2024-03-13 13:40:00 -04:00
+published: false
 categories:
 - event
 main-image: "/uploads/bookclub.png"
