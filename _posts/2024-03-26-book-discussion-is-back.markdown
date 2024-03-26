@@ -26,4 +26,5 @@ Some suggestions are :
 IMPORTANT NOTE: Make sure you buy the right book!
 There are a few other books with the same title.
 
-### The Persuaders Book Discussion Signup
+**THE PERSUADERS BOOK DISCUSSION SIGNUP
+**
