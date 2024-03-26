@@ -11,7 +11,7 @@ We received the nicest thank you letter from Drew Kromer, Chair of the Mecklenbu
 
    <div class="clearfix spacer-sm hidden-xs-down"></div>
       <div class="bg-medium main-img-wrap clearfix">
-        <div class="header-image" style="background-image: url('/uploads/drewthankyouletter.jpeg')"></div>
+        <div class="header-image" style="background-image: url('/uploads/meckletter.jpeg')"></div>
       </div>
 
 Help win North Carolina's 16 electoral votes!
