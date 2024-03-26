@@ -25,3 +25,5 @@ Some suggestions are :
 
 IMPORTANT NOTE: Make sure you buy the right book!
 There are a few other books with the same title.
+
+<a class="nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLSd1x4JLUwlvxJgrhFl-F6BNpjExLLTzUn3DBjGe45WQbMCkpQ/viewform">THE PERSUADERS BOOK DISCUSSION SIGNUP</a>.
