@@ -1,8 +1,7 @@
 ---
-title: Ongoing North Carolina 2024 Get Out the Vote Project
-date: 2024-02-25 08:24:00 -05:00
+title: North Carolina 2024 Get Out the Vote Project - Ongoing
+date: 2024-02-27 12:50:00 -05:00
 published: false
-is featured: false
 main-image: "/uploads/mecklenburgphotodrew-6f9296.png"
 ---
 
@@ -35,5 +34,3 @@ Inspired by our Zoom call with Drew Kromer, Democratic Party Chair of Mecklenbur
 * Provide information on voting locations, times, early voting
 
 * Highlight the Importance and Value of Voting
-
-* Emphasize how voting can and will impact the voter's life
