@@ -16,6 +16,6 @@ From our Postcard Captain Sybil:
 ### Attention all postcarders: Virginia needs you!
 Sign up for bundles of 30 postcards to go in the mail between April 26-June 3.  Pick up your supplies at the April 4 Indivisibles meeting in Waitsfield.  You are all the best!!!!
 
-Please drop Sybil a line with how many you can do by emailing her <a class="nav-link" href="mailto:sybil.sch@gmail.com">HERE</a>.
+Please <a class="nav-link" href="mailto:sybil.sch@gmail.com">email Sybil</a> to let her know how many postcards you'd like.
 
 Note: they are very similar to the GA postcards. Not much writing. We can do this because we are surrounded by Giants like YOU!
