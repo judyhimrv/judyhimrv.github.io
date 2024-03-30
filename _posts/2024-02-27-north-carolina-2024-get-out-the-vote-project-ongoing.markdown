@@ -1,6 +1,7 @@
 ---
 title: North Carolina 2024 Get Out the Vote Project - Ongoing
 date: 2024-02-27 12:50:00 -05:00
+published: false
 main-image: "/uploads/mecklenburgphotodrew-6f9296.png"
 ---
 
