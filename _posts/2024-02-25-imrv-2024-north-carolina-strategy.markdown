@@ -5,7 +5,7 @@ is featured: false
 main-image: "/uploads/mecklenburgphotodrew-6f9296.png"
 ---
 
-### UPDATE **on our work with Mecklenburg County and Drew Kromer**
+### Update
 
 We received the nicest thank you letter from Drew Kromer, Chair of the Mecklenburg County Dem Party. Remember him from our kickoff event in January? His picture's above and he's SO grateful for all the money we raised! 
 
