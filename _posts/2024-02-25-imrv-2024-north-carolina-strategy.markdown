@@ -11,9 +11,9 @@ We received the nicest thank you letter from Drew Kromer, Chair of the Mecklenbu
 
 ![drewthankyouletter.jpeg](/uploads/drewthankyouletter.jpeg)
 
-**Help win North Carolina's 16 electoral votes!**
+### Help win North Carolina's 16 electoral votes!
 
-Inspired by our Zoom call with Drew Kromer, Democratic Party Chair of Mecklenburg County, North Carolina, IMRV will work to increase voter turnout in the county by 80,000 votes.  Mecklenburg's turnout levels can decide statewide races, and concurrently, the national presidential race.
+Inspired by our January Zoom call with Drew Kromer, Democratic Party Chair of Mecklenburg County, North Carolina, IMRV will work to increase voter turnout in the county by 80,000 votes.  Mecklenburg's turnout levels can decide statewide races, and concurrently, the national presidential race.
 
 ### Help Build Capacity
 
