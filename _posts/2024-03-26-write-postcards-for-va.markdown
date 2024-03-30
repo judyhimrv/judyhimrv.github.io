@@ -15,7 +15,7 @@ From our Postcard Captain Sybil:
 
 We have postcards for VA we need folks to write.
 
-Sign up for bundles of 30 postcards to go in the mail between April 26-June 3.  Pick up your supplies at the April 4 Indivisibles meeting in Waitsfield.  You are all the best!!!!
+Sign up for bundles of 30 postcards to go in the mail between April 26-June 3.  Pick up your supplies at the April 4 IMRV  meeting in Waitsfield.  You are all the best!!!!
 
 Let Sybil know how many postcards you'd like. 
 
