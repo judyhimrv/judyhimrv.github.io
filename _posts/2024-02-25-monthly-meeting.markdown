@@ -11,4 +11,4 @@ Location: CANCELLED FOR TODAY
 
 Monthly meetings are the first Thursday of every month upstairs at the Waitsfield Town Office from 4:30 pm - 6:00 pm 
 
-**CANCELLED FOR TODAY - ENJOY THE SNOW**********
+**CANCELLED FOR TODAY - ENJOY THE SNOW**
