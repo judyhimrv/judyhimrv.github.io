@@ -3,8 +3,8 @@ title: Next IMRV Meeting
 date: 2024-04-04 17:14:00 -04:00
 categories:
 - event
-event-start-date: 2024-04-11 00:00:00 -04:00
-event-end-date: 2024-04-11 00:00:00 -04:00
+event-start-date: 2024-04-11 16:30:00 -04:00
+event-end-date: 2024-04-11 18:00:00 -04:00
 Location: Waitsfield Town Hall - POSTPONED from April 4th
 ---
 
