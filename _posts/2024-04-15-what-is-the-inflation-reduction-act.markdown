@@ -4,7 +4,7 @@ date: 2024-04-15 16:09:00 -04:00
 main-image: "/uploads/ira.jpeg"
 ---
 
-We did the homework/research for you. 
+**We did the homework/research for you.** 
  
 The Inflation Reduction Act (IRA) is groundbreaking federal legislation that creates millions of new clean energy jobs, makes prescription drugs more affordable, and asks the ultra-wealthy and big corporations to pay their fair share in taxes.
 
