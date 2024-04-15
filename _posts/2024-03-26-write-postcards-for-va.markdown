@@ -9,13 +9,13 @@ is featured: true
 main-image: "/uploads/votepostcards.jpeg"
 ---
 
-**Virginia** Get Out the Vote: 930 postcards    WOW!         
+We've got 1140 postcards going out to Virginia and Georgia, plus new opportunities for postcarding coming up in May!
+
+**Virginia** Get Out the Vote: 930 postcards           
 Mail postcards between **April 26-June 3**
 
 **Georgia** Get Out the Vote:   210 postcards
 Mail postcards between **April 22-May 9**
-
-Stay tuned for more postcarding opportunities in May. 
 
 Thanks to Sybil for coordinating our postcarding efforts.
 
