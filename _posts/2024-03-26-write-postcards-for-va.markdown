@@ -1,5 +1,5 @@
 ---
-title: Write Postcards for VA
+title: IMRV Postcard Update
 date: 2024-03-26 11:45:00 -04:00
 categories:
 - action
@@ -9,16 +9,14 @@ is featured: true
 main-image: "/uploads/votepostcards.jpeg"
 ---
 
-### Attention all postcarders: Virginia needs you!
+**Virginia** Get Out the Vote: 930 postcards    WOW!         
+Mail postcards between **April 26-June 3**
 
-From our Postcard Captain Sybil:
+**Georgia** Get Out the Vote:   210 postcards
+Mail postcards between **April 22-May 9**
 
-We have postcards for VA we need folks to write.
+Stay tuned for more postcarding opportunities in May. 
 
-Sign up for bundles of 30 postcards to go in the mail between April 26-June 3.  Pick up your supplies at the April 4 IMRV  meeting in Waitsfield.  You are all the best!!!!
+Thanks to Sybil for coordinating our postcarding efforts.
 
-Let Sybil know how many postcards you'd like. 
-
-<a class="nav-link" href="mailto:sybil.sch@gmail.com">**EMAIL SYBIL**</a> 
-
-Note: they are very similar to the GA postcards. Not much writing. We can do this because we are surrounded by Giants like YOU!
+ 
