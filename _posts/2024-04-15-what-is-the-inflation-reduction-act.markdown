@@ -12,5 +12,5 @@ Passed by Congressional Democrats and signed into law by President Biden on Augu
   
 <a class="nav-link" href="https://indivisible.org/resource/what-inflation-reduction-act-ira">LEARN MORE ABOUT THE IRA</a>.
  
-### Help educate others about the accomplishments of the Inflation Reduction Act
+**Help educate others about the accomplishments of the Inflation Reduction Act**
 
