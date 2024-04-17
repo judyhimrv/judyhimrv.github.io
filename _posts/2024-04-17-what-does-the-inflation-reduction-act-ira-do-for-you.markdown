@@ -8,7 +8,7 @@ tags:
 - benefits
 ---
 
-The IRA provides YOU benefits in #1-CLEAN ENERGY, #2-AFFORDABLE HEALTH CARE and #3-TAX FAIRNESS.  See how...
+The IRA provides YOU benefits in three main areas: #1-CLEAN ENERGY, #2-AFFORDABLE HEALTH CARE and #3-TAX FAIRNESS.  See how it does it...
 
 The Inflation Reduction Act (IRA) is groundbreaking federal legislation that creates millions of new clean energy jobs, makes prescription drugs more affordable, and asks the ultra-wealthy and big corporations to pay their fair share in taxes.
 Passed by Congressional Democrats and signed into law by President Biden on August 16, 2022, the bill is a $500 billion investment that delivers what our communities need to thrive. The bill includes benefits in three main areas: clean energy and climate, affordable health care, and tax fairness.
