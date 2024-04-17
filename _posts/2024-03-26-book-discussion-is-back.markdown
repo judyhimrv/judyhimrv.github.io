@@ -6,7 +6,7 @@ categories:
 tags:
 - book discussion
 - activism
-is featured: true
+is featured: false
 main-image: "/uploads/persuadersbook.jpeg"
 event-start-date: 2024-05-09 17:00:00 -04:00
 event-end-date: 2024-05-09 19:00:00 -04:00
