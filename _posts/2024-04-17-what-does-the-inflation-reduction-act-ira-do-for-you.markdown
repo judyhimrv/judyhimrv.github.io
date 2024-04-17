@@ -37,6 +37,6 @@ The majority of the IRA’s health care provisions are drug price reforms that 
 * Capping out-of-pocket expenses for Medicare Part D prescription drugs at $2,000 annually, starting in 2025.
 * Offering free vaccines, as of January 2023.
 
-### Help educate others about the accomplishments of the Inflation Reduction Act
+### We want YOU to help educate others about the accomplishments of the Inflation Reduction Act
 
 <a class="nav-link" href="https://indivisible.org/resource/what-inflation-reduction-act-ira1">CLICK FOR EVEN MORE INFORMATION FROM INDIVISIBLE.ORG</a>
