@@ -1,7 +1,6 @@
 ---
 title: IMRV Beats $ Goal to Support Meck County
 date: 2024-03-13 12:21:00 -04:00
-published: false
 categories:
 - success
 tags:
@@ -12,8 +11,11 @@ main-image: "/uploads/smallNCmap.png"
 ---
 
 
-*** Thank you from Drew
-We received the nicest thank you letter from Drew Kromer, Chair of the Mecklenburg County Dem Party. Remember him from our kickoff event in January? He’s SO grateful for all the money we raised!
+### Thank you from Drew
+
+We received the nicest thank you letter from Drew Kromer, Chair of the Mecklenburg County Dem Party. Remember him from our kickoff event in January? He's SO grateful for all the money we raised! 
+
+![drewthankyouletter.jpeg](/uploads/drewthankyouletter.jpeg)
 
 ### When we set a goal - we demolish it! IMRV raised 17% of the Team goal and 14% of the Vermont goal!
   
