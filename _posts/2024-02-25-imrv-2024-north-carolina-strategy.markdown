@@ -16,13 +16,6 @@ Working with the NC House Democratic Caucus, TSP has identified the 10 most comp
 Hear more about The States Project
  
 
-
-### Thank you from Drew
-
-We received the nicest thank you letter from Drew Kromer, Chair of the Mecklenburg County Dem Party. Remember him from our kickoff event in January? He's SO grateful for all the money we raised! 
-
-![drewthankyouletter.jpeg](/uploads/drewthankyouletter.jpeg)
-
 ### Help win North Carolina's 16 electoral votes!
 
 Inspired by our January Zoom call with Drew Kromer, Democratic Party Chair of Mecklenburg County, North Carolina, IMRV will work to increase voter turnout in the county by 80,000 votes.  Mecklenburg's turnout levels can decide statewide races, and concurrently, the national presidential race.
