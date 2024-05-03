@@ -1,6 +1,8 @@
 ---
 title: THE STATES PROJECT - Zoom with Heather Cox Richardson
 date: 2024-05-03 16:57:00 -04:00
+categories:
+- event
 event-start-date: 2024-05-28 19:30:00 -04:00
 event-end-date: 2024-05-28 20:30:00 -04:00
 Location: Zoom
