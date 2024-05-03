@@ -19,7 +19,7 @@ Hear more about The States Project
 
 ### Thank you from Drew
 
-We received the nicest thank you letter from Drew Kromer, Chair of the Mecklenburg County Dem Party. Remember him from our kickoff event in January? His picture's above and he's SO grateful for all the money we raised! 
+We received the nicest thank you letter from Drew Kromer, Chair of the Mecklenburg County Dem Party. Remember him from our kickoff event in January? He's SO grateful for all the money we raised! 
 
 ![drewthankyouletter.jpeg](/uploads/drewthankyouletter.jpeg)
 
