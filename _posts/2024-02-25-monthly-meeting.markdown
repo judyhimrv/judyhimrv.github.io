@@ -4,8 +4,8 @@ date: 2024-02-25 11:26:00 -05:00
 categories:
 - event
 is featured: false
-event-start-date: 2024-05-02 16:30:00 -04:00
-event-end-date: 2024-05-02 18:00:00 -04:00
+event-start-date: 2024-06-06 16:30:00 -04:00
+event-end-date: 2024-06-06 18:00:00 -04:00
 Location: Waitsfield Town Office Upstairs
 ---
 
