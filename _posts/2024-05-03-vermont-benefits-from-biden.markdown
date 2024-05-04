@@ -1,5 +1,5 @@
 ---
-title: Vermont-Specific Benefits - thank you Joe
+title: Vermont-Specific Benefits - Thank You Joe
 date: 2024-05-03 21:06:00 -04:00
 tags:
 - VT benefits
@@ -8,7 +8,6 @@ tags:
 
 
 President Biden at the White House correspondents dinner:
-
 > *'Every single one of us has roles to play — a serious role to play in making sure democracy endures — American democracy. I have my role, but, with all due respect, so do you.'*
 
 ### Vermont-Specific Benefits from the Biden administration
@@ -21,4 +20,4 @@ The administration also already raised the maximum amount of the Pell Grant for 
 
 And Biden is not done; he continues to work on a plan that would cancel student debt for more than 30 million Americans when combined with everything already achieved.
 
-Who do you know that is affected by student loan debt?  Make sure to spread the word!
+### Who do you know that is affected by student loan debt?  Make sure to spread the word!
