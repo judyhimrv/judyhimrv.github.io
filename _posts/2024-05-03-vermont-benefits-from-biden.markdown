@@ -8,7 +8,7 @@ main-image: "/uploads/ThanksJoe.jpeg"
 
 
 
-President Biden at the White House correspondents dinner:
+### President Biden at the White House correspondents dinner:
 > *'Every single one of us has roles to play — a serious role to play in making sure democracy endures — American democracy. I have my role, but, with all due respect, so do you.'*
 
 ### Vermont-Specific Benefits from the Biden administration
