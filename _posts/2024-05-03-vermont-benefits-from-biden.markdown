@@ -1,5 +1,5 @@
 ---
-title: Vermont Benefits from Biden
+title: Vermont-Specific Benefits - thank you Joe
 date: 2024-05-03 21:06:00 -04:00
 tags:
 - VT benefits
@@ -7,11 +7,11 @@ tags:
 
 
 
-President Biden at the the White house correspondents dinner:
+President Biden at the White House correspondents dinner:
 
 > *'Every single one of us has roles to play — a serious role to play in making sure democracy endures — American democracy. I have my role, but, with all due respect, so do you.'*
 
-### Vermont Benefits from Biden
+### Vermont-Specific Benefits from the Biden administration
 
 On April 12, 2024, the Biden administration cancelled more student debt!  In VERMONT, we are up to 6,490 people and a total of $347 million dollars of debt relief! 
 
