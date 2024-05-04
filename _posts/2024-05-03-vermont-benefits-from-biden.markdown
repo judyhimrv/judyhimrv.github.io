@@ -9,7 +9,7 @@ tags:
 
 President Biden at the the White house correspondents dinner:
 
-> Every single one of us has roles to play — a serious role to play in making sure democracy endures — American democracy. I have my role, but, with all due respect, so do you.
+> *'Every single one of us has roles to play — a serious role to play in making sure democracy endures — American democracy. I have my role, but, with all due respect, so do you.'*
 
 ### Vermont Benefits from Biden
 
