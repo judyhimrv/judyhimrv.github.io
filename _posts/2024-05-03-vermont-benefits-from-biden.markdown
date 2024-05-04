@@ -3,6 +3,7 @@ title: Vermont-Specific Benefits - Thank You Joe
 date: 2024-05-03 21:06:00 -04:00
 tags:
 - VT benefits
+main-image: "/uploads/ThanksJoe.webp"
 ---
 
 
