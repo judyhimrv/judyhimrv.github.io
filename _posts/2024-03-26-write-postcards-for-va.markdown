@@ -21,7 +21,7 @@ Recently I had the pleasure to be at the Lawson event hosting six penelists with
 ### THE JOY OF EFFORT
 ~ Sen. Peter Welch
 
-> 'Postcarding is joyful and the effort is greatly needed. Bring them to our monthly meeting this week and share the joy!' 
+> 'Postcarding is joyful and the effort is greatly needed.' 
 
 If you've already signed up - thank you! If not...
 
