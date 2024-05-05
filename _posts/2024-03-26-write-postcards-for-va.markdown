@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - VA postcards
-is featured: false
+is featured: true
 main-image: "/uploads/votepostcards.jpeg"
 ---
 
