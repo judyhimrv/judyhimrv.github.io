@@ -23,9 +23,9 @@ Recently I had the pleasure to be at the Lawson event hosting six penelists with
 
 > 'Postcarding is joyful and the effort is greatly needed. Bring them to our monthly meeting this week and share the joy!' 
 
-If you've already signed up - thank you! 
+If you've already signed up - thank you! If not...
 
-If not, [### CLICK HERE FOR NC POSTCARDS](https://docs.google.com/forms/d/e/1FAIpQLSeZBHUQE6mOk6ykVyZunhLyD0y7r7XGldno7vpxeImYzn3InQ/viewform)
+### [CLICK HERE FOR NC POSTCARDS](https://docs.google.com/forms/d/e/1FAIpQLSeZBHUQE6mOk6ykVyZunhLyD0y7r7XGldno7vpxeImYzn3InQ/viewform)
 
 
  
