@@ -12,4 +12,4 @@ RSVP-link: https://indivisible.zoom.us/meeting/register/tZMrcOypqzotHtGxxS0RaaaI
 
 Indivisible National has a phone bank to targeted states regarding abortion rights coming up in June. 
 
- 
+Read about it and sign up *** [HERE](https://indivisible.zoom.us/meeting/register/tZMrcOypqzotHtGxxS0RaaaIKORGHTVxlaah#/registration). 
