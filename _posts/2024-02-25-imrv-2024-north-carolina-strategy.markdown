@@ -1,5 +1,5 @@
 ---
-title: Ongoing North Carolina 2024 Get Out the Vote Project - UPDATE
+title: 'RESOURCE: Ongoing North Carolina 2024 Get Out the Vote Project - UPDATE'
 date: 2024-02-25 08:24:00 -05:00
 is featured: false
 main-image: "/uploads/meckcounty.png"
