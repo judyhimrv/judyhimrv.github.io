@@ -25,7 +25,7 @@ Recently I had the pleasure to be at the Lawson event hosting six penelists with
 
 If you've already signed up - thank you! 
 
-If not, [ClICK HERE FOR NC POSTCARDS](https://docs.google.com/forms/d/e/1FAIpQLSeZBHUQE6mOk6ykVyZunhLyD0y7r7XGldno7vpxeImYzn3InQ/viewform)
+If not, [### CLICK HERE FOR NC POSTCARDS](https://docs.google.com/forms/d/e/1FAIpQLSeZBHUQE6mOk6ykVyZunhLyD0y7r7XGldno7vpxeImYzn3InQ/viewform)
 
 
  
