@@ -1,5 +1,5 @@
 ---
-title: News from North Carolina
+title: News from North Carolina - Dagger to the Heart
 date: 2024-05-12 14:16:00 -04:00
 categories:
 - event
@@ -12,7 +12,7 @@ RSVP-link: https://www.mobilize.us/indivisiblemadrivervalley/event/625545/?refer
 
 ### Why support NC now?
 
-* Put "a dagger in the heart of the trump campaign" with a Biden/Harris win in North Carolina
+* Put "*a dagger in the heart of the trump campaign*" with a Biden/Harris win in North Carolina
 * Break the NC legislative supermajority to protect civil and human rights
 
 ### What can you do now?
