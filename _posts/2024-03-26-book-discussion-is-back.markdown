@@ -1,6 +1,7 @@
 ---
 title: 'Last Call: Persuaders Book Discussion'
 date: 2024-03-26 17:49:00 -04:00
+published: false
 categories:
 - event
 tags:
