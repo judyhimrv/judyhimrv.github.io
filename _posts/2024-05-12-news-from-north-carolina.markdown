@@ -1,5 +1,5 @@
 ---
-title: Hear Exciting News from North Carolina
+title: All in for North Carolina
 date: 2024-05-12 14:16:00 -04:00
 categories:
 - event
