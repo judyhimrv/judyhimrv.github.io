@@ -1,5 +1,5 @@
 ---
-title: News from North Carolina - Dagger to the Heart
+title: News from North Carolina
 date: 2024-05-12 14:16:00 -04:00
 categories:
 - event
