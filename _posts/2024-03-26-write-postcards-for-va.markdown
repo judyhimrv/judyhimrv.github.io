@@ -9,7 +9,7 @@ is featured: false
 main-image: "/uploads/votepostcards.jpeg"
 ---
 
-### North Carolina POSTCARDS are coming!
+### North Carolina POSTCARDS are here!
 
 We don't have to tell you how important 2024 and NC is. We need NC to win the White House. 
 
