@@ -1,9 +1,10 @@
 ---
 title: All in for North Carolina
 date: 2024-05-12 14:16:00 -04:00
+published: false
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/dagger.jpeg"
 event-start-date: 2024-05-19 17:30:00 -04:00
 event-end-date: 2024-05-19 18:30:00 -04:00
