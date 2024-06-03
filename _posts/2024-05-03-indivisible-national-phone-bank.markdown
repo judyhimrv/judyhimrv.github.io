@@ -11,8 +11,6 @@ Location: Lawson's
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfPbbGqSk0cHJtW7AdvUzAaIROFdgoEBDiTxY5GkbCAt6UMMg/viewform
 ---
 
-Tisa and Jeb ### need YOU 
-
 ### Help plan the Biden Boat for the Warren Parade
 
 Join us at Lawson's **TOMORROW**, Tuesday, at 4:30 and help us plan how to make our boat! [Read about it here.](https://docs.google.com/forms/d/e/1FAIpQLSfPbbGqSk0cHJtW7AdvUzAaIROFdgoEBDiTxY5GkbCAt6UMMg/viewform)
