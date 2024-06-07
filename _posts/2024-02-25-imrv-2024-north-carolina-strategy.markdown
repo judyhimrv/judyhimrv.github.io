@@ -11,9 +11,6 @@ Ten districts could determine whether or not women in the South have access to r
 
 Working with the NC House Democratic Caucus, TSP has identified the 10 most competitive races in the state. Flipping one seat will break the Republican supermajority in the legislature.  TSP uses effective support for candidates district by district. Evidence-based tactics prioritize candidate name recognition, including very local press support, candidate door-knocking, and ad-testing to ensure candidates address local issues.
 
-### [Join a Zoom event with Heather Cox Richardson](https://secure.actblue.com/donate/leanleft-states-nc)
-
-Hear more about The States Project
  
 
 ### Help win North Carolina's 16 electoral votes!
