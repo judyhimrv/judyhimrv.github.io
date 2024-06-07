@@ -1,5 +1,5 @@
 ---
-title: 'RESOURCE: Facts to Counter GOP Misinformation'
+title: 'RESOURCE: Weekly Facts to Counter GOP Misinformation'
 date: 2024-05-03 21:50:00 -04:00
 ---
 
