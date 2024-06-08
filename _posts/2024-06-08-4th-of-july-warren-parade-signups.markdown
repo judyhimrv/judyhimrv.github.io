@@ -7,7 +7,7 @@ tags:
 - Warren parade
 ---
 
-Please sign up so we know who we can count on. There's an option for maybe if you're not sure. 
+Please sign up so we know we can count on you! There's an option for maybe if you're not sure. 
 
 ### [Bake for Desserts for Democracy](https://docs.google.com/forms/d/e/1FAIpQLScG_FnPc9nkJwRVR64uMgK4LPToWszpw9e34N9okP1ezXleWA/viewform) 
 
