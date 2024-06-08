@@ -4,7 +4,7 @@ date: 2024-06-08 12:15:00 -04:00
 main-image: "/uploads/meckcounty.png"
 ---
 
-At our June meeting we talked about NC a lot. Drew Kramer is the new, young chair of the Mecklenburg (Meck) Dems.  This video from Drew helps explain why winning Meck County is how we keep Biden in the Oval Office.
+Here is the answer. At our June meeting we talked about NC a lot. Drew Kramer is the new, young chair of the Mecklenburg (Meck) Dems.  This video from Drew helps explain why winning Meck County is how we keep Biden in the Oval Office.
 
 ### [WATCH DREW KRAMER VIDEO HERE](https://youtu.be/WphlJYDeRV8)
    
