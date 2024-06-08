@@ -1,6 +1,11 @@
 ---
-title: 'RESOURCE: Weekly Facts to Counter GOP Misinformation'
+title: Check Here Weekly for Facts to Counter GOP Misinformation
 date: 2024-05-03 21:50:00 -04:00
+categories:
+- action
+tags:
+- "#allinforNC"
+is featured: true
 ---
 
 Sybil found this blog collection of one fact per week that can be shared with non-believers, thanks to the Downtown Nasty Women Social Group, technically not a sister group but certainly feels like it. 
