@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - Lean Left
+main-image: "/uploads/LeanLeft.jpeg"
 ---
 
 We work closely with [Lean Left](https://www.leanleftvt.org) for actions.  Sign up for their newsletter - it's awesome.
