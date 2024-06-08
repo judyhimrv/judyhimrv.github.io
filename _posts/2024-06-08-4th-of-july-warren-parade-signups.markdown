@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - Warren parade
-is featured: true
+is featured: false
 ---
 
 Please sign up so we know we can count on you! There's an option for maybe if you're not sure. 
