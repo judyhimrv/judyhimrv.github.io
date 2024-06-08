@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - "#allinforNC"
-is featured: true
+is featured: false
 main-image: "/uploads/downtownnastywomen-6ddbd3.png"
 ---
 
