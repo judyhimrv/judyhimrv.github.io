@@ -6,6 +6,7 @@ categories:
 tags:
 - "#allinforNC"
 is featured: true
+main-image: "/uploads/downtownnastywomen-6ddbd3.png"
 ---
 
 Sybil found this blog collection of one fact per week that can be shared with non-believers, thanks to the Downtown Nasty Women Social Group, technically not a sister group but certainly feels like it. 
