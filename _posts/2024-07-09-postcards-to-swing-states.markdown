@@ -19,7 +19,7 @@ Sybil will package together the postcards and the addresses - you just need to s
 
 NOTE: Postcards stamps are going up to 56 cents each! Buy them 24 hours before July 14th to be sure you get the price now. The current lower price is 53 cents. Buy them while you can and remember... we have more campaigns coming this year so stock up!
 
-### [[SIGNUP HERE](https://docs.google.com/forms/d/e/1FAIpQLSf_nP9Sm2sSdqNxuutaFdsi_ZW112ERh4LnvakvxscqbJPXkQ/viewform) - THANK YOU 
+### [SIGNUP HERE](https://docs.google.com/forms/d/e/1FAIpQLSf_nP9Sm2sSdqNxuutaFdsi_ZW112ERh4LnvakvxscqbJPXkQ/viewform) - THANK YOU 
 
 TWO dates to remember and keep track of (write this down):
 
