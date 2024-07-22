@@ -1,13 +1,15 @@
 ---
-title: Why is Mad River Vermont Focused on North Carolina?
+title: North Carolina Needs Us
 date: 2024-06-08 12:15:00 -04:00
 main-image: "/uploads/meckcounty.png"
 ---
 
-Here is the answer. At our June meeting we talked about NC a lot. Drew Kramer is the new, young chair of the Mecklenburg (Meck) Dems.  This video from Drew helps explain why winning Meck County is how we keep Biden in the Oval Office.
+### Winning NC = winning the Oval Office
 
-### [WATCH DREW KRAMER VIDEO HERE](https://youtu.be/WphlJYDeRV8)
-   
-And this video with Anderson Clayton, the youngest state democracy chair in the country, further shows the overall importance of NC election results. 
+We're on the doorstep! Time is running out to save our fragile democracy, our values and the issues we care about. 
 
-### [WATCH ANDERSON CLAYTON VIDEO HERE](https://youtu.be/nPg_Q0TD1Vk) 
+Join us Sunday on Zoom with Lean Left VT. 
+
+Sign up for NC to hear what's happening and how you can contribute.  You DO NOT have to make calls; we're just asking you to see us in action. Join early Sunday at 2:45 to get acquainted.
+
+**[Sign up to hear what we're doing in North Carolina](https://www.mobilize.us/leanleftvt/event/599787/)**
