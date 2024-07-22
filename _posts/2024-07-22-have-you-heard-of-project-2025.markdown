@@ -1,7 +1,6 @@
 ---
-title: Have You Heard of Project 2025
+title: Have You Heard of Project 2025?
 date: 2024-07-22 13:04:00 -04:00
-published: false
 main-image: "/uploads/project2025.png"
 ---
 
@@ -13,4 +12,6 @@ From Joyce Vance (an American lawyer who served as the United States attorney fo
 Click [HERE](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf) for the playbook. 
 
 If the playbook is too heady for you... Read [HERE](https://democracyforward.org/wp-content/uploads/2024/06/2024-05_Peoples-Guide-Pro-2025.pdf) on what it means in simpler terms. The image below is from page 4.
+
+![shortproject2025.png](/uploads/shortproject2025.png)
 
