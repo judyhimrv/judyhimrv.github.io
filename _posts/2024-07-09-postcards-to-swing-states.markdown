@@ -1,9 +1,10 @@
 ---
 title: Postcards to Swing States
 date: 2024-07-09 12:15:00 -04:00
+published: false
 categories:
 - action
-is featured: true
+is featured: false
 main-image: "/uploads/ticktock.jpeg"
 ---
 
