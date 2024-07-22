@@ -13,8 +13,8 @@ main-image: "/uploads/plugin.jpeg"
 
 We did the homework/research for you. This is easy...join us on SUNDAY! Come 15 minutes early - 2:45 pm.
 
-[### How we win NC - SIGN UP HERE](https://www.mobilize.us/leanleftvt/event/599787/)
+### [How we win NC - SIGN UP HERE](https://www.mobilize.us/leanleftvt/event/599787/)
 
-For fun, want to see how it's done and have a good giggle?  
+Just for fun, want to see how it's done and have a good giggle? Then be sure to hit the back arrow <- and come back to sign up. 
 
 [Click Here](https://www.youtube.com/watch?v=GKsgYZ6DW-s) 
