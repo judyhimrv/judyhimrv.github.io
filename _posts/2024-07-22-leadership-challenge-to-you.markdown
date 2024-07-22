@@ -2,7 +2,7 @@
 title: Leadership Challenge to You!
 date: 2024-07-22 13:19:00 -04:00
 categories:
-- Action
+- action
 tags:
 - IMRV
 is featured: true
