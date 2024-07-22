@@ -1,6 +1,7 @@
 ---
 title: Check Here Weekly for New Facts to Counter GOP Misinformation
 date: 2024-05-03 21:50:00 -04:00
+published: false
 categories:
 - action
 tags:
