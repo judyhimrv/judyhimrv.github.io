@@ -1,6 +1,6 @@
 ---
 title: Leadership Challenge to You!
-date: 2024-07-22 13:19:00 -04:00
+date: 2024-07-22 13:00:00 -04:00
 categories:
 - action
 tags:
