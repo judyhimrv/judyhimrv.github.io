@@ -6,7 +6,7 @@ categories:
 tags:
 - fundraising
 - NC
-is featured: true
+is featured: false
 main-image: "/uploads/smallNCmap.png"
 ---
 
