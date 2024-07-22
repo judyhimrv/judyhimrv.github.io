@@ -17,4 +17,4 @@ We did the homework/research for you. This is easy...join us on SUNDAY! Come 15 
 
 Just for fun, want to see how it's done and have a good giggle? Then be sure to hit the back arrow <- and come back to sign up. 
 
-[Click Here](https://www.youtube.com/watch?v=GKsgYZ6DW-s) 
+[Click here to see the video](https://www.youtube.com/watch?v=GKsgYZ6DW-s) 
