@@ -1,6 +1,8 @@
 ---
 title: Thank You Legislators
 date: 2024-07-22 14:57:00 -04:00
+categories:
+- success
 is featured: true
 main-image: "/uploads/legislators.jpg"
 ---
