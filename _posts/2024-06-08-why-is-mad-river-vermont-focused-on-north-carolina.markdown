@@ -10,6 +10,6 @@ We're on the doorstep! Time is running out to save our fragile democracy, our va
 
 Join us Sunday on Zoom with Lean Left VT. 
 
-Sign up for NC to hear what's happening and how you can contribute.  You DO NOT have to make calls; we're just asking you to see us in action. Join early Sunday at 2:45 to get acquainted.
+Sign up for NC to hear what's happening and how you can contribute.  You DO NOT have to make calls; we're just asking you to see us in action. First-timers should join early Sunday at 2:45 to get acquainted.
 
-**[Sign up to hear what we're doing in North Carolina](https://www.mobilize.us/leanleftvt/event/599787/)**
+### [Sign up to hear what we're doing in North Carolina](https://www.mobilize.us/leanleftvt/event/599787/)
