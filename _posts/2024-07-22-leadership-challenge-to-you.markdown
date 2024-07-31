@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - IMRV
-is featured: true
+is featured: false
 ---
 
 Our IMRV leadership challenge to you for our next meeting on August 1st: 
