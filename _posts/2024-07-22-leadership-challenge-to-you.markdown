@@ -8,6 +8,6 @@ tags:
 is featured: false
 ---
 
-Our IMRV leadership challenge to you for our next meeting on August 1st: 
+Our IMRV leadership challenge to you for our next meeting on September 5th: 
 
 What five things from Project 2025 will you share with your friends? Let's talk about it! 
