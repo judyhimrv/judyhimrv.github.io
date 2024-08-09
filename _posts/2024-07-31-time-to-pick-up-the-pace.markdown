@@ -7,8 +7,8 @@ main-image: "/uploads/catkamala-bdae6f.png"
 
 This childless cat lady, aka Jeb, is ready to pick up the pace. Are you?
 
-It's crunch time. Judi, Tisa, Karen and Jeb have some important news about how we're going to proceed from now until Election Day. It affects you all. 
+It's crunch time. Judi, Tisa, Karen and Jeb shared important news about how we're going to proceed from now until Election Day. It was an energetic, action-filled meeting that will buoy our spirits from now till Election Day.   
 
-You're our core group. The ones who do the work and show up. Tomorrow is our monthly meeting. Please try to make it.
+If you missed it and want to get in on some of the excitement the August meeting generated, please be sure to come to our next meeting on September 5th.
 
  
