@@ -13,7 +13,7 @@ main-image: "/uploads/moregroup.jpg"
 
 
 
-Our very own Susan H. reached out to [Robert Hubble](https://roberthubbell.substack.com/) with pix from our exhibit and this was his response: 
+Our very own Susan H. reached out to [Robert Hubbell](https://roberthubbell.substack.com/) with pix from our exhibit and this was his response: 
 
 > *Absolutely fabulous!  
 Susan, those are phenomenal pieces of art and political literature combined!*
