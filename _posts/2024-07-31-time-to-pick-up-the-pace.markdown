@@ -1,6 +1,7 @@
 ---
 title: Time to Pick Up the Pace
 date: 2024-07-31 13:24:00 -04:00
+published: false
 is featured: true
 main-image: "/uploads/catkamala-bdae6f.png"
 ---
