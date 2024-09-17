@@ -2,7 +2,7 @@
 title: Great Link on Project 2025
 date: 2024-07-22 13:04:00 -04:00
 is featured: true
-main-image: "/uploads/project2025.png"
+main-image: "/uploads/p25.jpeg"
 ---
 
 ### Try out this [GREAT LINK ON PROJECT 2025](https://www.25and.me/?topics=) (P25). This is how it works:
