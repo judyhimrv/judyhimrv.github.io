@@ -5,7 +5,7 @@ is featured: true
 main-image: "/uploads/project2025.png"
 ---
 
-Try out this [great link on Project 2025](https://www.25and.me/?topics=) (P25).This is how it works:
+Try out this [great link on Project 2025](https://www.25and.me/?topics=) (P25). This is how it works:
 
 * It asks, What do you care about?
 * It lists your choices
