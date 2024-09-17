@@ -5,14 +5,14 @@ is featured: true
 main-image: "/uploads/project2025.png"
 ---
 
-Try out this [great link on Project 2025](https://www.25and.me/?topics=) (P25). This is how it works:
+Try out this [GREAT LINK ON PROJECT 2025](https://www.25and.me/?topics=) (P25). This is how it works:
 
 * It asks, What do you care about?
 * It lists your choices
 * You pick your choices
 * It tells you how P25 will affect you and the page number in the P25 document as back up 
 
-[Share the link with all your friends](https://www.25and.me/?topics=).
+[CLICK HERE](https://www.25and.me/?topics=) and then Share the link with all your friends.
 
 For more P25 info...
 
