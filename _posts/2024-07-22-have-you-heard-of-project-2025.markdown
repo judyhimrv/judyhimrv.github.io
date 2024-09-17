@@ -12,7 +12,7 @@ Try out this [GREAT LINK ON PROJECT 2025](https://www.25and.me/?topics=) (P25). 
 * You pick your choices
 * It tells you how P25 will affect you and the page number in the P25 document as back up 
 
-[CLICK HERE](https://www.25and.me/?topics=) and then Share the link with all your friends.
+### [CLICK HERE](https://www.25and.me/?topics=) and then Share the link with all your friends.
 
 For more P25 info...
 
