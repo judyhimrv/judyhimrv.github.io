@@ -14,9 +14,9 @@ This is how the link on Project 2025 works:
 * You pick your choices
 * It tells you how Project 2025 will affect you and the page number in the Project 2025 document as back up 
 
-Click and share the link with all your friends.
+Click and share the link above with all your friends.
 
-###[WHAT TRUMP'S PROJECT 2025 MEANS FOR YOU](hthttps://drive.google.com/file/d/19ejRy8vsMkM9cIH8mnb4tyOrSlrtDsEu/viewtp://) 
+### [WHAT TRUMP'S PROJECT 2025 MEANS FOR YOU](hthttps://drive.google.com/file/d/19ejRy8vsMkM9cIH8mnb4tyOrSlrtDsEu/viewtp://) 
 
 This is a two-page printable link that also highlights what Project 2025 means for you, whether you're a woman, a veteran, or a just plain American.
 
