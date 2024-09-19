@@ -5,20 +5,20 @@ is featured: true
 main-image: "/uploads/p25.jpeg"
 ---
 
-### Try out the first [GREAT LINK ON PROJECT 2025](https://www.25and.me/?topics=) (P25). This is how it works:
+This is how the first great link on Project 2025 works:
 
 * It asks, What do you care about?
 * It lists your choices
 * You pick your choices
-* It tells you how P25 will affect you and the page number in the P25 document as back up 
+* It tells you how Project 2025 will affect you and the page number in the P25 document as back up 
 
-### [CLICK HERE](https://www.25and.me/?topics=) and then share the link with all your friends.
+### [HOW WILL PROJECT 2025 AFFECT ME?](https://www.25and.me/?topics=).  Share the link with all your friends.
 
-And here's a two-page [PRINTABLE LINK](https://drive.google.com/file/d/19ejRy8vsMkM9cIH8mnb4tyOrSlrtDsEu/view) that also highlights what P25 means for you, whether you're a woman, a veteran, or a just plain American.
+And here's a two-page printable link that also highlights what Project 2025 means for you, whether you're a woman, a veteran, or a just plain American.
 
 ### [WHAT TRUMP'S PROJECT 2025 MEANS FOR YOU](hthttps://drive.google.com/file/d/19ejRy8vsMkM9cIH8mnb4tyOrSlrtDsEu/viewtp://)
 
-For further P25 info...
+For further in-depth Project 2025 info...
 
 From Joyce Vance (an American lawyer who served as the United States attorney for the Northern District of Alabama from 2009 to 2017):
 “On page 592, there is a proposal that permits employers to avoid paying overtime to employees who work more than a 40 hour work week. They can do that by cutting your hours in subsequent weeks and not paying overtime if they can keep you under 40 hours a week spread across a two or four week period”.  As Joyce says, “that would hurt income for a lot of people who might not see it coming if we don’t warn them”.
