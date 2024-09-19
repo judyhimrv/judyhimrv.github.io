@@ -20,7 +20,9 @@ Click and share the link above with all your friends.
 
 This is a two-page printable link that also highlights what Project 2025 means for you, whether you're a woman, a veteran, or a just plain American.
 
-For further in-depth Project 2025 info...
+Again, click and share the link above with all your friends.
+
+**For further in-depth Project 2025 info...**
 
 From Joyce Vance (an American lawyer who served as the United States attorney for the Northern District of Alabama from 2009 to 2017):
 “On page 592, there is a proposal that permits employers to avoid paying overtime to employees who work more than a 40 hour work week. They can do that by cutting your hours in subsequent weeks and not paying overtime if they can keep you under 40 hours a week spread across a two or four week period”.  As Joyce says, “that would hurt income for a lot of people who might not see it coming if we don’t warn them”.
