@@ -5,18 +5,20 @@ is featured: true
 main-image: "/uploads/p25.jpeg"
 ---
 
-This is how the first great link on Project 2025 works:
-
+**This is how the first great link on Project 2025 works:
+**
 * It asks, What do you care about?
 * It lists your choices
 * You pick your choices
 * It tells you how Project 2025 will affect you and the page number in the P25 document as back up 
 
-### [HOW WILL PROJECT 2025 AFFECT ME?](https://www.25and.me/?topics=).  Share the link with all your friends.
+Click and share the link below ****with all your friends.
 
-And here's a two-page printable link that also highlights what Project 2025 means for you, whether you're a woman, a veteran, or a just plain American.
+### [HOW WILL PROJECT 2025 AFFECT ME?](https://www.25and.me/?topics=)  
 
-### [WHAT TRUMP'S PROJECT 2025 MEANS FOR YOU](hthttps://drive.google.com/file/d/19ejRy8vsMkM9cIH8mnb4tyOrSlrtDsEu/viewtp://)
+**And here's a two-page printable link that also highlights what Project 2025 means for you, whether you're a woman, a veteran, or a just plain American.**
+
+### Click [WHAT TRUMP'S PROJECT 2025 MEANS FOR YOU](hthttps://drive.google.com/file/d/19ejRy8vsMkM9cIH8mnb4tyOrSlrtDsEu/viewtp://)
 
 For further in-depth Project 2025 info...
 
