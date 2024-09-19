@@ -7,20 +7,20 @@ main-image: "/uploads/p25.jpeg"
 
 ### [HOW WILL PROJECT 2025 AFFECT ME?](https://www.25and.me/?topics=)
 
-This is how the link on Project 2025 works:
+This is how the link above works:
 
 * It asks, What do you care about?
 * It lists your choices
 * You pick your choices
 * It tells you how Project 2025 will affect you and the page number in the Project 2025 document as back up 
 
-Click and share the link above with all your friends.
+Click and share this link with all your friends.
 
 ### [WHAT TRUMP'S PROJECT 2025 MEANS FOR YOU](hthttps://drive.google.com/file/d/19ejRy8vsMkM9cIH8mnb4tyOrSlrtDsEu/viewtp://) 
 
-This is a two-page printable link that also highlights what Project 2025 means for you, whether you're a woman, a veteran, or a just plain American.
+Click the link above for a two-page printable listing that also highlights what Project 2025 means for you, whether you're a woman, a veteran, or a just plain American.
 
-Again, click and share the link above with all your friends.
+Again, please share the link with all your friends.
 
 **For further in-depth Project 2025 info...**
 
