@@ -1,6 +1,8 @@
 ---
 title: March and Rally - Join Us!
 date: 2024-10-03 11:51:00 -04:00
+categories:
+- action
 ---
 
 
