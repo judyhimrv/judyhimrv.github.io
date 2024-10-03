@@ -6,16 +6,16 @@ categories:
 ---
 
 
-We've got a MARCH and a RALLY in the coming weeks.
-Take your pick or go to both!
+We've got a MARCH and a RALLY in the coming weeks. Take your pick or go to both!
 
-SAVE THE DATES!
-March: 10/19
-Rally: 11/2
- 
-Many folks plan to wear their Chucks and Pearls for Harris. Cammo hats and flannel shirts for Walz! 
+Many folks plan to wear their Chucks and pearls for Harris, or cammo hats and flannel shirts for Walz! 
 
-![showupmarch.jpg](/uploads/showupmarch.jpg)
+![showupmarch.jpg](/uploads/showupmarch.jpg) VERMONT WOMEN'S RALLY
+
+
+THE STATE OF VERMONT WILL BE HOSTING A
+VERMONT WOMEN'S RALLY ON THE STATEHOUSE LAWN IN MONTPELIER ON NOVEMBER 2ND, 2024 AT 10 A.M.  
+TO HIGHLIGHT THE POWER OF WOMEN TO FIGHT AGAINST DISCRIMINATION AND TO SUPPORT WOMEN'S HUMAN RIGHTS. VERMONT WAS ONE OF THE FIRST STATES TO RATIFY IN OUR CONSTITUTION REPRODUCTIVE FREEDOM AND LIBERTY.  WE WERE ONE OF THE FIRST STATES TO SUPPORT GAY MARRIAGE.  VERMONT HAS BEEN A LEADER IN THE EQUAL RIGHTS MOVEMENT FOR DECADES.  THIS RALLY WILL BE A CELEBRATION OF OUR COMMITMENT TO ENSURE EQUALITY FOR WOMEN AND TO RECOGNIZE THE POWER WE HOLD TO FIGHT FOR WOMEN'S RIGHTS. 
 
 
 
