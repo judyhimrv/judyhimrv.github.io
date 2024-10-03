@@ -1,7 +1,7 @@
 ---
 title: Great New Links on Project 2025
 date: 2024-07-22 13:04:00 -04:00
-is featured: true
+is featured: false
 main-image: "/uploads/p25.jpeg"
 ---
 
