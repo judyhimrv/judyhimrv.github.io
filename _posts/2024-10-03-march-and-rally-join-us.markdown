@@ -11,7 +11,7 @@ We've got a MARCH and a RALLY in the coming weeks. Take your pick or go to both!
 
 Both are in Montpelier. Just show up October 19th and/or click to the right to sign up for November 2nd.
 
-![showupmarch.jpg](/uploads/showupmarch.jpg)  [### SIGN UP FOR VERMONT WOMEN'S RALLY](https://action.womensmarch.com/events/vermont-women-s-rally)
+![showupmarch.jpg](/uploads/showupmarch.jpg)  ### [SIGN UP FOR VERMONT WOMEN'S RALLY](https://action.womensmarch.com/events/vermont-women-s-rally)
 
 
 
