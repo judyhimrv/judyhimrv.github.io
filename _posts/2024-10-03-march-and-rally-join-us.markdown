@@ -1,7 +1,6 @@
 ---
 title: March and Rally - Join Us!
 date: 2024-10-03 11:51:00 -04:00
-published: false
 ---
 
 
@@ -13,6 +12,8 @@ March: 10/19
 Rally: 11/2
  
 Many folks plan to wear their Chucks and Pearls for Harris. Cammo hats and flannel shirts for Walz! 
+
+![showupmarch.jpg](/uploads/showupmarch.jpg)
 
 
 
