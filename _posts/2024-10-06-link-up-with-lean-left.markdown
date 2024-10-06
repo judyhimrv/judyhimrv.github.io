@@ -9,7 +9,7 @@ main-image: "/uploads/plugin.jpeg"
 ---
 
 
-ACTIONS YOU CAN TAKE to "do something else" in the run up to the election:
+## ACTIONS YOU CAN TAKE to "do something else" in the run up to the election:
 
 ### [Lean Left Power Hour](https://www.mobilize.us/leanleftvt/event/599787/)
 
@@ -45,7 +45,7 @@ All videos have been tested to ensure they not only persuade our audiences but m
 
 
  
-EVENTS YOU CAN ATTEND:
+## EVENTS YOU CAN ATTEND:
 
 Zoom Call with Rep. Darre Torre - 10/8, 7-8 pm 
 Postcarding at Lawson's - 10/10, 4:30-6 pm          
