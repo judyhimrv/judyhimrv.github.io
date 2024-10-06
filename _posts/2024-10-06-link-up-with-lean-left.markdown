@@ -9,7 +9,7 @@ main-image: "/uploads/plugin.jpeg"
 ---
 
 
-## ACTIONS YOU CAN TAKE to "do something else" in the run up to the election:
+## ACTIONS YOU CAN TAKE:
 
 ### [Lean Left Power Hour](https://www.mobilize.us/leanleftvt/event/599787/)
 
@@ -47,11 +47,17 @@ All videos have been tested to ensure they not only persuade our audiences but m
  
 ## EVENTS YOU CAN ATTEND:
 
-Zoom Call with Rep. Darre Torre - 10/8, 7-8 pm 
-Postcarding at Lawson's - 10/10, 4:30-6 pm          
-Candidate forum, Valley Meade upstairs space - 10/15 , 6-8 pm                    
-Candidate forum, hosted by Harwood Middle School,                                           Harwood Auditorium - 10/17, 6-7 pm                     
-Show Up Vermont March, starting at the Dep't of Labor - 10/19, 12:00pm            
-Vote Forward Letter Writing *TENTATIVE* - 10/22, 3:00-4:30pm    
-Vermont Women's Rally, Statehouse Lawn - 11/2, 10:00am              
+**Zoom Call with Rep. Darre Torre** - 10/8, 7-8 pm 
+
+**Postcarding at Lawson's** - 10/10, 4:30-6 pm 
+         
+**Candidate forum, Valley Meade upstairs space** - 10/15 , 6-8 pm
+                    
+**Candidate forum, hosted by Harwood Middle School,                                           Harwood Auditorium** - 10/17, 6-7 pm 
+                    
+**Show Up Vermont March, starting at the Dep't of Labor** - 10/19, 12:00pm 
+           
+**Vote Forward Letter Writing** *TENTATIVE* - 10/22, 3:00-4:30pm 
+   
+**Vermont Women's Rally, Statehouse Lawn** - 11/2, 10:00am              
 
