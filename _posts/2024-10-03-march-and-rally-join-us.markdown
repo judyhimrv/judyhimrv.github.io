@@ -10,7 +10,7 @@ main-image: "/uploads/womensmarch.jpeg"
 
 We've got a MARCH and a RALLY in the coming weeks. Take your pick or go to both! Many folks plan to wear their Chucks and pearls for Harris, or cammo hats and flannel shirts for Walz! 
 
-Both are in Montpelier. Just SHOW UP OCTOBER 19TH and SIGN UP ON THE RIGHT PIC FOR NOVEMBER 2ND WOMEN'S RALLY.
+Both are in Montpelier. Just SHOW UP OCTOBER 19TH and CLICK ON THE RIGHT PIC TO SIGN UP FOR NOVEMBER 2ND WOMEN'S RALLY.
 
 ![showupmarch.jpg](/uploads/showupmarch.jpg)![[vtwomensrally.jpg](/uploads/vtwomensrally.jpg)](https://vermontwomensrally.com/)
 
