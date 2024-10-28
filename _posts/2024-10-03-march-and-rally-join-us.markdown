@@ -9,7 +9,7 @@ main-image: "/uploads/nov2rally.jpg"
 
  
 
-### [SIGN UP FOR NOVEMBER 2ND WOMEN'S RALLY](https://vermontwomensrally.com/)
+### [SIGN UP HERE FOR NOV 2ND WOMEN'S RALLY](https://vermontwomensrally.com/)
 
 
 
