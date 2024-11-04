@@ -6,7 +6,6 @@ main-image: "/uploads/womensrally3.jpg"
 ---
 
 
-
-![womensrally2024.jpg](/uploads/womensrally2024.jpg)
+![womensrally2024small.jpg](/uploads/womensrally2024small.jpg)
 
 These were just a few of the many IMRV folks who were at the Womens Rally, waving their signs, cheering and clapping and loudly showing their support on a cold and cloudy day.  
