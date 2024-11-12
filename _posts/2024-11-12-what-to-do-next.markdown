@@ -6,7 +6,7 @@ categories:
 is featured: true
 ---
 
-### > We must lay up our supplies – of love, care, trust, community and resolve – so we may resist the storm.
+### 'We must lay up our supplies – of love, care, trust, community and resolve – so we may resist the storm.'
 
 So says Rebecca Solnit in a Guardian piece from 24 Nov 2024.  It's both a compelling and inspiring message by an exceptional writer and observer of today's landscape.
 
