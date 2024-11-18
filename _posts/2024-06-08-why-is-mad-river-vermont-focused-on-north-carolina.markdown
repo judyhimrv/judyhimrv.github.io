@@ -1,6 +1,7 @@
 ---
 title: North Carolina Needs Us
 date: 2024-06-08 12:15:00 -04:00
+published: false
 main-image: "/uploads/meckcounty.png"
 ---
 
