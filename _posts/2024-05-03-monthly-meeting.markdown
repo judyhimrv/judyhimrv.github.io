@@ -6,8 +6,8 @@ categories:
 is featured: true
 event-start-date: 2024-12-05 16:30:00 -05:00
 event-end-date: 2024-12-05 18:00:00 -05:00
-Location: Regular December 5th meeting is cancelled,but there will be a Lawson's gathering,
-  organized by Pat Folsom.  Stay tuned for the date and plan to join us.
+Location: Regular DECEMBER 5th MEETING IS CANCELLED, but there will be a Lawson's
+  gathering, organized by Pat Folsom.  Stay tuned for the date and plan to join us.
 ---
 
 **Note:  This months December 5th meeting is cancelled.**
