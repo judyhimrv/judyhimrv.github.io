@@ -1,7 +1,7 @@
 ---
 title: Members' Moments - Alice Evans
 date: 2024-11-11 20:52:00 -05:00
-is featured: true
+is featured: false
 ---
 
 Alice has suggested two NY Times articles that may be of interest to folks in Indivisible Mad River.  
