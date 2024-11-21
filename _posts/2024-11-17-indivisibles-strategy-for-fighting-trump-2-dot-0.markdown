@@ -1,6 +1,7 @@
 ---
 title: Indivisible’s Strategy for Fighting Trump 2.0
 date: 2024-11-17 20:31:00 -05:00
+is featured: true
 ---
 
 Watch the Zoom meeting with guest, Elizabeth Warren, to start thinking about where Indivisible MRV might go from here and how you can fit in.
