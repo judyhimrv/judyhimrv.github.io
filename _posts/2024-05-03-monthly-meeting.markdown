@@ -10,6 +10,9 @@ Location: Regular December 5th meeting is cancelled,but there will be a Lawson's
   organized by Pat Folsom.  Stay tuned for the date and plan to join us.
 ---
 
-Monthly meetings are the first Thursday of every month upstairs at the Waitsfield Town Office from 4:30 pm - 6:00 pm 
+**Note:  This months December 5th meeting is cancelled.**
+Instead there will be a Lawson's gathering, organized by Pat Folsom.  Stay tuned for the date and plan to join us.  
+
+Regular monthly meetings are the first Thursday of every month upstairs at the Waitsfield Town Office from 4:30 pm - 6:00 pm 
 
  
