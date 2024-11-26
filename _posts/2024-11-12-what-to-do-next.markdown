@@ -3,7 +3,7 @@ title: What to Do Next?
 date: 2024-11-12 12:39:00 -05:00
 categories:
 - action
-is featured: true
+is featured: false
 ---
 
 ### 'We must lay up our supplies – of love, care, trust, community and resolve – so we may resist the storm.'
