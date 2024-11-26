@@ -1,7 +1,6 @@
 ---
 title: Call Your Representatives!
 date: 2024-11-26 21:20:00 -05:00
-published: false
 categories:
 - action
 is featured: true
