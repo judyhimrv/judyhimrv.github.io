@@ -6,7 +6,8 @@ categories:
 is featured: true
 event-start-date: 2024-12-18 16:30:00 -05:00
 event-end-date: 2024-12-18 18:00:00 -05:00
-Location: Lawson's, Waitsfield VT
+Location: Note this is not our usual Thursday, but Wednesday at Lawson's, Waitsfield
+  VT
 ---
 
 **Join us December 18th at Lawson's from 4:30-6:00 and celebrate our community.** 
