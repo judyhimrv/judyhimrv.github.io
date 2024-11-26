@@ -4,7 +4,6 @@ date: 2024-11-26 17:20:00 -05:00
 categories:
 - action
 is featured: true
-main-image: "/uploads/32463091742_f40e779f22_k.jpg"
 call-script-text: |2
 
   Script for Calls 1 and 2:
