@@ -1,18 +1,16 @@
 ---
-title: Next IMRV Monthly Meeting
+title: Next IMRV  Meeting
 date: 2024-05-03 11:26:00 -04:00
 categories:
 - event
 is featured: true
-event-start-date: 2024-12-05 16:30:00 -05:00
-event-end-date: 2024-12-05 18:00:00 -05:00
-Location: Regular DECEMBER 5th MEETING IS CANCELLED, but there will be a Lawson's
-  gathering, organized by Pat Folsom.  Stay tuned for the date and plan to join us.
+event-start-date: 2024-12-18 16:30:00 -05:00
+event-end-date: 2024-12-18 18:00:00 -05:00
+Location: Lawson's, Waitsfield VT
 ---
 
-**Note:  This month's December 5th meeting is cancelled.**
-Instead there will be a Lawson's gathering, organized by Pat Folsom.  Stay tuned for the date and plan to join us.  
+**Join us December 18th at Lawson's from 4:30-6:00 and celebrate our community.** 
 
-Regular monthly meetings are the first Thursday of every month upstairs at the Waitsfield Town Office from 4:30 pm - 6:00 pm 
+Stay tuned for the restart of regular monthly meetings, usually the first Thursday of every month upstairs at the Waitsfield Town Office from 4:30 pm - 6:00 pm 
 
  
