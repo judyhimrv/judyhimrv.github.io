@@ -1,5 +1,5 @@
 ---
-title: Next IMRV  Meeting
+title: Next IMRV  Meeting - Join Us at Lawson's
 date: 2024-05-03 11:26:00 -04:00
 categories:
 - event
