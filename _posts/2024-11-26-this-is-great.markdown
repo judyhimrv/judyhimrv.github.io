@@ -7,7 +7,7 @@ is featured: true
 main-image: "/uploads/meetingwithlegislators.jpg\n"
 call-script-text: |2
 
-  Script for Calls 1 and 2:
+  Script for Calls 1 and 2 (see below for script descriptions)
 
   Hi, my name is _________ and I'm one of Senator [Welch/Sanders]'s constituents. My zip code is ______.
 
@@ -17,7 +17,7 @@ call-script-text: |2
 
   I also thank the Senator for being a co-sponsor of the No Kings Act.  No President or Vice President should be entitled to immunity from criminal prosecution for actions that violate the criminal laws of the United States.
 
-  Script for Call 3:
+  Script for Call 3
 
   Hi, my name is _________ and I'm one of Governor Scott's constituents. My zip code is ______.
 
@@ -27,7 +27,7 @@ call-script-text: |2
 layout: post
 ---
 
-**Specific Asks - see below for script descriptions**
+**Specific Asks**
 
 Take 5 minutes of your day and make 3 phone calls.
  
