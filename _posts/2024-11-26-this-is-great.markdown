@@ -27,7 +27,7 @@ call-script-text: |2
 layout: post
 ---
 
-**Specific Asks**
+**Specific Asks - see below for script descriptions**
 
 Take 5 minutes of your day and make 3 phone calls.
  
