@@ -4,12 +4,10 @@ date: 2024-11-17 20:31:00 -05:00
 is featured: true
 ---
 
-Watch the Zoom meeting with guest, Elizabeth Warren, to start thinking about where Indivisible MRV might go from here and how you can fit in.
-
-### [Fighting Trump 2.0](https://www.youtube.com/live/db-Pvqa5SQE)
+Watch the Zoom meeting with guest, Elizabeth Warren, to start thinking about where Indivisible MRV might go from here and how you can fit in.  ### [Fighting Trump 2.0](https://www.youtube.com/live/db-Pvqa5SQE)
 
 
-Here's what we know about Indivisible National’s Gameplan:
+Here's a brief summary of what we know about Indivisible National’s Gameplan.  Link to the full Guide below.
 
 Indivisible groups will lay the groundwork now to win big in the 2026 midterms.  This would puncture Trump’s aura of omnipotence and the idea he has the consent of the governing public for his actions. By flipping the House, democratic representatives can block further (harmful) legislation and regain crucial oversight powers.
 
