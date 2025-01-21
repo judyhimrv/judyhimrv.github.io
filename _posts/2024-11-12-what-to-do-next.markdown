@@ -1,5 +1,5 @@
 ---
-title: What to Do Next?
+title: Lay Up Supplies to Resist the Storm
 date: 2024-11-12 12:39:00 -05:00
 categories:
 - action
