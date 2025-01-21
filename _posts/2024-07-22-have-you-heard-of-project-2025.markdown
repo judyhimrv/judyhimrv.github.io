@@ -1,5 +1,5 @@
 ---
-title: Great New Links on Project 2025
+title: Project 2025 Links
 date: 2024-07-22 13:04:00 -04:00
 is featured: false
 main-image: "/uploads/p25.jpeg"
