@@ -72,7 +72,7 @@ Republicans aren’t bystanders to Trump’s chaos—they are enablers. Their si
 
 Tell our VT senators to fight back against Trump’s unconstitutional power grab with every tool they have.
 
-### [CALL PETER AND BERNIE](https://indivisible.org/resource/call-your-democratic-senators-demand-they-shut-it-down-stop-trumps-unconstitutional-power)   [SEND AN EMAIL NOW](https://act.indivisible.org/sign/urge-dem-sen-fight-trump-funding-freeze/)
+### [CALL PETER AND BERNIE](https://indivisible.org/resource/call-your-democratic-senators-demand-they-shut-it-down-stop-trumps-unconstitutional-power) or  [SEND AN EMAIL NOW](https://act.indivisible.org/sign/urge-dem-sen-fight-trump-funding-freeze/)
 
 Demand that our VT Democratic representative expose the devastating harm of Trump’s funding freeze, hold Republicans accountable for enabling this chaos, and back legal challenges to stop it.
 
