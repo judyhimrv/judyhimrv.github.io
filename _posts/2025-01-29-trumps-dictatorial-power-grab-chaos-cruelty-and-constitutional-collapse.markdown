@@ -12,7 +12,7 @@ call-script-text: |-
 
 Join with Indivisible National for explanations and actions to take right now...
 
-UNDERSTAND
+### UNDERSTAND
 
 Donald Trump isn’t governing—he’s launching a coup against the American people. In an illegal and devastating move, he has frozen billions in federal funding for programs that keep kids fed, families housed, and students educated. This isn’t just a policy memo—it’s a direct assault on the Constitution and the lives of millions of Americans. Let’s be clear: Trump’s latest move is illegal, dictatorial, and Americans will die as a result.
 
@@ -70,3 +70,5 @@ Republicans aren’t bystanders to Trump’s chaos—they are enablers. Their si
 “When families in your district lose food, housing, and healthcare, how will you explain your inaction?” Don’t let them off the hook. Make them own the consequences of their complicity.
 “Do you support Trump’s illegal freeze that targets families, students, and seniors in your community?” Frame the question as one of direct support for the chaos Trump is causing. No room to hedge
 “Why haven’t you stood up to Trump’s assault on democracy?” Call out their failure to defend the Constitution and protect their constituents from harm. They are accessories to this coup.
+
+### NOW TAKE ACTION
