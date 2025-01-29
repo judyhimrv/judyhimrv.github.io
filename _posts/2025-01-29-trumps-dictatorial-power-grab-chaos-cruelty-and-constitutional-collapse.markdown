@@ -6,4 +6,4 @@ is featured: true
 
 Join with Indivisible National for explanations and actions to take right now...
 
-### [UNDERSTAND AND TAKE ACTION](http://https://indivisible.org/omb?utm_source=substack&utm_medium=email)
+### [UNDERSTAND AND TAKE ACTION](https://indivisible.org/omb?utm_source=substack&utm_medium=email)
