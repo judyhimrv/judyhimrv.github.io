@@ -16,14 +16,14 @@ Trump isn’t testing the boundaries of presidential power—he’s blowing them
 
 The result? Families will lose food, homes, and healthcare. Lives will be destroyed. People will die. Trump’s chaos is intentional, and the stakes couldn’t be higher.
 
-What Did Trump Do?
+**What Did Trump Do?**
 On January 27, Trump’s Office of Management and Budget (OMB) issued a two-page memo freezing nearly all federal grants and loans. The memo, which claims to be temporary, provides no clarity on when—or if—funding will resume. Programs vital to feeding, housing, and educating millions of Americans are now in limbo.
 
-The justification? A rant about “Marxist equity” and the “Green New Deal.” This is Trump’s latest authoritarian move: bypassing Congress and using executive power to destroy programs that serve millions of people.
+**The justification?** A rant about “Marxist equity” and the “Green New Deal.” This is Trump’s latest authoritarian move: bypassing Congress and using executive power to destroy programs that serve millions of people.
 
 This is the most radical action a president has taken in modern history. Trump is shredding the Constitution by seizing Congress’s power of the purse and daring anyone to stop him.
 
-The Human Cost: Chaos That Will Kill
+**The Human Cost:** Chaos That Will Kill
 Trump’s freeze isn’t a technical adjustment—it’s a death sentence for millions of Americans. Here’s what’s threatened:
 
 Kids will go hungry at school. School meal programs are halted, leaving children without basic nutrition.
@@ -36,7 +36,7 @@ And that’s just the start. While the White House is claiming that the holds wi
 This isn’t about government inefficiency. It’s about lives on the line. Trump’s chaos will mean hunger, homelessness, and despair. Period.
 
  
-Why This Is Illegal
+**Why This Is Illegal**
 Trump’s freeze isn’t just cruel—it’s blatantly unconstitutional. Here’s why:
 
 Congress Controls Federal Spending. The Constitution explicitly gives Congress—not the president—the power to allocate and control federal funds. By freezing funds Congress appropriated, Trump is undermining a foundational principle of democracy.
@@ -44,21 +44,22 @@ The Impoundment Control Act (ICA). Enacted after Nixon’s abuses, the ICA expli
 Supreme Court Precedent. Legal scholars—including conservatives—agree: presidents cannot unilaterally impound funds. The Justice Department’s Office of Legal Counsel has consistently rejected claims of inherent impoundment authority. Trump’s actions defy the Constitution and decades of legal precedent.
 Trump’s freeze isn’t just a political stunt—it’s an attack on the structure of our government. If the president can ignore Congress’s decisions, the separation of powers ceases to exist.
 
-What Senate Democrats Must Do
+**What Senate Democrats Must Do**
 This isn’t a moment for half-measures or political games. Democracy is at stake, and Senate Democrats must respond as if the Constitution is on the line—because it is.
 
-Shut Down the Senate. Use every procedural tool—quorum calls, endless amendments, and withholding consent—to grind Senate business to a halt. No votes, no deals, no cooperation until Trump’s freeze is rescinded. Specifically, they must:
+**Shut Down the Senate.** Use every procedural tool—quorum calls, endless amendments, and withholding consent—to grind Senate business to a halt. No votes, no deals, no cooperation until Trump’s freeze is rescinded. Specifically, they must:
 
 - Commit to oppose all nominees while this freeze remains in place
 - Reject every request for Unanimous Consent to advance Senate business
 - Vote NO on all Cloture votes, Motions to Proceed, or any other procedural vote
 - Request Quorum Calls at every possible opportunity to slow things down
 
-Refuse to Negotiate. Trump is using federal programs as hostages in a power grab. Democrats must refuse to engage in any funding or debt ceiling negotiations while this freeze remains in place. No compromises with dictatorship.
+**Refuse to Negotiate.** Trump is using federal programs as hostages in a power grab. Democrats must refuse to engage in any funding or debt ceiling negotiations while this freeze remains in place. No compromises with dictatorship.
 Sound the Alarm. Every senator must become a megaphone for what’s at stake. Go on TV, hold town halls, and flood social media with the stories of families who will lose food, homes, and healthcare because of Trump’s chaos.
-Back Legal Challenges. Support every lawsuit challenging this freeze. File amicus briefs, amplify cases, and make it clear this isn’t just morally wrong—it’s illegal.
+
+**Back Legal Challenges.** Support every lawsuit challenging this freeze. File amicus briefs, amplify cases, and make it clear this isn’t just morally wrong—it’s illegal.
  
-Hold Republicans Accountable
+**Hold Republicans Accountable**
 Republicans aren’t bystanders to Trump’s chaos—they are enablers. Their silence and refusal to act make them complicit in the suffering his freeze will cause. These questions aren’t about asking their opinion—they’re about exposing their role in this disaster. Hold them accountable:
 
 “Why are you letting Trump starve kids and evict families in your district?” Call out their silence while programs like WIC, SNAP, and housing vouchers are in jeopardy. Demand to know why they’re doing nothing while their constituents suffer.
@@ -71,8 +72,8 @@ Republicans aren’t bystanders to Trump’s chaos—they are enablers. Their si
 
 Tell our VT senators to fight back against Trump’s unconstitutional power grab with every tool they have.
 
-[CALL PETER AND BERNIE](https://indivisible.org/resource/call-your-democratic-senators-demand-they-shut-it-down-stop-trumps-unconstitutional-power)   [SEND AN EMAIL NOW](https://act.indivisible.org/sign/urge-dem-sen-fight-trump-funding-freeze/)
+### [CALL PETER AND BERNIE](https://indivisible.org/resource/call-your-democratic-senators-demand-they-shut-it-down-stop-trumps-unconstitutional-power)   [SEND AN EMAIL NOW](https://act.indivisible.org/sign/urge-dem-sen-fight-trump-funding-freeze/)
 
 Demand that our VT Democratic representative expose the devastating harm of Trump’s funding freeze, hold Republicans accountable for enabling this chaos, and back legal challenges to stop it.
 
-[CALL BECCA BALINT](https://indivisible.org/resource/call-your-democratic-representative-insist-they-expose-trumps-freeze-and-fight-lives)
+### [CALL BECCA BALINT](https://indivisible.org/resource/call-your-democratic-representative-insist-they-expose-trumps-freeze-and-fight-lives)
