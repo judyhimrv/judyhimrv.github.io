@@ -4,10 +4,6 @@ date: 2025-01-29 08:24:00 -05:00
 categories:
 - action
 is featured: true
-call-script-text: |-
-  Tell our VT senators to fight back against Trump’s unconstitutional power grab with every tool they have.
-
-  Demand that our VT Democratic representative expose the devastating harm of Trump’s funding freeze, hold Republicans accountable for enabling this chaos, and back legal challenges to stop it.
 ---
 
 Join with Indivisible National for explanations and actions to take right now...
@@ -72,3 +68,7 @@ Republicans aren’t bystanders to Trump’s chaos—they are enablers. Their si
 “Why haven’t you stood up to Trump’s assault on democracy?” Call out their failure to defend the Constitution and protect their constituents from harm. They are accessories to this coup.
 
 ### NOW TAKE ACTION
+
+Tell our VT senators to fight back against Trump’s unconstitutional power grab with every tool they have.
+
+Demand that our VT Democratic representative expose the devastating harm of Trump’s funding freeze, hold Republicans accountable for enabling this chaos, and back legal challenges to stop it.
