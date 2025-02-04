@@ -4,7 +4,7 @@ date: 2025-02-04 15:38:00 -05:00
 is featured: true
 ---
 
-We are facing a crisis and the Senate must act. This week, plan an in-person appearance at your senator’s office to demand they respond to the Trump administration’s attacks on our communities by refusing to comply. Although the attacks are constant and far-reaching, the focus of these visits is the Trump-Musk funding freeze and the nomination vote of Russell Vought.
+We are facing a crisis and the Senate must act. This week, plan an in-person appearance at your senator’s office to demand they respond to the Trump administration’s attacks on our communities by refusing to comply. Although the attacks are constant and far-reaching, the focus of these visits is the Trump-Musk funding freeze and the nomination vote of Russell Vought. **Stay tuned for an IMRV announcement about a planned visit perhaps this Thursday, 2/6/25 in Montpelier.**
 
 Since taking office, President Trump and Elon Musk have worked together to defund the federal government from the inside while consolidating power into the hands of a right-wing elite. Their goal is clear: gut federal agencies, strip public resources, and redirect power and money into their own hands. At the same time, Trump and Senate Republicans are fast-tracking Russell Vought as OMB Director to oversee this attack on federal funding. Vought is the architect of Project 2025, and if approved, he will supercharge the ongoing effort to unravel our government and steal our money.
 
@@ -23,6 +23,3 @@ Blanket Opposition: Democrats cannot continue to vote for Trump’s other nomine
 No Business as Usual: This is a constitutional crisis. Democrats must abandon the old rules and fight with everything they have.
 
 It’s time to turn up the heat.
-
-
-Stay tuned for IMRV announcement for planned visit perhaps this Thursday, 2/6/25 in Montpelier.
