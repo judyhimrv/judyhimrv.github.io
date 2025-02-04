@@ -25,4 +25,4 @@ No Business as Usual: This is a constitutional crisis. Democrats must abandon th
 It’s time to turn up the heat.
 
 
-If you have any questions, contact [Indivisible](supportteam@indivisible.org).
+Stay tuned for IMRV announcement for planned visit perhaps this Thursday, 2/6/25 in Montpelier.
