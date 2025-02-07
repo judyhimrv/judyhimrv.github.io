@@ -3,7 +3,7 @@ title: Call Your Vermont Senators and Say This!
 date: 2025-01-31 10:34:00 -05:00
 categories:
 - action
-is featured: true
+is featured: false
 call-script-text: |-
   Hi, my name is _____ and I want the Senator to fight Trump’s illegal actions with everything he’s got. Trump is shredding the Constitution, breaking the law and violating the separation of powers.
 
