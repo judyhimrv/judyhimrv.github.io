@@ -1,7 +1,7 @@
 ---
 title: A Practical Guide to Democracy on the Brink
 date: 2024-11-17 20:31:00 -05:00
-is featured: true
+is featured: false
 ---
 
 Here's a brief summary of what we know about Indivisible National’s Gameplan.  Link to the full Guide below.
