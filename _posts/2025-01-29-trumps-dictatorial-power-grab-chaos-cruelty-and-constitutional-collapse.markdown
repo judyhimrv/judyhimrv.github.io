@@ -3,7 +3,7 @@ title: 'Trump’s Dictatorial Power Grab: Chaos, Cruelty, and Constitutional Col
 date: 2025-01-29 08:24:00 -05:00
 categories:
 - action
-is featured: true
+is featured: false
 ---
 
 Join with Indivisible National for explanations and actions to take right now...
