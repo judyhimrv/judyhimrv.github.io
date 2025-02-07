@@ -1,6 +1,7 @@
 ---
 title: IMRV Visits Senator Welch's Office
 date: 2025-02-07 08:27:00 -05:00
+is featured: true
 main-image: "/uploads/imrvstatehousevisit.jpg"
 ---
 
