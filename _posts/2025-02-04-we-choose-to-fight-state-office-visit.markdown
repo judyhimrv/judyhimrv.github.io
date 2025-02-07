@@ -1,7 +1,7 @@
 ---
 title: 'We Choose to Fight: STATE OFFICE VISIT'
 date: 2025-02-04 15:38:00 -05:00
-is featured: true
+is featured: false
 ---
 
 We are facing a crisis and the Senate must act. This week, plan an in-person appearance at your senator’s office to demand they respond to the Trump administration’s attacks on our communities by refusing to comply. Although the attacks are constant and far-reaching, the focus of these visits is the Trump-Musk funding freeze and the nomination vote of Russell Vought. **Stay tuned for an IMRV announcement about a planned visit perhaps this Thursday, 2/6/25 in Montpelier.**
