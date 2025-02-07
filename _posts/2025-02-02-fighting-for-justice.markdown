@@ -1,7 +1,7 @@
 ---
 title: Fighting for Justice
 date: 2025-02-02 09:45:00 -05:00
-is featured: true
+is featured: false
 main-image: "/uploads/solnitarticletiny.jpeg"
 ---
 
