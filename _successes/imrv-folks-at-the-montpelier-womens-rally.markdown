@@ -1,7 +1,7 @@
 ---
 title: IMRV at the 2024 Montpelier Womens Rally
 date: 2024-11-04 11:27:00 -05:00
-is featured: true
+is featured: false
 main-image: "/uploads/womensrally3.jpg"
 ---
 
