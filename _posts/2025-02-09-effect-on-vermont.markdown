@@ -10,4 +10,4 @@ This **[VERMONT PUBLIC ARTICLE](https://www.vermontpublic.org/local-news/2025-02
 
 Consider how President Trump's federal grant and loan freeze, tariffs, or other orders will impact you, your family, your farm, or your community.  Then take action.
 
-### [Let Senator Welch know exactly how it will affect you.](https://outreach.senate.gov/iqextranet/EForm.aspx?__cid=quorum_welch-iq&__fid=100021)
+### [Let Senator Welch know how it will affect you.](https://outreach.senate.gov/iqextranet/EForm.aspx?__cid=quorum_welch-iq&__fid=100021)
