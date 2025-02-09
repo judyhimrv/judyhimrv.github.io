@@ -1,6 +1,8 @@
 ---
 title: Effect on Vermont?
 date: 2025-02-09 11:52:00 -05:00
+categories:
+- action
 is featured: true
 ---
 
