@@ -1,5 +1,5 @@
 ---
-title: Senator Peter Welch
+title: US Senator Peter Welch
 date: 2024-01-31 15:40:00 -05:00
 phone-numbers:
   DC Office: " (202) 224-4242"
