@@ -1,7 +1,6 @@
 ---
 title: Time to Protest
 date: 2025-02-15 16:31:00 -05:00
-published: false
 categories:
 - action
 is featured: true
