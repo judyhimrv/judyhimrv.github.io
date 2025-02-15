@@ -3,7 +3,7 @@ title: Effect on Vermont and You?
 date: 2025-02-09 11:52:00 -05:00
 categories:
 - action
-is featured: true
+is featured: false
 ---
 
 This **[VERMONT PUBLIC ARTICLE](https://www.vermontpublic.org/local-news/2025-02-07/vermont-officials-say-more-than-400m-in-federal-grants-for-broadband-cutting-emissions-are-at-risk)** outlines some of the programs at risk.  
