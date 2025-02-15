@@ -4,7 +4,7 @@ date: 2025-02-15 16:31:00 -05:00
 published: false
 ---
 
-Rallies or actions in the works.
+Rallies or actions in the works with more to come. Keep coming back for updates.
 
 February 17 Nationwide Protest
 
