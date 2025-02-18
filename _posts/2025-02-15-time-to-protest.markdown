@@ -15,5 +15,4 @@ Rallies or actions in the works with more to come. Please note, Indivisible MRV 
 > “When 3.5% of the population joins a peaceful movement against a sitting government, that movement almost always succeeds.
 For us in America, 3.5% of the population (335 million) is 11.7 million people.”  Erica Chenoweth
 This is what the general strike is all about.
-
 ### [General Strike Sign Up](https://generalstrikeus.com/?utm_source=substack&utm_medium=email)
