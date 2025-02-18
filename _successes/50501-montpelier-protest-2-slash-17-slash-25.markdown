@@ -1,5 +1,5 @@
 ---
-title: 50501 Montpelier Protest 2/17/25
+title: February 17 2025 President's Day Protest Montpelier
 date: 2025-02-17 21:27:00 -05:00
 is featured: true
 main-image: "/uploads/montpprotestpresday.jpg"
