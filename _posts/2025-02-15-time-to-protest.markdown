@@ -15,6 +15,7 @@ For us in America, 3.5% of the population (335 million) is 11.7 million people.â
 This is what the general strike is all about.
 ### [General Strike Sign Up](https://generalstrikeus.com/?utm_source=substack&utm_medium=email)
 
+Other planned actions:
 
 ### [February 28 2025 The Economic Blackout](https://jointhepeoplesunion.com/command-center/f/the-economic-blackout-february-28th-2025)
 
