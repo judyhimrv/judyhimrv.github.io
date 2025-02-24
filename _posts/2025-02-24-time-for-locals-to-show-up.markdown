@@ -1,6 +1,9 @@
 ---
 title: Time for Locals to Show Up!!
 date: 2025-02-24 18:43:00 -05:00
+categories:
+- action
+is featured: true
 ---
 
 **Protest the destructive and illegal actions of the Trump/Vance administration** during JD Vance’s planned ski weekend at  Sugarbush and the Pitcher Inn.
