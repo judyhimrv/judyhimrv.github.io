@@ -10,4 +10,4 @@ is featured: true
 
 ### Join Indivisible Mad River Valley for a peaceful protest Saturday, March 1st from 9-10 am in Waitsfield. Meet on the sidewalk in front of the Waitsfield Green (Farmers' Market). Bring your own signs.
 
-## [SIGN UP HERE](https://www.mobilize.us/indivisiblemadriver.../event/758259/)
+## [SIGN UP HERE](https://www.mobilize.us/indivisiblemadrivervalley/event/758259/?referring_vol=4295329&share_context=dashboard-event-details&sharer_role=SharerRole.ORGANIZER)
