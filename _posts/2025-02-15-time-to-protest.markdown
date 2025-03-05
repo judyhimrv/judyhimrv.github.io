@@ -17,8 +17,6 @@ This is what the general strike is all about.
 
 Other planned actions:
 
-### [February 28 2025 The Economic Blackout](https://jointhepeoplesunion.com/command-center/f/the-economic-blackout-february-28th-2025)
-
 ### March 7-14 2025 Amazon Boycott 
 
 ### [March 15 2025 Shutdown 315 Movement](https://substack.com/home/post/p-156098363) 
