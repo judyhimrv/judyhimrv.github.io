@@ -7,6 +7,6 @@ is featured: true
 main-image: "/uploads/womensmarchmarch8.jpg"
 ---
 
-Join us this Saturday, March 8th, in Montpelier!
+Join us this Saturday, March 8th, 12 noon in Montpelier!
 
 ![womensmarchmarch8.jpg](/uploads/womensmarchmarch8.jpg)
