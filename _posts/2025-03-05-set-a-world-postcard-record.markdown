@@ -4,7 +4,6 @@ date: 2025-03-05 10:43:00 -05:00
 categories:
 - action
 is featured: true
-main-image: "/uploads/Postcard.jpeg"
 ---
 
 **PREPARE** for March 15th, 2025, a day hereafter to be known as #TheIdesOfTrump. Mail your postcards on March 15, The Ides of March. Here's how this came about.
