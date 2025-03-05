@@ -22,7 +22,7 @@ is featured: true
 
 President Donald Trump
 The White House
-1600 Pennsylvania Avenue NW, 
+1600 Pennsylvania Avenue NW,
 Washington, DC 20500.
 
 **SPREAD** the word.
