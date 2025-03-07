@@ -1,5 +1,5 @@
 ---
-title: Donate
+title: DONATE
 date: 2025-03-07 11:01:00 -05:00
 ---
 
