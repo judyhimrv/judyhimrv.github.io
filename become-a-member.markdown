@@ -11,7 +11,7 @@ Cutting to the chase - the time is now! You too can answer this call.
 
 ### [`JOIN US`](http://eepurl.com/hc5swz)
 
-So, let's get to it.  Find your passion in one of the IMRV committee paths to a Biden White House in 2025.`
+So, let's get to it.  Find your passion in one of the IMRV project paths.`
 
 * North Carolina Turn Out the Vote Project
 
