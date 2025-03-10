@@ -5,4 +5,4 @@ published: false
 is featured: true
 ---
 
-We were there.
+We were there! Mike P, Charity, Sarah, Becca - all were epic speakers. We're the ones with the Ukraine Staffs.
