@@ -1,6 +1,7 @@
 ---
 title: 'We Choose to Fight: STATE OFFICE VISIT'
 date: 2025-02-04 15:38:00 -05:00
+published: false
 is featured: false
 ---
 
