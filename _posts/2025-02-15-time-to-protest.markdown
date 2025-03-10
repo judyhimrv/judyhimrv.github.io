@@ -1,8 +1,8 @@
 ---
-title: Time to Protest
+title: Ongoing Protests
 date: 2025-02-15 16:31:00 -05:00
 categories:
-- action
+- info
 is featured: true
 ---
 
