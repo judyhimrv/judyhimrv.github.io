@@ -9,4 +9,4 @@ main-image: "/uploads/50501protestapril7.jpg"
 
 There's no letting up with 50501.  Protest again on April 5, 2025 in Montpelier.
 
-![50501protestapril7.jpg](/uploads/50501protestapril7.jpg)
+![50501protestapril5.jpg](/uploads/50501protestapril5.jpg)
