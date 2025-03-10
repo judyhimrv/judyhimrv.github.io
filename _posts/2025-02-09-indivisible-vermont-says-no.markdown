@@ -1,7 +1,6 @@
 ---
 title: Indivisible Vermont Says No!
 date: 2025-02-09 20:24:00 -05:00
-published: false
 is featured: true
 main-image: "/uploads/imrvstatehousevisitskinny.jpg"
 ---
