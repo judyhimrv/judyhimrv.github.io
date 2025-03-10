@@ -31,4 +31,6 @@ Washington, DC 20500
 
 **LET THIS BE A RECORD-BREAKING, OFFICIALLY VERIFIABLE, WAREHOUSE-FILLING FLOOD OF FURY!**
 
+We will be at Lawson's, Wednesday, March 12 - 4:30-5:30 PM, with postcards, addresses, and pens to write cards thanking some people for their recent actions and one not so much, #TheIdesOfTrump.
+
  
