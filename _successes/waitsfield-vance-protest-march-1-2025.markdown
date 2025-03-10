@@ -1,7 +1,7 @@
 ---
 title: Vance Protest Waitsfield March 1, 2025
 date: 2025-03-03 15:06:00 -05:00
-is featured: true
+is featured: false
 main-image: "/uploads/vanceprotestvideostiill.jpeg"
 ---
 
