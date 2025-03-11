@@ -5,4 +5,6 @@ is featured: true
 main-image: "/uploads/mediarev%20enceprotest.jpg"
 ---
 
+Read all about it.
+
 ### [Small Vermont Community Makes A Big Impact](https://theowp.org/small-vermont-community-makes-a-big-impact/)
