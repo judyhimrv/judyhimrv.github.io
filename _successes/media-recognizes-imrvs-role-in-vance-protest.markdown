@@ -5,4 +5,4 @@ is featured: true
 main-image: "/uploads/mediarev%20enceprotest.jpg"
 ---
 
-[![mediarev enceprotest.jpg](/uploads/mediarev%20enceprotest.jpg)](https://theowp.org/small-vermont-community-makes-a-big-impact/)
+### [Small Vermont Community Makes A Big Impact](https://theowp.org/small-vermont-community-makes-a-big-impact/)
