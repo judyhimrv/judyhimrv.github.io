@@ -7,4 +7,4 @@ main-image: "/uploads/ukraine242.jpg"
 
 ### From the brave little state of Vermont, the world is hearing what our local Indivisible leadership and group believe, support and want for the future of our country.  
 
-**[LISTEN NOW](https://soundcloud.com/pacificanetwork/031225-outrage-about-vance-takes-to-the-street)** 
+### [LISTEN NOW](https://soundcloud.com/pacificanetwork/031225-outrage-about-vance-takes-to-the-street) 
