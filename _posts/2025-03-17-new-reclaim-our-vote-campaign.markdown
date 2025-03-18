@@ -15,7 +15,7 @@ Here's a sample postcard.
 
 ![postcardsample.jpg](/uploads/postcardsample.jpg)
 
-To join the campaign, meet at Lawson's on Wednesday, March 26th, 4:30-5:30. RSVP to Sybil with the number of postcards you would like and so she can let Lawson's know how many people to expect.
+### To join the campaign, meet at Lawson's on Wednesday, March 26th, 4:30-5:30. RSVP to Sybil with the number of postcards you would like and so she can let Lawson's know how many people to expect.
 
 
 
