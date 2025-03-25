@@ -1,6 +1,7 @@
 ---
 title: Effect on Vermont and You?
 date: 2025-02-09 11:52:00 -05:00
+published: false
 categories:
 - effect
 is featured: false
