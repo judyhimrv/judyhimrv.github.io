@@ -3,6 +3,7 @@ title: How Else Can You Fight For Democracy?
 date: 2025-03-25 11:28:00 -04:00
 categories:
 - action
+is featured: true
 ---
 
 Here we go...strap in, there's lots to share.  Check the links below.
