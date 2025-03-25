@@ -1,6 +1,6 @@
 ---
 title: Hands Off National Day of Action
-date: 2025-03-25 12:25:00 -04:00
+date: 2025-03-25 11:45:00 -04:00
 categories:
 - action
 is featured: true
