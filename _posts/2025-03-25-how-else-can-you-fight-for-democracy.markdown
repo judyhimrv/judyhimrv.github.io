@@ -5,7 +5,7 @@ categories:
 - action
 ---
 
-Here we go...strap in, there's lots to share.
+Here we go...strap in, there's lots to share.  Check the links below.
 
 ### [Wisconsin Phone Banking](https://www.mobilize.us/swingbluealliance/event/751041/)
 
