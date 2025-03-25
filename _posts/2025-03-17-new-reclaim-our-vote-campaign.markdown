@@ -3,7 +3,7 @@ title: New Reclaim Our Vote Postcard Campaign
 date: 2025-03-17 20:18:00 -04:00
 categories:
 - action
-is featured: true
+is featured: false
 ---
 
 Virginia will hold elections for Governor, Lt. Governor, Attorney General, and the House of Delegates in November 2025. Virginia can be a bell-weather state, predicting future election results, so electing candidates who will protect our rights in Virginia this year will be a signal to the rest of the country for 2026. 
