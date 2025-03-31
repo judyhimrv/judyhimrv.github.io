@@ -1,6 +1,6 @@
 ---
 title: Hands Off National Day of Action - Noon in Montpelier
-date: 2025-03-25 11:45:00 -04:00
+date: 2025-03-31 15:00:00 -04:00
 categories:
 - action
 is featured: true
