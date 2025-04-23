@@ -2,6 +2,9 @@
 title: 'Postcards to Swing States:  Virginia'
 date: 2025-04-23 12:55:00 -04:00
 published: false
+categories:
+- action
+is featured: true
 ---
 
 Starting May 1st, IMRV will order postcards for Virginia, to stand in solidarity with the many federal workers who live there and who have become unemployed.
