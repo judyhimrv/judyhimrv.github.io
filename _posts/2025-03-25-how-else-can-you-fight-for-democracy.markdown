@@ -6,10 +6,6 @@ categories:
 is featured: false
 ---
 
-Here we go...strap in, there's lots to share.  Check the links below.
-
-### [Wisconsin Phone Banking](https://www.mobilize.us/swingbluealliance/event/751041/)
-
-### [Tesla Protests](https://actionnetwork.org/events/teslatakedown-global-day-of-action)
+Check the link below.
 
 ### [Rep. Raskin's DOGE and the Privacy Act action](https://jamieraskin.com/doge-privacy-act-requests/)
