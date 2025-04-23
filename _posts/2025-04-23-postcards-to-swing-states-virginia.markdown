@@ -11,5 +11,5 @@ Starting May 1st, IMRV will order postcards for Virginia, to stand in solidarity
 
 Postcard addresses come 25 to a page, so please order in batches of 25. The message is relatively short, GOTV, and they do not require Avery labels.They should not be mailed until mid-October.
 
-Please contact Sybil to let her know how many you would like (sybil.sch@gmail.com).
+Email Sybil to let her know how many you would like (sybil.sch@gmail.com).
 She will organize a Lawson's Postcard party for late May, and organize other pick ups if the party time/place doesn't work for you.
