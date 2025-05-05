@@ -9,7 +9,7 @@ layout: becomeAMember
 
 Cutting to the chase - the time is now! You too can answer this call.
 
-### [`JOIN US`](http://eepurl.com/hc5swz)
+### [`JOIN US`](https://secure.everyaction.com/OBLAEilF_0CY2kskFlugyg2)
 
 So, let's get to it.  Find your passion in one of the IMRV project paths.`
 
@@ -37,6 +37,6 @@ So, let's get to it.  Find your passion in one of the IMRV project paths.`
 
 * Rallies and Marches
 
-### [`JOIN US`](http://eepurl.com/hc5swz)
+### [`JOIN US`](https://secure.everyaction.com/OBLAEilF_0CY2kskFlugyg2)
 
 **All are welcome.**
