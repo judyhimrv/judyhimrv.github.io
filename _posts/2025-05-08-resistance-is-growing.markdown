@@ -1,10 +1,13 @@
 ---
-title: Resistance is Growing!
+title: Resistance is Growing!  Be a Part of It
 date: 2025-05-08 13:42:00 -04:00
+categories:
+- action
 is featured: true
 ---
 
-Indivisible Mad River Valley will be supporting two upcoming demonstrations and a parade.  Get your signs ready and join us for these events.
+Indivisible Mad River Valley will be supporting not one, but two upcoming demonstrations as well as a parade.  Get your signs ready and give you and your signs a workout.  Join us for these events:
+
 
 ### [June 14th No Kings Day](https://indivisible.org/statements/indivisible-and-partners-announce-no-kings-nationwide-day-defiance-flag-day-during)
 
