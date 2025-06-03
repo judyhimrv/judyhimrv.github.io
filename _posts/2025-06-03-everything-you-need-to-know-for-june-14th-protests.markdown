@@ -31,4 +31,4 @@ Participating Vermont groups include 50501 Vermont, local Indivisible groups, th
 
 [See 50501 Vermont events calendar](https://50501vermont.com/events/) to help you decide.
 
-**DONATE:** [Support the cause](https://secure.actblue.com/donate/vermontpolrev50501) 
+**DONATE:** [Support 50501](https://secure.actblue.com/donate/vermontpolrev50501) 
