@@ -12,6 +12,8 @@ In honor of Flag Day, participants in a “Relay for Democracy" will drive a cer
 
 *Directly over the mountain from the Mad River Valley, New Haven is the town IMRV has chosen as their gathering point. 
 
+![whatdemocracylookslike.jpg](/uploads/whatdemocracylookslike.jpg)
+
 **NO KINGS RALLY, BURLINGTON WATERFRONT**
 The largest event in Vermont will be a NO KINGS rally, organized by 50501 Vermont, in Burlington. It will include four marches converging at the city’s Waterfront Park, organized by Queen City Indivisible of Burlington, the Vermont Coalition for Palestinian Liberation, and the Resister Sisters. The event will feature speakers and performers, including Vermont Treasurer Mike Pieciak, cartoonist and author Alison Bechdel, Avi Salloway with Miriam Bernardo, and the Solidarity Singers. In addition to information tables and food trucks, the Resister Sisters will organize a die-in. Dozens of protesters, carrying tombstones to memorialize people, programs, and policies under lethal threat from the Trump administration, will lie down, stand, and sit in silence as a stark reminder of what is at stake. 
 
