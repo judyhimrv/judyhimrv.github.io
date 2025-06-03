@@ -12,6 +12,8 @@ In honor of Flag Day, participants in a “Relay for Democracy" will drive a cer
 
 *Directly over the mountain from the Mad River Valley, New Haven is the town IMRV has chosen as their gathering point. 
 
+[Sign up with IMRV](https://www.mobilize.us/mobilize/event/797155/)
+
 ![whatdemocracylookslike.jpg](/uploads/whatdemocracylookslike.jpg)
 
 **NO KINGS RALLY, BURLINGTON WATERFRONT**
