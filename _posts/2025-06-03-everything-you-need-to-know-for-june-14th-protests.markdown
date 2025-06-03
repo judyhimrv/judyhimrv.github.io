@@ -27,7 +27,7 @@ Other scheduled NO KINGS events will take place in Barton, Bellows Falls, Bennin
 **ORGANIZATIONS** 
 Participating Vermont groups include 50501 Vermont, local Indivisible groups, the Resister Sisters, the Milton Democratic Committee, FCVTWomen4Democracy, Rise Up!, Rights & Democracy, the Vermont Coalition for Palestinian Liberation, the Tempest Collective, the Vermont Public Interest Research Group, and the Party for Socialism and Liberation. Organizations are continuing to join.  
 
-**RSVP:** [Click to let us know you're coming](https://mobilize.us) 
+**RSVP:** [Let us know where you'll participate](https://mobilize.us) 
 
 [See 50501 Vermont events calendar](https://50501vermont.com/events/) to help you decide.
 
