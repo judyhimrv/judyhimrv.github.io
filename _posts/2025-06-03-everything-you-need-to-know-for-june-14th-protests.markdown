@@ -22,8 +22,6 @@ Other scheduled NO KINGS events will take place in Barton, Bellows Falls, Bennin
 **ORGANIZATIONS** 
 Participating Vermont groups include 50501 Vermont, local Indivisible groups, the Resister Sisters, the Milton Democratic Committee, FCVTWomen4Democracy, Rise Up!, Rights & Democracy, the Vermont Coalition for Palestinian Liberation, the Tempest Collective, the Vermont Public Interest Research Group, and the Party for Socialism and Liberation. Organizations are continuing to join.  
 
-**RSVP:** Find an event and let us know where you’ll be: https://nokings.org OR https://mobilize.us. In addition, 50501 Vermont maintains an events calendar at https://50501vermont.com/events/.
+**RSVP:** Find an event and [let us know where you’ll be](https://mobilize.us) [See 50501 Vermont events calendar](https://50501vermont.com/events/) to help you decide.
 
-**VOLUNTEER:** Want to learn more about volunteering on June 14? Sign up here to take part in our next mobilization call on Tuesday, June 3, at 7pm. 
-
-**DONATE:** Want to support the cause? Check out https://secure.actblue.com/donate/vermontpolrev50501.
+**DONATE:** [Support the cause.](https://secure.actblue.com/donate/vermontpolrev50501) 
