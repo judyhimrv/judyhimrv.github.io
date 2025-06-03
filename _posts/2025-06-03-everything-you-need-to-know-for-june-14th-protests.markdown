@@ -4,6 +4,7 @@ date: 2025-06-03 11:55:00 -04:00
 categories:
 - action
 is featured: true
+main-image: "/uploads/whatdemocracylookslike.jpg"
 ---
 
 **RELAY FOR DEMOCRACY, VERMONT ROUTE 7 CORRIDOR**
