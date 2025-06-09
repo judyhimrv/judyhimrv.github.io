@@ -1,6 +1,8 @@
 ---
 title: All the Stops on the Flag Relay
 date: 2025-06-09 16:59:00 -04:00
+categories:
+- action
 is featured: true
 ---
 
