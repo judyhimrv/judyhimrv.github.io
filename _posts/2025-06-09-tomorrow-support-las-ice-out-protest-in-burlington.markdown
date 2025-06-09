@@ -6,4 +6,4 @@ categories:
 is featured: true
 ---
 
- ![iceoutofla.jpg](/uploads/iceoutofla.jpg)
+![iceoutofla.jpg](/uploads/iceoutofla.jpg)
