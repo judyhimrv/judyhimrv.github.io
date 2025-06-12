@@ -1,5 +1,5 @@
 ---
-title: No Kings Day Update - New Haven Location Change
+title: No Kings Day/Flag Relay Update - New Haven Location Change
 date: 2025-06-12 10:43:00 -04:00
 categories:
 - action
