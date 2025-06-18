@@ -1,6 +1,7 @@
 ---
 title: Everything You Need to Know for June 14th Protests
 date: 2025-06-03 11:55:00 -04:00
+published: false
 categories:
 - action
 is featured: true
