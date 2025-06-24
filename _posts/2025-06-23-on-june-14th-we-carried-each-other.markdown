@@ -1,7 +1,7 @@
 ---
 title: On June 14th, We Carried Each Other
 date: 2025-06-23 20:30:00 -04:00
-published: false
+is featured: true
 ---
 
 On June 14th—Flag Day and National No Kings Day—over 8,500 Vermonters lined Route 7 for a peaceful protest we called Relay for Democracy: Honoring Our Flag Border to Border.
