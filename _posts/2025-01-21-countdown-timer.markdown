@@ -1,7 +1,7 @@
 ---
 title: Counting Down the Days
 date: 2025-01-21 14:08:00 -05:00
-is featured: true
+is featured: false
 Countdown Timer: 
 ---
 
