@@ -1,7 +1,7 @@
 ---
 title: Outrage About Vance in Vermont
 date: 2025-03-16 10:09:00 -04:00
-is featured: true
+is featured: false
 main-image: "/uploads/ukraine242small.jpg"
 ---
 
