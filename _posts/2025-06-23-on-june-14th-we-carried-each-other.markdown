@@ -18,4 +18,4 @@ We didn't just carry a flag. We carried each other.
 
 Thank you to everyone who participated, cheered, donated, and stood with us. Democracy only works when we do.
 
-  --Karen Cingiser, Indivisible Mad River Valley
+  --Lonnie Poland, Event Organizer
