@@ -1,7 +1,7 @@
 ---
 title: Vermont Showed Up!  Thank You
 date: 2025-03-03 11:34:00 -05:00
-is featured: true
+is featured: false
 ---
 
 ### We asked and you answered with a huge Vermont showing.
