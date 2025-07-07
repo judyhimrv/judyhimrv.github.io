@@ -30,7 +30,6 @@ June 17 4:30 Honk & Wave for Civil RIghts - WRJ, Maple St & Bridge St
 ### Montpelier: STAY TUNED...info coming soon.
 
 
+### [Brandon VT Central Park](https://www.mobilize.us/john-lewis-actions/event/804976/?emci=d6300587-5358-f011-8f7c-6045bdfe8e9c&emdi=50eed36f-2f5b-f011-8f7c-6045bdfe8e9c&ceid=2500793)
 
-### [Brandon VT Central Park](https://www.mobilize.us/john-lewis-actions/event/804976/?emci=d6300587-5358-f011-8f7c-6045bdfe8e9c&emdi=50eed36f-2f5b-f011-8f7c-6045bdfe8e9c&ceid=2500793)d
-
-2 Franklin St, Brandon VT
+2 Franklin St, Brandon VT 05733
