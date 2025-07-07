@@ -3,7 +3,7 @@ title: Resistance Continues!  Be a Part of It
 date: 2025-05-08 13:42:00 -04:00
 categories:
 - action
-is featured: true
+is featured: false
 ---
 
 Indivisible Mad River Valley is supporting another upcoming demonstration as well as a parade.  Get your signs ready and give you and your signs a workout.  Join us for these events:
