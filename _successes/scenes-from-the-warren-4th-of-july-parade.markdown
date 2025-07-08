@@ -9,6 +9,4 @@ main-image: "/uploads/20254th2.jpg"
 
 ![20254th1.jpg](/uploads/20254th1.jpg)
 
-![20254th3.jpg](/uploads/20254th3.jpg)
-
 ![20254th4.jpg](/uploads/20254th4.jpg)
