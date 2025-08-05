@@ -6,7 +6,8 @@ categories:
 is featured: true
 event-start-date: 2025-09-08 16:30:00 -04:00
 event-end-date: 2025-09-08 18:00:00 -04:00
-Location: 'Village Meeting House in the Waitsfield United Church  '
+Location: 'Note, because of Labor Day, this month''s meeting is on the 8th of August.
+  Village Meeting House in the Waitsfield United Church  '
 RSVP-link: https://www.mobilize.us/indivisiblemadrivervalley/event/809519/?emci=d6300587-5358-f011-8f7c-6045bdfe8e9c&emdi=50eed36f-2f5b-f011-8f7c-6045bdfe8e9c&ceid=2500793
 ---
 
