@@ -6,6 +6,8 @@ categories:
 is featured: true
 ---
 
+![artfuljustice.jpg](/uploads/artfuljustice.jpg)
+
 ### ARTFul Justice 2025
 
 **What it is:** A Silent Auction and Celebration of an Activated Community.  All Proceeds from the Auction go to The Vermont Immigration Legal Defense Fund.  
