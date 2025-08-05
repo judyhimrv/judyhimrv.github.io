@@ -4,6 +4,7 @@ date: 2025-07-07 21:21:00 -04:00
 categories:
 - action
 is featured: true
+main-image: "/uploads/artfuljustice.jpg"
 ---
 
 ![artfuljustice.jpg](/uploads/artfuljustice.jpg)
