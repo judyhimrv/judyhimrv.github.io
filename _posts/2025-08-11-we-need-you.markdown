@@ -4,7 +4,9 @@ date: 2025-08-11 16:31:00 -04:00
 is featured: true
 ---
 
-### Feeling the urge to do something?  Remember 'Action is the antidote to despair'.  Here are some specific requests:
+### Feeling the urge to do something?  Remember 'Action is the antidote to despair'.  
+
+Here are some specific requests:
 
 * **Sign up** to represent IMRV at the [TOGETHER WE STAND](https://50501vermont.com/event/ensemble-au-dela-des-frontieres-together-we-stand-frelighsburg-qc/?emci=bfdefde9-7f75-f011-8dc9-6045bda9d96b&emdi=940c30f5-9976-f011-8dc9-6045bda9d96b&ceid=2500793) action at the Canadien border on August 16th
 
@@ -15,6 +17,7 @@ is featured: true
 * **Represent IMRV** at the Mad River Valley Community Fair on 9/20.  Email us at IndivisibleMRV@gmail.com.
 
 * **Know how** to use Every Action? It is the platform we use to send out newsletters and news blasts. We need one more person to be a back up to send these out - not a regular commitment, just a back up. Can that be you?  Email us at IndivisibleMRV@gmail.com.
+
 * **Research** an easy to use, low cost texting platform we could use for IMRV text communications to members who don't use FB or read our newsletters.  Email us at IndivisibleMRV@gmail.com.
 
 * **Partner** with other Indivisible groups to plan rallies and protests. IMRV continues to get requests to partner with Montpelier, Calais, and other groups. If there are people we can tap into when the requests come in, then IMRV could help plan and pull off future protests and rallies. We know there will be something for Labor Day in both Burlington and Montpelier.  Email us at IndivisibleMRV@gmail.com.
