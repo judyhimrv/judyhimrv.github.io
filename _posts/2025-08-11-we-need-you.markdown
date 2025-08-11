@@ -1,13 +1,13 @@
 ---
 title: We Need You!
 date: 2025-08-11 16:31:00 -04:00
-published: false
+is featured: true
 ---
 
 Feeling the urge to do something?  Remember 'Action is the antidote to despair'.  Here are some specific requests:
 
 * Sign up to represent IMRV at the [TOGETHER WE STAND](https://50501vermont.com/event/ensemble-au-dela-des-frontieres-together-we-stand-frelighsburg-qc/?emci=bfdefde9-7f75-f011-8dc9-6045bda9d96b&emdi=940c30f5-9976-f011-8dc9-6045bda9d96b&ceid=2500793) action at the Canadien border on August 16th
-* Volunteer to help out at our ARTful Justice fundraiser on 9/5 in Waitsfield. Email us
+* Volunteer to help out at our ARTful Justice fundraiser on 9/5 in Waitsfield. [Email us](https://mail.google.com/mail/u/0/?q=minna#inbox/FMfcgzQcpKbBxhhGTMRLWdtbgWxptFld?compose=new)
 * Be part of a group that takes the lead on Strategic Non-Compliance actions by taking the Indivisible One Million Rising training on line, and/or participate in the [CENTRAL VERMONT FORUM ON NONVIOLENT RESISTANCE](https://docs.google.com/forms/d/e/1FAIpQLSczi_6PKoYvK9S1Bbi4EaxLyoCw_dxTKTaAdsXF251CSAFRXQ/viewform?emci=bfdefde9-7f75-f011-8dc9-6045bda9d96b&emdi=940c30f5-9976-f011-8dc9-6045bda9d96b&ceid=2500793) Sunday September 7, 4:00-6:30 pm in Montpelier, and share what you learn with us.
 * Represent IMRV at the Mad River Valley Community Fair on 9/20. Email us
 * Know how to use Every Action? It is the platform we use to send out newsletters and news blasts. We need one more person to be a back up to send these out - not a regular commitment, just a back up. Can that be you? Email us
