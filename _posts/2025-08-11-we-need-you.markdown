@@ -8,7 +8,7 @@ is featured: true
 
 ### Feeling the urge to do something?  Remember 'Action is the antidote to despair'.  
 
-Here are some specific requests:
+**Here are some specific requests:**
 
 * **Sign up** to represent IMRV at the [TOGETHER WE STAND](https://50501vermont.com/event/ensemble-au-dela-des-frontieres-together-we-stand-frelighsburg-qc/?emci=bfdefde9-7f75-f011-8dc9-6045bda9d96b&emdi=940c30f5-9976-f011-8dc9-6045bda9d96b&ceid=2500793) action at the Canadien border on August 16th
 
@@ -28,4 +28,4 @@ Here are some specific requests:
 
 * **Not sure** what you can do, but interested in doing something? IMRV will contact you when specific requests, or new actions come up, and we need folks to lead those actions.  Email us at IndivisibleMRV@gmail.com.
 
-Thanks for being part of IMRV's commitment to saving democracy.
+**Thanks for being part of IMRV's commitment to saving democracy.**
