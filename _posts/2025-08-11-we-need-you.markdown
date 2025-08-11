@@ -6,7 +6,7 @@ is featured: true
 
 ### Feeling the urge to do something?  Remember 'Action is the antidote to despair'.  Here are some specific requests:
 
-* **Sign up **to represent IMRV at the [TOGETHER WE STAND](https://50501vermont.com/event/ensemble-au-dela-des-frontieres-together-we-stand-frelighsburg-qc/?emci=bfdefde9-7f75-f011-8dc9-6045bda9d96b&emdi=940c30f5-9976-f011-8dc9-6045bda9d96b&ceid=2500793) action at the Canadien border on August 16th
+* **Sign up** to represent IMRV at the [TOGETHER WE STAND](https://50501vermont.com/event/ensemble-au-dela-des-frontieres-together-we-stand-frelighsburg-qc/?emci=bfdefde9-7f75-f011-8dc9-6045bda9d96b&emdi=940c30f5-9976-f011-8dc9-6045bda9d96b&ceid=2500793) action at the Canadien border on August 16th
 
 * **Volunteer** to help out at our ARTful Justice fundraiser on 9/5 in Waitsfield. Email us at IndivisibleMRV@gmail.com.
 
