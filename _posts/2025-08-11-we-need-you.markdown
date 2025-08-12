@@ -4,6 +4,7 @@ date: 2025-08-11 16:31:00 -04:00
 categories:
 - action
 is featured: true
+main-image: "/uploads/weneedyou.jpg"
 ---
 
 ### Feeling the urge to do something?  Remember 'Action is the antidote to despair'.  
