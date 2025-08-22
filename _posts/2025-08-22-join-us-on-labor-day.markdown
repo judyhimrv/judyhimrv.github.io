@@ -7,4 +7,4 @@ is featured: true
 main-image: "/uploads/Labor%20Day%20Flyesmallr.jpg"
 ---
 
-![Labor Day Flyersmallest.jpg](/uploads/Labor%20Day%20Flyersmallest.jpg)
+![LDFwidth5.jpg](/uploads/LDFwidth5.jpg)
