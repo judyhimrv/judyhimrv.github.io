@@ -1,6 +1,7 @@
 ---
 title: ARTful Justice Fundraiser coming up September 5th
 date: 2025-07-07 21:21:00 -04:00
+published: false
 categories:
 - action
 is featured: true
