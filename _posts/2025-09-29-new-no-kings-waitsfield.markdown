@@ -10,6 +10,5 @@ main-image: "/uploads/NK1018_No%20Thrones%20No%20Crowns%20No%20Kings-4_Mobilize%
 
 ### Stay local and protest with us on Rte. 100 at Bridge Street in Waitsfield, 9:30 am, Saturday, October 18, 2025.
 
-Sign up now with [Mobilize](https://www.mobilize.us/nokings/event/850872/?).
+### Sign up now with [Mobilize](https://www.mobilize.us/nokings/event/850872/?).
 
-> https://www.mobilize.us/nokings/event/850872/?fbclid=IwZXh0bgNhZW0CMTEAYnJpZBExVHpCRlRQUGwwRFduYlZESwEekzWB9NSgACs9KejGngDLh1krP0ecQt_carxdMuP2LdrFkXkqFDitQHA7sdQ_aem_bMM1_SjAmNJbTbOpsnSTKg
