@@ -11,8 +11,7 @@ main-image: "/uploads/IMRV%20No%20Kings%20flyer%2012x16.jpg"
 
 Two locations but two different times.  Get started in Waitsfield and finish in Montpelier for a fully satisfying day of protests.
 
-### SIGN UP AND DONATE BELOW
-
+### Sign up and donate below
 ![IMRV No Kings flyer 12x16.jpg](/uploads/IMRV%20No%20Kings%20flyer%2012x16.jpg) 
 
 
