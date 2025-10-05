@@ -7,6 +7,8 @@ is featured: true
 main-image: "/uploads/IMRV%20No%20Kings%20flyer%206x8.jpg"
 ---
 
-### Join us in Waitsfield and Montpelier!  Two locations but two different times.  Get started in Waitsfield and finish in Montpelier for a fully satisfying day of protests.
+### Join us in Waitsfield and Montpelier!
 
-![IMRV No Kings flyer 6x8.jpg](/uploads/IMRV%20No%20Kings%20flyer%206x8.jpg)
+Two locations but two different times.  Get started in Waitsfield and finish in Montpelier for a fully satisfying day of protests.
+
+![IMRV No Kings flyer 12x16.jpg](/uploads/IMRV%20No%20Kings%20flyer%2012x16.jpg)  
