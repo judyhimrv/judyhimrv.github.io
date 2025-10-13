@@ -15,4 +15,6 @@ main-image: "/uploads/downhomenc.jpg"
 
 ### Our focus is fundraising for one of our most important local partners, Down Home North Carolina, a well-vetted group which focuses on multi-racial small town and rural areas (Vermonters know how important that is), knocking on doors and connecting with NC voters about critical issues that affect their communities. With an open US Senate seat and multiple competitive house and legislative races, early organizing in NC will be crucial for turning back the tide of MAGA extremism and returning sanity to our politics.  We can do this. We need to win elections and that's where you can play your part. 
 
-### Share this info with friends and ask them to help gain a Democratic seat in the senate.  today. 
+### Share this info with friends and ask them to help gain a Democratic seat in the senate. 
+
+### [DONATE NOW TO WIN!](https://secure.actblue.com/donate/ll-early-intensive-organizing?refcode=imrv) 
