@@ -1,5 +1,5 @@
 ---
-title: Help Win a Senate Seat in Our Sister State
+title: Help Switch a Senate Seat to Blue in Our Sister State
 date: 2025-10-13 17:27:00 -04:00
 categories:
 - action
@@ -17,4 +17,4 @@ main-image: "/uploads/downhomenc.jpg"
 
 **Share this info** with friends and ask them to help gain a Democratic seat in the senate. 
 
-### [DONATE NOW TO SWITCH AN NC SENATE SEAT BLUE!](https://secure.actblue.com/donate/ll-early-intensive-organizing?refcode=imrv) 
+### [DONATE NOW TO SWITCH A SENATE SEAT BLUE!](https://secure.actblue.com/donate/ll-early-intensive-organizing?refcode=imrv) 
