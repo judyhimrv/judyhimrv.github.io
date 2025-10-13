@@ -17,4 +17,4 @@ main-image: "/uploads/downhomenc.jpg"
 
 **Share this info** with friends and ask them to help gain a Democratic seat in the senate. 
 
-### [DONATE NOW TO WIN!](https://secure.actblue.com/donate/ll-early-intensive-organizing?refcode=imrv) 
+### [DONATE NOW TO SWITCH AN NC SENATE SEAT BLUE!](https://secure.actblue.com/donate/ll-early-intensive-organizing?refcode=imrv) 
