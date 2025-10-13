@@ -1,7 +1,6 @@
 ---
 title: Help Win a Senate Seat in Our Sister State
 date: 2025-10-13 17:27:00 -04:00
-published: false
 categories:
 - action
 is featured: true
