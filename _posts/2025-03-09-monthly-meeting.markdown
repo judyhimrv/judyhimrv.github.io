@@ -11,3 +11,5 @@ RSVP-link: https://www.mobilize.us/indivisiblemadrivervalley/event/809519/?emci=
 ---
 
 Regular monthly meetings are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.
+
+**[SIGN UP TO ATTEND](https://www.mobilize.us/indivisiblemadrivervalley/event/819976/?emci=e9db311f-7fb2-f011-8e61-6045bded8ba4&emdi=c27d560d-aeb4-f011-8e61-6045bded8ba4&ceid=2500793)**
