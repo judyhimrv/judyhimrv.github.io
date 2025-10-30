@@ -15,4 +15,4 @@ As per CVRAN Executive Director Ali Zenie :
 
 Can't make it to the meeting but would like to donate anyway?
 
-[CENTRAL VERMONT REFUGEE ACTION NETWORK - DONATE HERE](https://cvran.org/donate/?emci=e9db311f-7fb2-f011-8e61-6045bded8ba4&emdi=c27d560d-aeb4-f011-8e61-6045bded8ba4&ceid=2500793)
+**[CENTRAL VERMONT REFUGEE ACTION NETWORK - DONATE HERE](https://cvran.org/donate/?emci=e9db311f-7fb2-f011-8e61-6045bded8ba4&emdi=c27d560d-aeb4-f011-8e61-6045bded8ba4&ceid=2500793)**
