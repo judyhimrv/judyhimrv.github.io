@@ -3,7 +3,7 @@ title: Help Switch a Senate Seat to Blue in Our Sister State
 date: 2025-10-13 17:27:00 -04:00
 categories:
 - action
-is featured: true
+is featured: false
 main-image: "/uploads/downhomenc.jpg"
 ---
 
