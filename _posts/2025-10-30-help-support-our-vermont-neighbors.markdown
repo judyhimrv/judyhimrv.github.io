@@ -1,6 +1,7 @@
 ---
 title: Help Support Our Vermont Neighbors
 date: 2025-10-30 14:06:00 -04:00
+published: false
 categories:
 - action
 is featured: true
