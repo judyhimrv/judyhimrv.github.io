@@ -4,8 +4,8 @@ date: 2025-03-09 20:44:00 -04:00
 categories:
 - event
 is featured: true
-event-start-date: 2025-12-01 16:30:00 -05:00
-event-end-date: 2025-12-01 18:00:00 -05:00
+event-start-date: 2026-01-05 16:30:00 -05:00
+event-end-date: 2026-01-05 18:00:00 -05:00
 Location: " Village Meeting House in the Waitsfield United Church  "
 ---
 
