@@ -1,0 +1,15 @@
+---
+title: ICE Protest
+date: 2025-12-02 08:54:00 -05:00
+categories:
+- action
+is featured: true
+---
+
+In another expansion of the Trump administration's reign of terror against imigrant families and free speech, ICE is planning a ew social media surveillance initiative out of their facility on Industrial Avenue in Williston.  
+
+### Bring noisemakers, signs and your voice. 
+
+### Show Trump, ICE and the landlord that we stand with immigrant families and want ICE out of VT!
+
+### Wednesday, December 10, 5:00 pm, 420 Industrial Avenue, Williston
