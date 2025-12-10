@@ -7,7 +7,7 @@ is featured: true
 main-image: "/uploads/icecube.jpg"
 ---
 
-In another expansion of the Trump administration's reign of terror against imigrant families and free speech, ICE is planning a ew social media surveillance initiative out of their facility on Industrial Avenue in Williston.  
+In another expansion of the Trump administration's reign of terror against imigrant families and free speech, ICE is planning a new social media surveillance initiative out of their facility on Industrial Avenue in Williston.  
 
 ### Bring noisemakers, signs and your voice. 
 
