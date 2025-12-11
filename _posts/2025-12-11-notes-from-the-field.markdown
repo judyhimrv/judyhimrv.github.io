@@ -4,6 +4,7 @@ date: 2025-12-11 14:18:00 -05:00
 categories:
 - action
 is featured: true
+main-image: "/uploads/fieldandbarn.jpg"
 ---
 
 Actions to take now.
