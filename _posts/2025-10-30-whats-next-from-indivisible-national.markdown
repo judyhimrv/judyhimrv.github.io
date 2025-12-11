@@ -1,7 +1,7 @@
 ---
 title: What's Next from Indivisible National
 date: 2025-10-30 14:26:00 -04:00
-is featured: true
+is featured: false
 ---
 
 From Leah and Ezra's meeting following the No Kings Protests on 10/18:
