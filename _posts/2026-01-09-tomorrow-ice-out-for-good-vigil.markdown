@@ -7,9 +7,21 @@ categories:
 is featured: true
 ---
 
-Morning vigil for Renee Nicole Good
+MORNING VIGIL for Renee Nicole Good
 
-Saturday 1/10/26 7:30-8:30
+SATURDAY
+1/10/26 7:30-8:30
 
-By the VG/Church/Joslin Library
+WHERE
+By the VG/UCC Church/Joslin Library
+
+PARKING
+Behind UCC Church and Town Hall
+(Please do not park at VG, they need their customers and we'd welcome the added visibility)
+
+THEME
+ICE out for GOOD!
+ICE out for Renee Nicole GOOD!!
+ICE out for ALL!!!
+
 
