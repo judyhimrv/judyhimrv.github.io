@@ -21,8 +21,10 @@ Behind UCC Church and Town Hall
 
 THEME
 ICE out!
-for GOOD!
-ICE out for Renee Nicole GOOD!!
-ICE out for ALL!!!
+For GOOD!
+For Renee Nicole GOOD!!
+For ALL!!!
+
+On to sign making and see you tomorrow.
 
 
