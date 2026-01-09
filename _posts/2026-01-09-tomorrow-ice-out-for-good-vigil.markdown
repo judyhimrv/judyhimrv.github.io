@@ -22,9 +22,9 @@ main-image: "/uploads/imrvlogo.jpg"
 
 ## THEME
 ### ICE out!
-For GOOD!
-For Renee Nicole GOOD!!
-For ALL!!!
+### For GOOD!
+### For Renee Nicole GOOD!!
+### For ALL!!!
 
 ### On to sign making and see you tomorrow.
 
