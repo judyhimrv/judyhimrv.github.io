@@ -7,7 +7,8 @@ is featured: true
 main-image: "/uploads/imrvlogo.jpg"
 ---
 
-## MORNING VIGIL ### for Renee Nicole Good
+## MORNING VIGIL 
+### for Renee Nicole Good
 
 ## SATURDAY
 ### 1/10/26 7:30-8:30
