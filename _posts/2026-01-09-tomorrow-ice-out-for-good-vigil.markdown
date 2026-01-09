@@ -20,7 +20,8 @@ Behind UCC Church and Town Hall
 (Please do not park at VG, they need their customers and we'd welcome the added visibility)
 
 THEME
-ICE out for GOOD!
+ICE out!
+for GOOD!
 ICE out for Renee Nicole GOOD!!
 ICE out for ALL!!!
 
