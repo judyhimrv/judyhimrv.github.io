@@ -1,7 +1,7 @@
 ---
 title: Scenes from the Warren 4th of July Parade 2025
 date: 2025-07-07 20:57:00 -04:00
-is featured: true
+is featured: false
 main-image: "/uploads/20254th2.jpg"
 layout: media-item
 ---
