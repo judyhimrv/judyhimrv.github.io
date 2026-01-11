@@ -1,5 +1,5 @@
 ---
-title: MLK Day Call to Defend Democracy
+title: MLK Day Call to Defend Democracy - 1/19/26
 date: 2026-01-11 16:42:00 -05:00
 categories:
 - action
