@@ -10,7 +10,7 @@ event-end-date: 2026-01-19 12:30:00 -05:00
 Location: Main Street, Waitsfield VT around Mad River Green Gazebo
 ---
 
-This peaceful event is happening along Main St. in Waitsfield centered by the gazebo and the Mad River Green. 
+This peaceful event is happening along Main Street in Waitsfield, centered by the gazebo and the Mad River Green. 
 
 ### When: Monday, Jan 19 2026, 11 AM to 12:30 PM
 ### Where: Main St Waitsfield VT by Mad River Green
