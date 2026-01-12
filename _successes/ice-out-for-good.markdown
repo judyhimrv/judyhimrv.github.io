@@ -9,5 +9,4 @@ layout: default
 
 IndivisibleMRV and friends were there at 7:30 am for a vigil to honor and remember Renee Nicole Good, shot by an ICE agent on Jan 27, 2026. 
 
-![4good6.jpg](/uploads/4good6.jpg)![4good2.jpg](/uploads/4good2.jpg)![4good1.jpg](/uploads/4good1.jpg)
-![4good3.jpg](/uploads/4good3.jpg)![4good4.jpg](/uploads/4good4.jpg)
+![4good6.jpg](/uploads/4good6.jpg)![4good2.jpg](/uploads/4good2.jpg)![4good1.jpg](/uploads/4good1.jpg)![4good3.jpg](/uploads/4good3.jpg)![4good4.jpg](/uploads/4good4.jpg)
