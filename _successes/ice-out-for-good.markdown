@@ -1,7 +1,7 @@
 ---
 title: ICE Out for Good Vigil
 date: 2026-01-11 16:55:00 -05:00
-is featured: true
+is featured: false
 main-image: "/uploads/4goodwide.jpg"
 Field name: 
 layout: default
