@@ -1,5 +1,5 @@
 ---
-title: MLK Day Rally to Defend Democracy
+title: Waitsfield Rally on MLK Day 2026
 date: 2026-01-24 13:32:00 -05:00
 published: false
 is featured: true
