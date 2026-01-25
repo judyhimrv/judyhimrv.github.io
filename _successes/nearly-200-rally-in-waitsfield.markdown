@@ -1,5 +1,5 @@
 ---
-title: Nearly 200 Rally in Waitsfield
+title: Rally in Waitsfield  on MLK Day 2026
 date: 2026-01-24 20:46:00 -05:00
 is featured: true
 main-image: "/uploads/mlkrally1.jpg"
