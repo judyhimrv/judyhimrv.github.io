@@ -8,4 +8,4 @@ layout: default
 
 ### Indivisible Mad River Valley, along with Calais and Montpelier Indivisibles and many other supporters, gathered along Rte 100 in Waitsfield to honor Martin Luther King on January 19th, 2026. 
 
-![mlkrally3wide.jpg](/uploads/mlkrally3wide.jpg)![mlkrally1.jpg](/uploads/mlkrally1.jpg)![mlkrally2.jpg](/uploads/mlkrally2.jpg)![mlkrally4.jpeg](/uploads/mlkrally4.jpeg)
+![mlkrally3wide.jpg](/uploads/mlkrally3wide.jpg)![mlkrally1wide-549b27.jpg](/uploads/mlkrally1wide-549b27.jpg)![mlkrally2.jpg](/uploads/mlkrally2.jpg)![mlkrally4.jpeg](/uploads/mlkrally4.jpeg)
