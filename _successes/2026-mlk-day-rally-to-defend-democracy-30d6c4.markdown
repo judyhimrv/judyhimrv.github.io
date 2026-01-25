@@ -1,5 +1,5 @@
 ---
-title: 2026 MLK Day Rally to Defend Democracy
+title: MLK Day Rally to Defend Democracy
 date: 2026-01-24 13:32:00 -05:00
 published: false
 is featured: true
