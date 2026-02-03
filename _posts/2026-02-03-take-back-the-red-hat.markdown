@@ -4,6 +4,7 @@ date: 2026-02-03 16:23:00 -05:00
 categories:
 - action
 is featured: true
+main-image: "/uploads/snowyredhat.jpeg"
 ---
 
 In the 1940s, Norwegians made and wore red pointed hats with a tassel as a form of protest against Nazi occupation of their country. Join the CRAFTIVIST revolution and make your own red protest hat!
