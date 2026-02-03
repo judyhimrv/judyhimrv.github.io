@@ -2,7 +2,7 @@
 title: Next No Kings Day - Mar 28
 date: 2026-02-03 17:48:00 -05:00
 categories:
-- ation
+- action
 is featured: true
 main-image: "/uploads/3nokings%20copy.jpg"
 ---
