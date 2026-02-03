@@ -14,6 +14,6 @@ Join us to write postcards to our legislators, thanking them for their work on c
 
 ### Where?  Lawson's Finest, Waitsfield
 
-### What?  Postcards and stamps will be provided.
+### What?  Postcards and stamps will be provided. Bring a pen.
 
 Sponsored by Indivisible Mad River Valley and ACLU-VT.
