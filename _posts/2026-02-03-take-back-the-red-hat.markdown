@@ -1,46 +1,36 @@
 ---
 title: Take Back the Red Hat!
 date: 2026-02-03 16:23:00 -05:00
-published: false
+categories:
+- action
+is featured: true
 ---
 
 In the 1940s, Norwegians made and wore red pointed hats with a tassel as a form of protest against Nazi occupation of their country. Join the CRAFTIVIST revolution and make your own red protest hat!
 
-Melt the Ice hats - Sit N Knit (or Crochet)
+### Join us Saturday, February 14, 10 - 3 at afterthoughts, Waitsfield 
 
-Saturday, February 14, 10 - 3 at afterthoughts, Waitsfield
+### Sit N Knit (or Crochet) Melt the Ice hats
 
+Patterns can be ordered from Needle & Skein in St. Louis Park, MN (PDF download - $5), for either [knit](https://www.ravelry.com/patterns/library/melt-the-ice-hat) or [crochet](https://www.ravelry.com/patterns/library/melt-the-ice-crochet-version) versions. Your pattern purchase will support these designers who are donating the funds raised to the Immigrant Rapid Response Fund in Minnesota.
 
-Pattern
-
-We’d love you to support these designers from Needle & Skein in St. Louis Park, MN by ordering (PDF download - $5) the KNIT or CROCHET version of the pattern. They are continuing to donate funds to the Immigrant Rapid Response Fund in Minnesota.
-
-
-Here’s a similar free version to download.
-
-We’ll also have some paper copies of this one to share - knit only.
+Otherwise, here’s a similar [free version](https://www.ravelry.com/patterns/library/red-hat-of-resistance---melt-the-ice) to download. We’ll also have some paper copies of this one to share - knit only. Or if you have a pattern of your own, please bring that!
 
 
-If you have another pattern, please bring that!
+Come prepared with:
 
-
-Bring your own
-
-Needles - size for your pattern.  
-
-Red yarn if you have it. We have some skeins to share until we run out!
-
-A snack to share if you’re able.
-
-Drink or water bottle.
-
+* Needles - size for your pattern.  
+* Red yarn if you have it. We have some skeins to share until we run out!
+* Snack to share if you’re able.
+* Drink or water bottle.
 
 Make one for yourself and/or donate one to our protest team!
 
+Those who don’t knit or crochet can also [make a donation online](https://payhip.com/b/fxkOa) and stop by anyway to support the efforts. All are welcome!
 
 Sponsored by Indivisible Mad River Valley
 
-All are welcome!
+
 
 
 
@@ -51,7 +41,7 @@ the daughter of the Needle & Skein owner shared that right now, proceeds will be
 
 “We also plan to work with other businesses to identify where people most need funds,” she added. “We raised way more than anticipated.”
 
-Those who don’t knit or crochet can also make a donation online to support the efforts.
+
 
 Needle & Skein - yarn shop in Saint Louis Park, MN
 
