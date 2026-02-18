@@ -2,6 +2,13 @@
 title: CVRAN
 date: 2026-02-18 10:01:00 -05:00
 published: false
+categories:
+- action
+is featured: true
 ---
 
 ![CVRAN7wide-e0b95d.jpg](/uploads/CVRAN7wide-e0b95d.jpg)
+
+![CVRAN7wide.jpeg](/uploads/CVRAN7wide.jpeg)
+
+
