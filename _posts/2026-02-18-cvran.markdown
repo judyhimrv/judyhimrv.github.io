@@ -8,12 +8,12 @@ is featured: true
 main-image: "/uploads/CVRAN7wide-796004.jpg"
 ---
 
-![CVRAN7wide-e0b95d.jpg](/uploads/CVRAN7wide-e0b95d.jpg)
-
-![CVRAN7wide.jpeg](/uploads/CVRAN7wide.jpeg)
+![CVRAN FINAL copy.jpg](/uploads/CVRAN%20FINAL%20copy.jpg)
 
 
 
-![CVRAN7wide-796004.jpg](/uploads/CVRAN7wide-796004.jpg)
+
+
+
 
 
