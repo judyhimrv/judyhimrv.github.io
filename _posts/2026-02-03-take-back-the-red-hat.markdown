@@ -1,6 +1,7 @@
 ---
 title: Take Back the Red Hat!  Feb 14
 date: 2026-02-03 16:23:00 -05:00
+published: false
 categories:
 - action
 is featured: true
