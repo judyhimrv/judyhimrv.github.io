@@ -16,6 +16,6 @@ In a Democracy, the power resides with the people, not with an authoritarian rul
 
 ### Let’s make our movement impossible to ignore.
 
-### [Register here](https://www.mobilize.us/Greeleyweldindivisible/event/900834/) 
+### [Register here](https://www.mobilize.us/mobilize/event/900834/) 
 
 ### [See all events nationwide](https://www.nokings.org/) 
