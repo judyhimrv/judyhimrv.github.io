@@ -1,11 +1,13 @@
 ---
 title: Waitsfield March 28 No Kings 3 Rally
 date: 2026-03-11 10:32:00 -04:00
-published: false
+categories:
+- action
 is featured: true
+main-image: "/uploads/No%20Kings%203.jpeg"
 ---
 
-On March 28, residents of the Mad River Valley will join millions across the country to tell the current federal administration loud and clear: 
+![No Kings 3.jpeg](/uploads/No%20Kings%203.jpeg)On March 28, residents of the Mad River Valley will join millions across the country to tell the current federal administration loud and clear: 
 
 ### No Thrones. No Crowns.#NoKings in America! 
 
