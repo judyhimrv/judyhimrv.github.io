@@ -4,7 +4,7 @@ date: 2026-03-11 10:32:00 -04:00
 categories:
 - action
 is featured: true
-main-image: "/uploads/No%20Kingsalim.jpeg"
+main-image: "/uploads/No%20Kingsalimmer.jpeg"
 ---
 
 On March 28, residents of the Mad River Valley will join millions across the country to tell the current federal administration loud and clear: 
