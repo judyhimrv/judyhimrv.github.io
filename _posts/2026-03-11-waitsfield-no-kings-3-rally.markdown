@@ -7,7 +7,7 @@ is featured: true
 main-image: "/uploads/No%20Kings%203.jpeg"
 ---
 
-![No Kings 3.jpeg](/uploads/No%20Kings%203.jpeg)On March 28, residents of the Mad River Valley will join millions across the country to tell the current federal administration loud and clear: 
+On March 28, residents of the Mad River Valley will join millions across the country to tell the current federal administration loud and clear: 
 
 ### No Thrones. No Crowns.#NoKings in America! 
 
