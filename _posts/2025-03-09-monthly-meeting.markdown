@@ -16,13 +16,4 @@ Regular monthly meetings are held the first Monday of every month, at 4:30 pm, V
 
 Our lanes of engagement are operational! Remember, all lanes lead to the midterms! We don’t need to remind anyone that democracy is in peril; what we need to do is engage in as much as we can in order to rebuild democracy. 2026 is the time  to move a bit out of our comfort zones to engage in actions.    What will your role be? 
 
-**Get Out the Vote**
-
-**Protests/Rallies**
-
-**Policy Actions**
-
-**Fundraising and Support for Non-profits**
-
-**IMRV Community Building**
 
