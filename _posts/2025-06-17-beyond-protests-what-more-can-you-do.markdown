@@ -2,9 +2,9 @@
 title: 'Beyond Protests:  What More Can You Do?  Lanes of Engagement'
 date: 2025-06-17 21:15:00 -04:00
 categories:
-- action
-is featured: false
-main-image: "/uploads/aofc-logo-HD-new.png"
+- sugar
+is featured: true
+main-image: "/uploads/imrvlogo.jpg"
 ---
 
 Resistance is multi-faceted: protests are just one piece.  Please consider taking action in other ways as well.  Check out IMRV options in a variety of areas we've defined as our 'lanes of engagement' and decide what role you'd like to play.
