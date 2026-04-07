@@ -17,4 +17,4 @@ On May 1, 2026, workers, students, and families will rally, march, and take acti
 * Share the link with friends, family, and co-workers.
  
 
-### Sign the [MAY DAY STRONG ] (https://survey.alchemer.com/s3/8705046/01fb56595d3a)pledge.
+### Sign the [MAY DAY STRONG](https://survey.alchemer.com/s3/8705046/01fb56595d3a) pledge.  
