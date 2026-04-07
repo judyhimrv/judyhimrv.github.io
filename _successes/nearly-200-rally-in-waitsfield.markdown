@@ -1,6 +1,8 @@
 ---
 title: Rally in Waitsfield  on MLK Day 2026
 date: 2026-01-24 20:46:00 -05:00
+categories:
+- success
 is featured: false
 main-image: "/uploads/mlkrally3wide.jpg"
 layout: default
