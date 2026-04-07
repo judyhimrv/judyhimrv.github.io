@@ -28,7 +28,7 @@ Remember, all lanes lead to the midterms! We don’t need to remind anyone that 
 
 * Indivisible Community Building: Building community within individual local groups; building the wider community; building connections between local groups in the Vermont Indivisible Network.
 
-So once more, what will your role be?
+### So once more, what will your role be?
 
 If you're not already an IMRV member but are interested in one, or more, of these Lanes, please come to our next meeting or contact us at indivisiblemrv.org.  We'd love to have you join us!
 
