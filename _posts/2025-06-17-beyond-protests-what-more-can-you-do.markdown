@@ -11,7 +11,7 @@ Resistance is multi-faceted: protests are just one piece.  Please consider takin
 
 ### January 2026 Lanes of Engagement
 
-* Voter Protection | Get Out the Vote: Phonebanking; text banking; letter writing; canvassing; voter registration; postcarding.
+* Voter Protection: Get Out the Vote: Phonebanking; text banking; letter writing; canvassing; voter registration; postcarding.
 
 * Protests & Rallies: Participating in protests and economic actions (national, state, or local); visibility actions.
 
