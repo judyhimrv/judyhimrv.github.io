@@ -18,7 +18,7 @@ Remember, all lanes lead to the midterms! We don’t need to remind anyone that 
 
 ### January 2026 Lanes of Engagement
 
-* Voter Protection | Get Out the Vote: Phonebanking; text banking; letter writing; canvassing; voter registration; postcarding.
+* Voter Protection: Get Out the Vote: Phonebanking; text banking; letter writing; canvassing; voter registration; postcarding.
 
 * Protests & Rallies: Participating in protests and economic actions (national, state, or local); visibility actions.
 
