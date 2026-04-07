@@ -1,5 +1,5 @@
 ---
-title: 'Beyond Protests:  What More Can You Do?  Lanes of Engagement'
+title: 'Beyond Protests:  What More Can You Do?'
 date: 2025-06-17 21:15:00 -04:00
 categories:
 - sugar
