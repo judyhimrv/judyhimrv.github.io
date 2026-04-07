@@ -12,8 +12,6 @@ Location: " Village Meeting House in the Waitsfield United Church  "
 
 Regular monthly meetings are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.
 
-**Here's what to look for as we enter a new year...**
-
-Our lanes of engagement are operational! Remember, all lanes lead to the midterms! We don’t need to remind anyone that democracy is in peril; what we need to do is engage in as much as we can in order to rebuild democracy. 2026 is the time  to move a bit out of our comfort zones to engage in actions.    What will your role be? 
+Our lanes of engagement are operational! Remember, all lanes lead to the midterms! We don’t need to remind anyone that democracy is in peril; what we need to do is engage in as much as we can in order to rebuild democracy. 2026 is the time  to move a bit out of our comfort zones to engage in actions. What will your role be? 
 
 
