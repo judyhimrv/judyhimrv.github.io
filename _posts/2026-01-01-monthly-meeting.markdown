@@ -1,6 +1,6 @@
 ---
 title: Next IMRV  Meeting
-date: 2025-03-09 20:44:00 -04:00
+date: 2026-01-01 20:44:00 -05:00
 categories:
 - event
 is featured: true
