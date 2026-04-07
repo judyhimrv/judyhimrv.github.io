@@ -7,4 +7,4 @@ main-image: "/uploads/waitsfieldrallywide.jpg"
 
 ### Over 500 folks lined Rte 100 in Waitsfield VT for our Indivisible Mad River Valley MLK3 rally, including Elvis.
   
-![waitsfieldrally3.jpg](/uploads/waitsfieldrally3.jpg)
+![waitsfieldrally3.jpg](/uploads/waitsfieldrally3.jpg)![waitsfieldelvisking.jpg](/uploads/waitsfieldelvisking.jpg)![waitsfieldalice.jpg](/uploads/waitsfieldalice.jpg)![waitsfieldrally2.jpg](/uploads/waitsfieldrally2.jpg)![waitsfieldpeaceopie2.jpg](/uploads/waitsfieldpeaceopie2.jpg)
