@@ -1,5 +1,5 @@
 ---
-title: 'Beyond Protests:  What More Can You Do?'
+title: 'Beyond Protests:  What More Can You Do?  Lanes of Engagement'
 date: 2025-06-17 21:15:00 -04:00
 categories:
 - action
@@ -7,8 +7,20 @@ is featured: false
 main-image: "/uploads/aofc-logo-HD-new.png"
 ---
 
-Resistance is multi-faceted: protests are just one piece.  Please consider taking action in other ways as well.  Jen Hoffman has a wonderful newsletter that comes out weekly with a checklist as well as wins for the week.  It is worth subscribing. 
+Resistance is multi-faceted: protests are just one piece.  Please consider taking action in other ways as well.  Check out IMRV options in a variety of areas we've defined as our 'lanes of engagement' and decide what role you'd like to play.
 
-### [Americans of Conscience Weekly Checklist](https://americansofconscience.com/06-13-2025/?fbclid=IwZXh0bgNhZW0CMTEAYnJpZBExNUQ5RFNBTmNnNHVpd2FYWgEeDab8QD3OC2xtejJ_hALNMnZUqe8d_bntNaRpddGdDHOZdSitTqiOUI7mJMg_aem_m6upeqIq1r57I19W9HwVTw)
+### January 2026 Lanes of Engagement
 
-<a href="https://americansofconscience.com/06-13-2025/?fbclid=IwZXh0bgNhZW0CMTEAYnJpZBExNUQ5RFNBTmNnNHVpd2FYWgEeDab8QD3OC2xtejJ_hALNMnZUqe8d_bntNaRpddGdDHOZdSitTqiOUI7mJMg_aem_m6upeqIq1r57I19W9HwVT" target="_blank">Test</a>
+* Voter Protection | Get Out the Vote: Phonebanking; text banking; letter writing; canvassing; voter registration; postcarding.
+
+* Protests & Rallies: Participating in protests and economic actions (national, state, or local); visibility actions.
+
+* Shaping Laws & Policy: Calling/writing representatives; Letters to the Editor; Front Porch Forum posts; working with coalitions.
+
+* Strategic Use of Dollars, Goods, and Time: Giving circles; raising funds & good for local, state, and national non-profits that serve people and fight the damage from the MAGA regime.
+
+* Indivisible Community Building: Building community within individual local groups; building the wider community; building connections between local groups in the Vermont Indivisible Network.
+
+### So once more, what will your role be?
+
+If you're not already an IMRV member but are interested in one, or more, of these Lanes, please come to our next meeting or contact us at indivisiblemrv.org.  We'd love to have you join us!
