@@ -1,8 +1,6 @@
 ---
 title: 'Beyond Protests:  What More Can You Do?'
 date: 2025-06-17 21:15:00 -04:00
-categories:
-- sugar
 is featured: true
 main-image: "/uploads/weneedyou.jpg"
 ---
