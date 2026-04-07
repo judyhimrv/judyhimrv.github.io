@@ -5,8 +5,8 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/imrvlogo.jpg"
-event-start-date: 2026-04-06 16:30:00 -04:00
-event-end-date: 2026-04-06 18:00:00 -04:00
+event-start-date: 2026-05-04 16:30:00 -04:00
+event-end-date: 2026-05-04 18:00:00 -04:00
 Location: " Village Meeting House in the Waitsfield United Church  "
 ---
 
