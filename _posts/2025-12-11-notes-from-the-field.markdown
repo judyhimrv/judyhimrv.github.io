@@ -4,7 +4,7 @@ date: 2025-12-11 14:18:00 -05:00
 published: false
 categories:
 - action
-is featured: true
+is featured: false
 main-image: "/uploads/fieldandbarn.jpg"
 ---
 
