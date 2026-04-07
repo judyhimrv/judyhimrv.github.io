@@ -1,9 +1,10 @@
 ---
 title: Waitsfield No Kings Day Rally - March 28
 date: 2026-03-11 10:32:00 -04:00
+published: false
 categories:
 - action
-is featured: true
+is featured: false
 main-image: "/uploads/No%20Kingsalimmer.jpeg"
 ---
 
