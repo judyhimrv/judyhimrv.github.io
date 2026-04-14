@@ -10,7 +10,7 @@ event-end-date: 2026-05-04 18:00:00 -04:00
 Location: " Village Meeting House in the Waitsfield United Church  "
 ---
 
-Regular monthly meetings are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.  [Sign up HERE!](www.mobilize.us/indivisiblemadrivervalley/event/874426/?emci=495dcd1a-1734-f111-8ef2-000d3a14b640&emdi=7ee54337-1737-f111-8ef2-000d3a14b640&ceid=2500793)
+Regular monthly meetings are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.  [Sign up HERE!](https://www.mobilize.us/indivisiblemadrivervalley/event/874426/?emci=495dcd1a-1734-f111-8ef2-000d3a14b640&emdi=7ee54337-1737-f111-8ef2-000d3a14b640&ceid=2500793)
 
 ### Our lanes of engagement are operational! 
 
