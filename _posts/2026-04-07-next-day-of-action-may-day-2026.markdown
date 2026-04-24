@@ -4,7 +4,6 @@ date: 2026-04-07 17:05:00 -04:00
 categories:
 - action
 is featured: true
-main-image: "/uploads/maydayfull.png"
 ---
 
 ### This May Day, it’s Workers Over Billionaires.  No School. No Work. No Shopping.
