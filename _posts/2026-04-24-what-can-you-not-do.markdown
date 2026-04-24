@@ -1,6 +1,9 @@
 ---
 title: May 1st - What Can You NOT Do?
 date: 2026-04-24 11:39:00 -04:00
+categories:
+- action
+is featured: true
 ---
 
 
@@ -15,7 +18,7 @@ First engage in the disruption, then join a May Day gathering to demand:
 * Expand democracy, not corporate power. 
 * Defend free and fair elections not a rigged disaster.
 
-Why Take Action on May Day?
+### Why Take Action on May Day?
 
 We want our tax dollars to go to schools and housing, not to sending federal agents into our cities to attack and kill our neighbors. No one should live under ICE violence or militarized occupation, period. Our tax dollars should fund stability and care, not occupation and repression.
 
