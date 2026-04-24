@@ -8,7 +8,7 @@ main-image: "/uploads/maydayfull.png"
 ---
 
 
-### NO School NO Work NO Shopping
+### School? NO Work? NO Shopping? NO
 
 May 1 - We’re gearing up for the nationwide day of economic disruption on May Day.  Thousands of organizations across the country are calling for this day of disruption to protest the violent billionaire takeover of our country and to put working families first.  Because when the billionaires break every rule, it’s going to take more than a rally to stop them. 
 
