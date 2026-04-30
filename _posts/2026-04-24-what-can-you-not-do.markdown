@@ -31,4 +31,4 @@ Organized people are the only force that has ever stopped authoritarian takeover
 
 ### After you flex those economic muscles, join a gathering.  More may be coming, and right now we know about this [action in Williston.](https://actionnetwork.org/events/may-day-solidarity-march-rally-picnic?emci=495dcd1a-1734-f111-8ef2-000d3a14b640&emdi=7ee54337-1737-f111-8ef2-000d3a14b640&ceid=2500793) 
 
-### If you can't NOT do it all, Not do what you can!
+### If you can't NOT do it all, NOT do what you can!
