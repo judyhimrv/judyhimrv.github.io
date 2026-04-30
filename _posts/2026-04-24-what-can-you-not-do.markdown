@@ -30,3 +30,5 @@ The Corporations and the ultra-rich have rigged the system and it won’t get un
 Organized people are the only force that has ever stopped authoritarian takeovers and changed the rules to work for working people. Those who profit from a rigged system will not voluntarily give it up. When working people move together, we can defend our communities, protect our rights, and force the government to put our families over their fortunes.
 
 ### After you flex those economic muscles, join a gathering.  More may be coming, and right now we know about this [action in Williston.](https://actionnetwork.org/events/may-day-solidarity-march-rally-picnic?emci=495dcd1a-1734-f111-8ef2-000d3a14b640&emdi=7ee54337-1737-f111-8ef2-000d3a14b640&ceid=2500793) 
+
+### If you can't NOT do it all, Not do what you can!
