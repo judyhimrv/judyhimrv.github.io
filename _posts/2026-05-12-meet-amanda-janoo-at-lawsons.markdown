@@ -1,6 +1,7 @@
 ---
 title: Meet Amanda Janoo at Lawson's
 date: 2026-05-12 17:58:00 -04:00
+is featured: true
 ---
 
 Amanda Janoo will be in the Mad River Valley to get to know our community and talk about her campaign for Governor.
