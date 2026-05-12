@@ -1,6 +1,7 @@
 ---
 title: Next Day of Action - May Day 2026
 date: 2026-04-07 17:05:00 -04:00
+published: false
 categories:
 - action
 is featured: true
