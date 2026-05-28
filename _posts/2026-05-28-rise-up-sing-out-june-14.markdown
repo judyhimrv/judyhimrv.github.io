@@ -16,4 +16,4 @@ So wherever you are, you can sing along, find inspiration in the performances, b
 
 ### Interested in hosting a watch party?
 
-Want IMRV to spread the word, email us at indivisiblemrv@gmail.com.
+Want IMRV to spread the word, [email us](indivisiblemrv@gmail.com).
