@@ -12,7 +12,7 @@ Location: " Village Meeting House in the Waitsfield United Church  "
 
 Regular monthly meetings are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.  [Sign up HERE!](https://www.mobilize.us/indivisiblemadrivervalley/event/874427/?emci=c12b70a1-c14b-f111-8ef2-000d3a14b640&emdi=da1fa3ae-1c4d-f111-8ef2-000d3a14b640&ceid=2500793)
 
-Our June meeting will include a quick intro from Tim Ashe, who is running for Vermont Auditor as well as updates from our lanes of engagement.  Indivisible National is promoting a June 14th watch party.
+Our June meeting will include a quick intro from Tim Ashe, who is running for Vermont Auditor as well as updates from our lanes of engagement.
 
 ### Our lanes of engagement are operational! 
 
