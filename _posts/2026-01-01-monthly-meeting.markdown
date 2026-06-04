@@ -1,38 +1,18 @@
 ---
-title: Next IMRV  Meeting - Join Our Lanes of  Engagement
+title: Next IMRV  Meeting - Join Us!
 date: 2026-01-01 20:44:00 -05:00
 categories:
 - event
 is featured: true
 main-image: "/uploads/imrvlogo.jpg"
-event-start-date: 2026-06-01 16:30:00 -04:00
-event-end-date: 2026-06-01 18:00:00 -04:00
+event-start-date: 2026-07-06 16:30:00 -04:00
+event-end-date: 2026-07-06 18:00:00 -04:00
 Location: " Village Meeting House in the Waitsfield United Church  "
 ---
 
-Regular monthly meetings are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.  [Sign up HERE!](https://www.mobilize.us/indivisiblemadrivervalley/event/874427/?emci=c12b70a1-c14b-f111-8ef2-000d3a14b640&emdi=da1fa3ae-1c4d-f111-8ef2-000d3a14b640&ceid=2500793)
+Regular monthly meetings are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.  
 
-Our June meeting will include a quick intro from Tim Ashe, who is running for Vermont Auditor as well as updates from our lanes of engagement.
-
-### Our lanes of engagement are operational! 
-
-Remember, all lanes lead to the midterms! We don’t need to remind anyone that democracy is in peril; what we need to do is engage in as much as we can in order to rebuild democracy. 2026 is the time  to move a bit out of our comfort zones to engage in actions. What will your role be? 
-
-### January 2026 Lanes of Engagement
-
-* Voter Protection: Get Out the Vote: Phonebanking; text banking; letter writing; canvassing; voter registration; postcarding.
-
-* Protests & Rallies: Participating in protests and economic actions (national, state, or local); visibility actions.
-
-* Shaping Laws & Policy: Calling/writing representatives; Letters to the Editor; Front Porch Forum posts; working with coalitions.
-
-* Strategic Use of Dollars, Goods, and Time: Giving circles; raising funds & good for local, state, and national non-profits that serve people and fight the damage from the MAGA regime.
-
-* Indivisible Community Building: Building community within individual local groups; building the wider community; building connections between local groups in the Vermont Indivisible Network.
-
-### So once more, what will your role be?
-
-If you're not already an IMRV member but are interested in one, or more, of these Lanes, please come to our next meeting or contact us at indivisiblemrv.org.  We'd love to have you join us!
+Indivisible Mad River Valley (IMRV)is a group of concerned citizens in zCentral Vermont, organizing and taking action on a variety of statewide and national issues.  No prior experience with activism or organizing is required to join.  
 
 
 
