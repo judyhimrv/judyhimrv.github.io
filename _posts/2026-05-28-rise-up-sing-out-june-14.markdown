@@ -4,6 +4,7 @@ date: 2026-05-28 16:16:00 -04:00
 categories:
 - action
 is featured: true
+main-image: "/uploads/singout.jpg"
 ---
 
 ### On June 14, the Committee for the First Amendment (CFA) is hosting Rise Up, Sing Out: 
