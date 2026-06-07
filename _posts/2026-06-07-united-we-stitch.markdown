@@ -1,5 +1,5 @@
 ---
-title: United we Stitch
+title: United We Stitch
 date: 2026-06-07 10:24:00 -04:00
 categories:
 - action
