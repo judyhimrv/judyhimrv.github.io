@@ -4,6 +4,7 @@ date: 2026-06-07 10:24:00 -04:00
 categories:
 - action
 is featured: true
+main-image: "/uploads/curiosity.jpg"
 ---
 
 ### Join us in creating unity through art.
