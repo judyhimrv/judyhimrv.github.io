@@ -1,6 +1,7 @@
 ---
 title: Get to Know More About IMRV - June 22
 date: 2026-06-08 11:37:00 -04:00
+is featured: true
 ---
 
 * ### Have you been reading our newsletters 
