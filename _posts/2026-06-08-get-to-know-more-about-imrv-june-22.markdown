@@ -14,7 +14,7 @@ main-image: "/uploads/imrvlogo.jpg"
 **Are you new to Indivisible** and want to learn more?
  
 
-### Join us on Monday, June 22, 5:30-6:30 at Lawson's (Waitsfield) for an informal gathering.  
+### Join us on Monday, June 22, 5:30-6:30 at [Lawson's](https://www.lawsonsfinest.com/taproom/?utm_source=google-cpc&utm_medium=google-cpc&utm_campaign=google-cpc&gad_source=1&gad_campaignid=21899097081&gbraid=0AAAAA9uHrQzmhSvi3QjCSbrFQshSYwm7I&gclid=Cj0KCQjw0JnRBhDJARIsALobnXa4KpXlSfzpioXfpFrXprbI2VMkZoL_fLlm5Yb839rRBsLwQ9H9C-AaAhm5EALw_wcB) for an informal gathering.  
 
 Our leadership team and several other long-time IMRVers will be on hand - to chat, to answer questions, and to share experiences.
 
