@@ -1,10 +1,13 @@
 ---
-title: Rise Up, Sing Out - June 14
+title: Rise Up, Sing Out
 date: 2026-05-28 16:16:00 -04:00
 categories:
 - action
+- event
 is featured: true
 main-image: "/uploads/singout.jpg"
+event-start-date: 2026-06-14 19:30:00 -04:00
+event-end-date: 2026-06-14 20:30:00 -04:00
 ---
 
 ### On June 14, the Committee for the First Amendment (CFA) is hosting Rise Up, Sing Out: 
