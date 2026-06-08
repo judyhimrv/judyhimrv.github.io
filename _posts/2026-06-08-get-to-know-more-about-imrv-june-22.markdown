@@ -6,11 +6,11 @@ categories:
 is featured: true
 ---
 
-* **Have you been reading our newsletters** but haven't had the chance to jump into actions?
+**Have you been reading our newsletters** but haven't had the chance to jump into actions?
 
-* **Does our mission resonate** with you but you can't make our meeting time?
+**Does our mission resonate** with you but you can't make our meeting time?
 
-* Are you **new to Indivisible** and want to learn more?
+**Are you new to Indivisible** and want to learn more?
  
 
 ### Join us on Monday, June 22, 5:30-6:30 at Lawson's (Waitsfield) for an informal gathering.  
