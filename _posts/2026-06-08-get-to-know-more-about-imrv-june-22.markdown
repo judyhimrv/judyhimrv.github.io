@@ -4,6 +4,7 @@ date: 2026-06-08 11:37:00 -04:00
 categories:
 - action
 is featured: true
+main-image: "/uploads/imrvlogo.jpg"
 ---
 
 **Have you been reading our newsletters** but haven't had the chance to jump into actions?
