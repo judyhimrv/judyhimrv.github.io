@@ -1,10 +1,13 @@
 ---
-title: United We Stitch - June 21
+title: United We Stitch
 date: 2026-06-07 10:24:00 -04:00
 categories:
 - action
 is featured: true
 main-image: "/uploads/curiosity.jpg"
+event-start-date: 2026-06-21 13:00:00 -04:00
+event-end-date: 2026-06-08 16:00:00 -04:00
+Location: Moretown Library
 ---
 
 ### Join us in creating unity through art.
