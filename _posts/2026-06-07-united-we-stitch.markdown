@@ -1,7 +1,6 @@
 ---
 title: United We Stitch
 date: 2026-06-07 10:24:00 -04:00
-published: false
 categories:
 - action
 is featured: true
