@@ -1,6 +1,7 @@
 ---
 title: Rise Up, Sing Out
 date: 2026-05-28 16:16:00 -04:00
+published: false
 categories:
 - action
 is featured: true
