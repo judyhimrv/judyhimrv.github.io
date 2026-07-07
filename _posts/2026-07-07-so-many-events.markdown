@@ -19,4 +19,4 @@ main-image: "/uploads/weneedyou.jpg"
 * Singing
 * Stitching
 
-### You might wonder how you can possibly keep track of everything, but it's easy.  Just click the Calendar link at the top of the page for regular updates on all our events.
+### You might wonder how you can possibly keep track of everything, but it's easy.  Just click the Calendar link at the top of the page and look for the full calendar to see regular updates on all our events.
