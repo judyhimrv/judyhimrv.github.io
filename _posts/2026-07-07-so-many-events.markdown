@@ -1,10 +1,10 @@
 ---
 title: So Many Events
 date: 2026-07-07 11:23:00 -04:00
-published: false
 categories:
 - action
 is featured: true
+main-image: "/uploads/weneedyou.jpg"
 ---
 
 ### And so many ways for you to get involved.
