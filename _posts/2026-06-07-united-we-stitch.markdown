@@ -9,7 +9,7 @@ main-image: "/uploads/curiosity.jpg"
 
 ### Next workshop...
 
-July 19, 1:30-4:30 at the Warren United Church.  We'll have ideas for your panel and time to get started working on it.
+July 19, 1:30-4:30 at the Waitsfield United Church.  We'll have ideas for your panel and time to get started working on it.
   
 ### If you miss this event...
  
