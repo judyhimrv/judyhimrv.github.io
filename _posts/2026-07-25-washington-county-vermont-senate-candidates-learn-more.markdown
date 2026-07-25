@@ -5,6 +5,7 @@ published: false
 categories:
 - action
 is featured: true
+main-image: "/uploads/yourvoteyourvoice.jpg"
 ---
 
 ### Did you know there are 4 people running for 3 Vermont Senate seats in Washington County (that's us!)?  
