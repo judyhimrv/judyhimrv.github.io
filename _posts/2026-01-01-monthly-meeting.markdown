@@ -14,6 +14,8 @@ Regular monthly meetings are held the first Monday of every month, at 4:30 pm, V
 
 Indivisible Mad River Valley (IMRV)is a group of concerned citizens in zCentral Vermont, organizing and taking action on a variety of statewide and national issues.  No prior experience with activism or organizing is required to join. 
 
+### [SIGN UP HERE!](https://www.mobilize.us/indivisiblemadrivervalley/event/874429/?emci=addf043c-7d80-f111-b337-000d3a1558ce&emdi=531907ba-2784-f111-b337-000d3a1558ce&ceid=2500793)
+
 
 
 
