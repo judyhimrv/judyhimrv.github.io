@@ -1,6 +1,7 @@
 ---
 title: Washington County Vermont Senate Candidates - Learn More
 date: 2026-07-25 16:41:00 -04:00
+published: false
 categories:
 - action
 is featured: true
