@@ -10,6 +10,3 @@ main-image: "/uploads/printable-clock-face.jpeg"
 
 <!-- Begin 270towin.com 2028 Presidential Election Countdown Widget -->
 <iframe src="https://www.270towin.com/election-countdown-clock/midterm500.php" width="500" height="350" border="0" frameBorder="0">
-Browser not supported. Visit <a href="https://www.270towin.com/">www.270towin.com</a>
-</iframe>
-<!-- End 270towin.com 2028 Presidential Election Countdown Widget -->
