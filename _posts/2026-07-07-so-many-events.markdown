@@ -3,7 +3,7 @@ title: So Many Events
 date: 2026-07-07 11:23:00 -04:00
 categories:
 - action
-is featured: true
+is featured: false
 main-image: "/uploads/weneedyou.jpg"
 ---
 
