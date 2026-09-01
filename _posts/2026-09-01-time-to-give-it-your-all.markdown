@@ -9,3 +9,15 @@ is featured: true
 
 <!-- Begin 270towin.com 2028 Presidential Election Countdown Widget -->
 <iframe src="https://www.270towin.com/election-countdown-clock/midterm500.php" width="500" height="350" border="0" frameBorder="0">
+
+* Postcarding
+* Phone banking
+* Text banking
+* Canvassing
+* Giving Circle
+* Protesting
+* Socializing
+* Singing
+* Stitching
+
+### Click the Calendar link at the top of the page and find the full calendar to see regular updates with full info on all the possibilities.
