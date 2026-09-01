@@ -1,6 +1,8 @@
 ---
 title: Time to Give It Your All
 date: 2026-09-01 12:04:00 -04:00
+categories:
+- action
 is featured: true
 ---
 
