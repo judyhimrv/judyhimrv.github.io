@@ -10,6 +10,8 @@ is featured: true
 <!-- Begin 270towin.com 2028 Presidential Election Countdown Widget -->
 <iframe src="https://www.270towin.com/election-countdown-clock/midterm500.php" width="500" height="350" border="0" frameBorder="0">
 
+### What can you do?
+
 * Postcarding
 * Phone banking
 * Text banking
