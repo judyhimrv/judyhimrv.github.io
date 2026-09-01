@@ -2,6 +2,7 @@
 title: Time to Give It Your All
 date: 2026-09-01 12:04:00 -04:00
 is featured: true
+main-image: "/uploads/printable-clock-face.jpeg"
 ---
 
 
