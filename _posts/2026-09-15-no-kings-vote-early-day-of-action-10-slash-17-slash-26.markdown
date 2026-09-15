@@ -1,7 +1,6 @@
 ---
 title: 'No Kings:  Vote Early Day of Action 10/17/26'
 date: 2026-09-15 08:46:00 -04:00
-published: false
 categories:
 - action
 is featured: true
