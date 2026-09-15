@@ -6,6 +6,5 @@ categories:
 is featured: true
 ---
 
-### Indivisible is calling for a No Kings: Vote Early day of action on October 17, 2026.  
+### Indivisible is calling for a [No Kings: Vote Early](https://www.nokings.org/?SQF_SOURCE=indivisible&SQF_MEDIUM=web&utm_source=substack&utm_medium=email) day of action on October 17, 2026.  
 
-### [No Kings: Vote Early](https://www.nokings.org/?SQF_SOURCE=indivisible&SQF_MEDIUM=web&utm_source=substack&utm_medium=email).
