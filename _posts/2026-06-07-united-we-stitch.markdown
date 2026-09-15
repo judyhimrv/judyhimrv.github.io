@@ -3,19 +3,11 @@ title: United We Stitch
 date: 2026-06-07 10:24:00 -04:00
 categories:
 - action
-is featured: false
+is featured: true
 main-image: "/uploads/curiosity.jpg"
 ---
 
-### Next workshop...
-
-Stay tuned for our next workshop. 
-  
-### If you miss this event...
- 
-Or if you want to create a panel on your own for our September 20th United We Stitch-Vermont Display at the Statehouse in Montpelier, fret not.  There's still plenty of time to join us and get started.  Use this link to sign up yourself or to sign up friends, family, groups or community organizations you think might want to be a part of this big idea:
-
-### [United We Stitch - Imagining the Future of Democracy](https://docs.google.com/forms/d/e/1FAIpQLSeEsvhkBIZiA-eBlhftutqv2TO6SHnA_ZS8V038-7oV4LaRow/viewform)
+### Our United We Stitch panels will be on display this Sunday, September 20th at the Statehouse in Montpelier, from 10 am - 4 pm. Please come by and see some of our hopes and dreams for the future of Democracy.
 
 ![unitedwestitchcropped.jpg](/uploads/unitedwestitchcropped.jpg)
 
