@@ -1,13 +1,15 @@
 ---
-title: United We Stitch - Come See Our Panels
+title: 'FLASH ALERT: PANEL DISPLAY MOVED UP TO TOMORROW - SATURDAY, SEPTEMBER 19th,
+  10:00 AM – 4:00 PM'
 date: 2026-09-16 10:24:00 -04:00
+published: false
 categories:
 - action
 is featured: true
 main-image: "/uploads/curiosity.jpg"
 ---
 
-### Our United We Stitch panels will be on display this Sunday, September 20th, 10 am - 4 pm, on the Courthouse Lawn adjacent to the Statehouse in Montpelier.  Please come by and see some of our hopes and dreams for the future of Democracy.
+### We are quickly pivoting to showing the United We Stitch – Vermont Panels on Saturday, September 19th, 10:00 AM – 4:00 PM due to the firm forecast for rain on Sunday.  We know this will require many of you to change attendance and pick up plans on a dime, but the opportunity to display, with the Flynn Theater performances and the Capitol City Farmer’s Market, in good weather, make Saturday a win to maximize the numbers of people who will see our work!
 
 This grassroots effort invited individuals, groups and organizations to create cloth panels that answered these simple but powerful questions: 
 
