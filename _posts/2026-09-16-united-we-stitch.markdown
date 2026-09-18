@@ -14,9 +14,8 @@ main-image: "/uploads/curiosity.jpg"
 ### SATURDAY, September 19th, 10 am - 4 pm
 
 53 art pieces to razzle dazzle you.  They are nothing less than stupendous. They will uplift you, give you pause, make you cry and give you hope.  We're not exaggerating when we say each one is unique, original, and so worth seeing!
- 
 
-⬇️ And we will be in great company!  ⬇️ 
+And we will be in great company!  
 
 
 
