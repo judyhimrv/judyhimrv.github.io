@@ -1,7 +1,7 @@
 ---
 title: Warren July 4th Parade 2026 - Flip the House
 date: 2026-07-07 10:43:00 -04:00
-is featured: true
+is featured: false
 main-image: "/uploads/warrenparadedrummersskinny.jpeg"
 ---
 
