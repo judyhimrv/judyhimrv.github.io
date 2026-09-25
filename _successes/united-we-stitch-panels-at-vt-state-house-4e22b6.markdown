@@ -1,5 +1,5 @@
 ---
-title: United We Stitch Panels at the VT State House
+title: United We Stitch Panels at the VT State House September 19, 2026
 date: 2026-09-24 20:34:00 -04:00
 is featured: true
 main-image: "/uploads/securityguardduplicate.jpeg"
