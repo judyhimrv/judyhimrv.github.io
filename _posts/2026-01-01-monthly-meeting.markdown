@@ -5,17 +5,17 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/imrvlogo.jpg"
-event-start-date: 2026-10-05 16:30:00 -04:00
-event-end-date: 2026-10-05 18:00:00 -04:00
+event-start-date: 2026-11-09 16:30:00 -05:00
+event-end-date: 2026-11-09 18:00:00 -05:00
 Location: " Village Meeting House in the Waitsfield United Church  "
 ---
+
+### Stay tuned for location change and sign up link.
 
 Regular monthly meetings are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.  
 
 Indivisible Mad River Valley (IMRV)is a group of concerned citizens in zCentral Vermont, organizing and taking action on a variety of statewide and national issues.  No prior experience with activism or organizing is required to join. 
 
-### [SIGN UP HERE!](https://www.mobilize.us/indivisiblemadrivervalley/event/874429/?emci=addf043c-7d80-f111-b337-000d3a1558ce&emdi=531907ba-2784-f111-b337-000d3a1558ce&ceid=2500793)
-
-
+### SIGN UP HERE!
 
 
