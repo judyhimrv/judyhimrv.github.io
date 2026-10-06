@@ -7,7 +7,9 @@ is featured: true
 main-image: "/uploads/imrvlogo.jpg"
 event-start-date: 2026-11-09 16:30:00 -05:00
 event-end-date: 2026-11-09 18:00:00 -05:00
-Location: " Village Meeting House in the Waitsfield United Church  "
+Location: 'Stay tuned for location change and sign up link.
+
+'
 ---
 
 ### Stay tuned for location change and sign up link.
