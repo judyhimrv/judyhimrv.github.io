@@ -41,16 +41,16 @@ NK4 SIGNUP is coming! We hope you can join us for an hour of Visibility with you
 
 You can do a simple VOTE sign and embellish with stars and check marks and color, etc, Google: FUN VOTE SIGNS for ideas.
 
-Your Vote Matters
-Vote Early, Vote Securely
-Vote Early, Skip the Lines
-Sign/Date/Return your BALLOTS
-Signed, Sealed, Delivered! 
-Thank you for being an EARLY VOTER
-Don’t Forget to VOTE
-GO VOTE
-VOTE 866OURVOTE.ORG
-Your Vote = Your Voice
-Or gather three of your friends to each hold a letter in VOTE 
+* Your Vote Matters
+* Vote Early, Vote Securely
+* Vote Early, Skip the Lines
+* Sign/Date/Return your BALLOTS
+* Signed, Sealed, Delivered! 
+* Thank you for being an EARLY VOTER
+* Don’t Forget to VOTE
+* GO VOTE
+* VOTE 866OURVOTE.ORG
+* Your Vote = Your Voice
+* Or gather three of your friends to each hold a letter spelling out VOTE 
 
 ### See you out there!
