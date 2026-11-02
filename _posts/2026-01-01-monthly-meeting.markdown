@@ -15,7 +15,7 @@ RSVP-link: https://www.mobilize.us/indivisiblemadrivervalley/event/874432/?refer
 
 Pizza on us, drinks on you. Say thanks to afterthoughts for their support. Give thanks to the Lane Leaders. 
 
-### [JOIN US ON THE 9TH](https://www.mobilize.us/indivisiblemadrivervalley/event/874432/?referring_vol=4295329&share_context=dashboard-event-details&sharer_role=2)
+**[JOIN US ON THE 9TH](https://www.mobilize.us/indivisiblemadrivervalley/event/874432/?referring_vol=4295329&share_context=dashboard-event-details&sharer_role=2)**
 
 Regular monthly meetings will return next month and are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.  
 
