@@ -1,5 +1,5 @@
 ---
-title: What if?
+title: What If?
 date: 2026-11-02 13:53:00 -05:00
 categories:
 - action
