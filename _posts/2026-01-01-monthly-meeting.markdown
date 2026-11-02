@@ -8,7 +8,7 @@ main-image: "/uploads/imrvlogo.jpg"
 event-start-date: 2026-11-09 16:30:00 -05:00
 event-end-date: 2026-11-09 19:00:00 -05:00
 Location: "Location changed to afterthoughts \n"
-RSVP-link: "(https://www.mobilize.us/indivisiblemadrivervalley/event/874432/?referring_vol=4295329&share_context=dashboard-event-details&sharer_role=2)"
+RSVP-link: https://www.mobilize.us/indivisiblemadrivervalley/event/874432/?referring_vol=4295329&share_context=dashboard-event-details&sharer_role=2
 ---
 
 **Celebrate all of us at afterthoughts on 11/9 from 4:30 to 7:00!** 
