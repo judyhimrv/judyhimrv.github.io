@@ -11,7 +11,7 @@ Location: "Location changed to afterthoughts \n"
 RSVP-link: "(https://www.mobilize.us/indivisiblemadrivervalley/event/874432/?referring_vol=4295329&share_context=dashboard-event-details&sharer_role=2)"
 ---
 
-### Location change and sign up link.
+### Location change
 
 Celebrate all of us at afterthoughts on 11/9 from 4:30 to 7:00! Pizza on us, drinks on you. Say thanks to afterthoughts for their support. Give thanks to the Lane Leaders. 
 
