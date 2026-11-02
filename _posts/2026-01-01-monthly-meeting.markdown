@@ -11,7 +11,9 @@ Location: "Location changed to afterthoughts \n"
 RSVP-link: "(https://www.mobilize.us/indivisiblemadrivervalley/event/874432/?referring_vol=4295329&share_context=dashboard-event-details&sharer_role=2)"
 ---
 
-Celebrate all of us at afterthoughts on 11/9 from 4:30 to 7:00! Pizza on us, drinks on you. Say thanks to afterthoughts for their support. Give thanks to the Lane Leaders. 
+**Celebrate all of us at afterthoughts on 11/9 from 4:30 to 7:00!** 
+
+Pizza on us, drinks on you. Say thanks to afterthoughts for their support. Give thanks to the Lane Leaders. 
 
 Regular monthly meetings will return next month and are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.  
 
