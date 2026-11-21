@@ -5,7 +5,7 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/imrvlogo.jpg"
-Location: "Note location change to afterthoughts \n"
+Location: "\n"
 ---
 
 ### We'll see you in the New Year!
