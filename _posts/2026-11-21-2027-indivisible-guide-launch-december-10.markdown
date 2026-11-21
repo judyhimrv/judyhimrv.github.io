@@ -3,6 +3,7 @@ title: 2027 Indivisible Guide Launch — December 10
 date: 2026-11-21 14:37:00 -05:00
 categories:
 - action
+is featured: true
 ---
 
 
