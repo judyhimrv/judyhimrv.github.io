@@ -1,21 +1,14 @@
 ---
-title: Next IMRV  Meeting - Join Us at afterthoughts
+title: Next IMRV  Meeting  - NO Meeting for December
 date: 2026-01-01 20:44:00 -05:00
 categories:
 - event
 is featured: true
 main-image: "/uploads/imrvlogo.jpg"
-event-start-date: 2026-11-09 16:30:00 -05:00
-event-end-date: 2026-11-09 19:00:00 -05:00
 Location: "Note location change to afterthoughts \n"
-RSVP-link: https://www.mobilize.us/indivisiblemadrivervalley/event/874432/?referring_vol=4295329&share_context=dashboard-event-details&sharer_role=2
 ---
 
-**Celebrate all of us at afterthoughts on 11/9 from 4:30 to 7:00!** 
-
-Pizza on us, drinks on you. Say thanks to afterthoughts for their support. Give thanks to the Lane Leaders. 
-
-**[JOIN US ON THE 9TH](https://www.mobilize.us/indivisiblemadrivervalley/event/874432/?referring_vol=4295329&share_context=dashboard-event-details&sharer_role=2)**
+### We'll see you in the New Year!
 
 Regular monthly meetings will return next month and are held the first Monday of every month, at 4:30 pm, Village Meeting House in the Waitsfield United Church.  
 
