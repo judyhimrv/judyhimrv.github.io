@@ -14,4 +14,6 @@ call-script-text: "Hello, I’m a constituent from [part of state], and I’m ca
 
 
 
-If you prefer, you can [send an email](https://act.indivisible.org/sign/tell-democrats-no-schumer-coronation/?emci=bd441002-59e0-f111-91f0-000d3a18e244&emdi=f51d22e5-ace1-f111-91f0-000d3a18e244&ceid=2500793).
+Congressional Switchboard: (202) 224-3121
+
+Or if you prefer, you can [send an email](https://act.indivisible.org/sign/tell-democrats-no-schumer-coronation/?emci=bd441002-59e0-f111-91f0-000d3a18e244&emdi=f51d22e5-ace1-f111-91f0-000d3a18e244&ceid=2500793).
