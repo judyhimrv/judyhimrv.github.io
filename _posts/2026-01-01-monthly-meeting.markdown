@@ -5,6 +5,8 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/imrvlogo.jpg"
+event-start-date: 2026-12-01 00:00:00 -05:00
+event-end-date: 2026-12-01 00:00:00 -05:00
 Location: "\n"
 ---
 
